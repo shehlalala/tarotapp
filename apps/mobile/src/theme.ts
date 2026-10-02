@@ -7,6 +7,7 @@ export const colors = {
   surfaceRaised: '#211A3A',
   border: '#3A2F5C',
   gold: '#D8B76A',
+  goldLight: '#F3E2AE',
   goldMuted: '#8C7744',
   text: '#F1EADB',
   textMuted: '#A79EB8',

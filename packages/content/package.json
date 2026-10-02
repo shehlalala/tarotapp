@@ -15,7 +15,8 @@
     "validate": "node scripts/validate.ts",
     "placeholders": "node scripts/generate-placeholders.ts",
     "typecheck": "tsc --noEmit -p .",
-    "fetch-art": "node scripts/fetch-art.ts"
+    "fetch-art": "node scripts/fetch-art.ts",
+    "render-art": "node scripts/render-art.ts"
   },
   "devDependencies": {
     "sharp": "^0.35.5"

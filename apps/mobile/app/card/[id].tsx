@@ -43,7 +43,9 @@ export default function CardDetailScreen() {
 
           {position ? (
             <Section title={t('detail.inPosition', { position: getPositionLabel(position) })}>
-              <Text style={styles.body}>{card.positions[position][orientation].long}</Text>
+              <Text style={styles.body}>
+                {card.positions[position][orientation].long ?? card.positions[position][orientation].short}
+              </Text>
             </Section>
           ) : null}
 
@@ -61,9 +63,11 @@ export default function CardDetailScreen() {
             </View>
           </Section>
 
-          <Section title={t('detail.symbolism')}>
-            <Text style={styles.body}>{card.symbolism}</Text>
-          </Section>
+          {card.symbolism ? (
+            <Section title={t('detail.symbolism')}>
+              <Text style={styles.body}>{card.symbolism}</Text>
+            </Section>
+          ) : null}
         </ScrollView>
       )}
     </SafeAreaView>

@@ -2,1390 +2,1104 @@
   "$schema": "../../../schema/card-text.schema.json",
   "cards": {
     "the-fool": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Fool",
-      "imageAlt": "The Fool tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Fool.",
+      "imageAlt": "The Fool: a young traveler in bright clothes steps toward a cliff edge under a white sun, carrying a small bag and a white rose, with a small white dog at his heels.",
+      "summary": "The Fool is card 0 of the Major Arcana and stands for new beginnings, spontaneity and trust. Upright, it means stepping into the unknown with an open mind, often before every detail is settled. Reversed, it warns of recklessness, naivety or holding back from a fresh start out of fear.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "beginnings",
+          "spontaneity",
+          "trust",
+          "freedom",
+          "adventure"
         ],
         "reversed": [
-          "placeholder"
+          "recklessness",
+          "naivety",
+          "hesitation",
+          "poor judgment",
+          "fear of change"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Fool.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Fool.",
+      "upright": "Upright, The Fool marks the start of a journey. Something new is calling, and the card encourages you to answer it with curiosity rather than a full plan. It favors openness, a light attitude and a willingness to learn as you go. The risk is real, but so is the reward of beginning.",
+      "reversed": "Reversed, The Fool points to a beginning that has gone wrong or never happened. It can mean acting without thinking, ignoring obvious warnings or chasing novelty for its own sake. It can also mean the opposite: staying stuck because the first step feels too uncertain.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Fool.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Fool."
+            "short": "A leap of faith shaped where you are now. You started something without knowing exactly how it would turn out."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Fool.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Fool."
+            "short": "An impulsive choice or a missed opportunity in the past still has consequences you are dealing with."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Fool.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Fool."
+            "short": "You are at a starting line. This is a good moment to try something new and let the plan form along the way."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Fool.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Fool."
+            "short": "You may be rushing ahead without looking, or holding back from a start you actually want. Check which."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Fool.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Fool."
+            "short": "A fresh start is coming. Stay open to an unexpected offer, trip or idea that does not fit your usual path."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Fool.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Fool."
+            "short": "A risk lies ahead that is worth thinking through. Slow down before committing so excitement does not outrun judgment."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Fool.",
-      "faq": [
-        {
-          "question": "What does The Fool mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Fool."
-        },
-        {
-          "question": "Is The Fool a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Fool."
-        },
-        {
-          "question": "What does The Fool mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Fool."
-        }
-      ]
+      }
     },
     "the-magician": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Magician",
-      "imageAlt": "The Magician tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Magician.",
+      "imageAlt": "The Magician: a figure in a red robe raises a wand to the sky and points to the earth, with a cup, sword, pentacle and wand on the table before him and an infinity sign above his head.",
+      "summary": "The Magician is card I of the Major Arcana and represents skill, willpower and turning ideas into action. Upright, it says you already have the tools you need and should use them with focus. Reversed, it points to scattered effort, untapped talent or someone using charm to manipulate.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "skill",
+          "willpower",
+          "resourcefulness",
+          "focus",
+          "manifestation"
         ],
         "reversed": [
-          "placeholder"
+          "manipulation",
+          "scattered energy",
+          "untapped potential",
+          "trickery",
+          "self-doubt"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Magician.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Magician.",
+      "upright": "Upright, The Magician is about capability. The four suit symbols on his table show that every resource is within reach: passion, feeling, thought and material means. The card asks you to concentrate your will and act. Ideas become real here because someone decides to make them real.",
+      "reversed": "Reversed, The Magician suggests that talent is going to waste or being misused. Energy may be spread across too many projects, or confidence may be missing. It can also flag a person, possibly yourself, who uses persuasion to mislead rather than to build.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Magician.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Magician."
+            "short": "You made something happen through your own skill and determination, and that achievement is a foundation you can build on."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Magician.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Magician."
+            "short": "Past plans stalled because effort was scattered, or someone persuaded you of something that turned out to be untrue."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Magician.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Magician."
+            "short": "You have what you need right now. Pick one goal, gather your resources and act with intention."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Magician.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Magician."
+            "short": "You are capable but unfocused. Cut back to one priority, and watch for anyone whose promises sound too polished."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Magician.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Magician."
+            "short": "An opportunity is coming to put your abilities to work. You will be in a strong position to shape the outcome."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Magician.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Magician."
+            "short": "Be careful of plans that depend on appearances. Unless effort is focused, a promising idea may stay just an idea."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Magician.",
-      "faq": [
-        {
-          "question": "What does The Magician mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Magician."
-        },
-        {
-          "question": "Is The Magician a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Magician."
-        },
-        {
-          "question": "What does The Magician mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Magician."
-        }
-      ]
+      }
     },
     "the-high-priestess": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The High Priestess",
-      "imageAlt": "The High Priestess tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The High Priestess.",
+      "imageAlt": "The High Priestess: a woman in blue robes sits between a black pillar marked B and a white pillar marked J, holding a scroll, with a crescent moon at her feet and a veil of pomegranates behind her.",
+      "summary": "The High Priestess is card II of the Major Arcana and stands for intuition, hidden knowledge and the inner voice. Upright, it asks you to pause, listen and trust what you sense beneath the surface. Reversed, it suggests ignored instincts, secrets or a disconnect from your inner life.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "intuition",
+          "mystery",
+          "inner knowledge",
+          "stillness",
+          "the subconscious"
         ],
         "reversed": [
-          "placeholder"
+          "ignored intuition",
+          "secrets",
+          "withdrawal",
+          "confusion",
+          "surface thinking"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The High Priestess.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The High Priestess.",
+      "upright": "Upright, The High Priestess favors quiet understanding over action. Not everything can be learned from facts; some answers come from patience, dreams and gut feeling. The card suggests that information is still hidden, and that waiting and observing will reveal more than pushing for clarity.",
+      "reversed": "Reversed, The High Priestess points to a gap between what you know inside and what you are doing. You may be overriding your instincts, relying too heavily on other people's opinions, or keeping something hidden that wants to come out.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The High Priestess.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The High Priestess."
+            "short": "A quiet instinct guided you well before, even when you could not explain it. That trust in yourself is still useful."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The High Priestess.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The High Priestess."
+            "short": "In the past you ignored an inner warning, or something was kept from you, and the effects are still unfolding."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The High Priestess.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The High Priestess."
+            "short": "Not everything is visible yet. Hold back from big moves and pay attention to your intuition and dreams."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The High Priestess.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The High Priestess."
+            "short": "You are tuning out your own instincts. Make time for quiet, and ask what you already know but have not admitted."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The High Priestess.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The High Priestess."
+            "short": "Insight is on its way. A hidden detail will surface, or your intuition will point clearly toward the right choice."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The High Priestess.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The High Priestess."
+            "short": "A secret may come to light. Rely on your own judgment rather than on gossip or other people's certainty."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The High Priestess.",
-      "faq": [
-        {
-          "question": "What does The High Priestess mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The High Priestess."
-        },
-        {
-          "question": "Is The High Priestess a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The High Priestess."
-        },
-        {
-          "question": "What does The High Priestess mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The High Priestess."
-        }
-      ]
+      }
     },
     "the-empress": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Empress",
-      "imageAlt": "The Empress tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Empress.",
+      "imageAlt": "The Empress: a crowned woman rests on cushions in a field of ripening wheat, holding a scepter, beside a heart-shaped shield bearing the symbol of Venus, with a forest and waterfall behind her.",
+      "summary": "The Empress is card III of the Major Arcana and represents abundance, nurturing and creativity. Upright, it signals growth, comfort and caring for yourself and others, often in relationships, family or creative work. Reversed, it points to neglect, smothering, creative block or dependence on others for security.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "abundance",
+          "nurturing",
+          "fertility",
+          "creativity",
+          "comfort"
         ],
         "reversed": [
-          "placeholder"
+          "creative block",
+          "neglect",
+          "smothering",
+          "dependence",
+          "emptiness"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Empress.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Empress.",
+      "upright": "Upright, The Empress brings growth and plenty. It is a card of tending things so they flourish: a home, a project, a relationship, a body. It encourages pleasure in ordinary comforts and patience with natural timing. Whatever you nurture now is likely to bear fruit.",
+      "reversed": "Reversed, The Empress shows care out of balance. You may be giving so much to others that you run empty, or holding on so tightly that others feel crowded. It can also mean a dry spell in creativity or a lack of support at home.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Empress.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Empress."
+            "short": "A period of care, comfort or creative growth gave you a solid base. Something you nurtured then is still growing."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Empress.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Empress."
+            "short": "Past neglect, overprotection or a lack of nurturing left gaps that you may still be filling."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Empress.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Empress."
+            "short": "This is a fertile time. Look after yourself and the things you are growing, and let them develop at their own pace."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Empress.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Empress."
+            "short": "You are running on empty. Refill your own reserves before giving more, and loosen your grip on what you protect."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Empress.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Empress."
+            "short": "Growth and abundance lie ahead: a creative breakthrough, a more comfortable home or a relationship that deepens."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Empress.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Empress."
+            "short": "Watch for burnout or overdependence. Build security that does not rest entirely on one person or one source."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Empress.",
-      "faq": [
-        {
-          "question": "What does The Empress mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Empress."
-        },
-        {
-          "question": "Is The Empress a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Empress."
-        },
-        {
-          "question": "What does The Empress mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Empress."
-        }
-      ]
+      }
     },
     "the-emperor": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Emperor",
-      "imageAlt": "The Emperor tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Emperor.",
+      "imageAlt": "The Emperor: a bearded ruler in red robes and armor sits on a stone throne carved with ram heads, holding an ankh scepter and an orb, in front of bare mountains.",
+      "summary": "The Emperor is card IV of the Major Arcana and represents structure, authority and stability. Upright, it calls for discipline, clear rules and taking responsibility, often through leadership or a father figure. Reversed, it warns of rigidity, control, abuse of power or a lack of structure where some is needed.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "authority",
+          "structure",
+          "stability",
+          "leadership",
+          "discipline"
         ],
         "reversed": [
-          "placeholder"
+          "rigidity",
+          "domination",
+          "lack of discipline",
+          "stubbornness",
+          "abuse of power"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Emperor.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Emperor.",
+      "upright": "Upright, The Emperor brings order. It suggests building firm foundations, setting boundaries and making decisions with a cool head. It often represents a protective figure or your own capacity to lead. Success comes from planning, consistency and keeping your word.",
+      "reversed": "Reversed, The Emperor shows structure turned sour. Rules may have become a cage, or someone may be controlling rather than leading. The opposite is possible too: chaos where a plan and some self-discipline would help.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Emperor.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Emperor."
+            "short": "Strong structure or a steady authority figure gave you stability. The discipline you learned then still supports you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Emperor.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Emperor."
+            "short": "A controlling authority or an overly rigid situation in the past shaped how you respond to rules today."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Emperor.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Emperor."
+            "short": "Take charge. Set clear goals, organize your resources and make the decisions others are waiting for."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Emperor.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Emperor."
+            "short": "There is either too much control or too little. Check whether you need to loosen your grip or finally put some order in place."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Emperor.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Emperor."
+            "short": "Stability is coming through effort and planning. You may step into a leadership role or secure a firm position."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Emperor.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Emperor."
+            "short": "Be wary of a power struggle ahead. Flexibility will serve you better than insisting on being in charge."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Emperor.",
-      "faq": [
-        {
-          "question": "What does The Emperor mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Emperor."
-        },
-        {
-          "question": "Is The Emperor a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Emperor."
-        },
-        {
-          "question": "What does The Emperor mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Emperor."
-        }
-      ]
+      }
     },
     "the-hierophant": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Hierophant",
-      "imageAlt": "The Hierophant tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Hierophant.",
+      "imageAlt": "The Hierophant: a religious figure in red robes and a triple crown sits between two gray pillars, raising a hand in blessing, with two crossed keys at his feet and two followers kneeling before him.",
+      "summary": "The Hierophant is card V of the Major Arcana and represents tradition, shared beliefs and learning from established institutions. Upright, it favors convention, mentors, ceremonies and doing things the proven way. Reversed, it suggests questioning rules, breaking with tradition or feeling constrained by expectations that no longer fit.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "tradition",
+          "institutions",
+          "mentorship",
+          "belief",
+          "conformity"
         ],
         "reversed": [
-          "placeholder"
+          "rebellion",
+          "unconventional paths",
+          "restriction",
+          "dogma",
+          "questioning"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Hierophant.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Hierophant.",
+      "upright": "Upright, The Hierophant points to the value of what has been passed down. It can mean formal study, a teacher or mentor, a religious or cultural practice, or a commitment such as marriage. The card suggests that working within a recognized system is the right move for now.",
+      "reversed": "Reversed, The Hierophant challenges convention. You may feel boxed in by family, school, workplace or faith, or ready to find your own way of doing things. It can also warn against blind obedience to any authority.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Hierophant.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Hierophant."
+            "short": "Tradition, education or a trusted mentor shaped your values. Those lessons still guide your choices."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Hierophant.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Hierophant."
+            "short": "In the past you broke away from, or felt limited by, a group, belief or set of rules."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Hierophant.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Hierophant."
+            "short": "Lean on proven methods and experienced people. Formal learning or a structured path will serve you well now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Hierophant.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Hierophant."
+            "short": "You are questioning the rules. Decide which traditions still have value for you and which you are ready to leave."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Hierophant.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Hierophant."
+            "short": "A mentor, institution or ceremony will play a part in what comes next, perhaps a course, a commitment or a new community."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Hierophant.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Hierophant."
+            "short": "Expect to test some conventions. Your own path may depart from what others expect of you."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Hierophant.",
-      "faq": [
-        {
-          "question": "What does The Hierophant mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Hierophant."
-        },
-        {
-          "question": "Is The Hierophant a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Hierophant."
-        },
-        {
-          "question": "What does The Hierophant mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Hierophant."
-        }
-      ]
+      }
     },
     "the-lovers": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Lovers",
-      "imageAlt": "The Lovers tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Lovers.",
+      "imageAlt": "The Lovers: a naked man and woman stand in a garden beneath a winged angel in the sun, with a tree of flames behind the man and a fruit tree with a serpent behind the woman.",
+      "summary": "The Lovers is card VI of the Major Arcana and represents love, union and meaningful choices. Upright, it points to a close relationship, harmony and decisions made in line with your values. Reversed, it signals imbalance in a partnership, conflicting values or a choice you are avoiding.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "love",
+          "union",
+          "harmony",
+          "choice",
+          "shared values"
         ],
         "reversed": [
-          "placeholder"
+          "imbalance",
+          "disharmony",
+          "conflicting values",
+          "indecision",
+          "temptation"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Lovers.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Lovers.",
+      "upright": "Upright, The Lovers celebrates connection. It can describe a romantic partnership, but its deeper meaning is choice: committing to something or someone because it truly reflects who you are. The card asks for honesty with yourself and openness with the other person.",
+      "reversed": "Reversed, The Lovers shows connection under strain. Partners may want different things, communication may be breaking down, or temptation may pull you away from your values. It can also mean postponing a decision because every option feels like a loss.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Lovers.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Lovers."
+            "short": "A meaningful relationship or a values-based decision in the past brought you to where you stand today."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Lovers.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Lovers."
+            "short": "A past relationship fell out of balance, or a choice went against your values, and it still affects you."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Lovers.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Lovers."
+            "short": "A relationship or decision is at the center now. Choose with your heart and your principles together."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Lovers.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Lovers."
+            "short": "Something is out of alignment. Talk openly about what each side really wants before choosing a direction."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Lovers.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Lovers."
+            "short": "A deep connection or an important choice is ahead, and it can bring real harmony if you follow your values."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Lovers.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Lovers."
+            "short": "Expect a test of commitment. Clarify your priorities so temptation or doubt does not decide for you."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Lovers.",
-      "faq": [
-        {
-          "question": "What does The Lovers mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Lovers."
-        },
-        {
-          "question": "Is The Lovers a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Lovers."
-        },
-        {
-          "question": "What does The Lovers mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Lovers."
-        }
-      ]
+      }
     },
     "the-chariot": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Chariot",
-      "imageAlt": "The Chariot tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Chariot.",
+      "imageAlt": "The Chariot: an armored charioteer under a star-covered canopy stands in a stone chariot drawn by one black and one white sphinx, with a walled city behind him.",
+      "summary": "The Chariot is card VII of the Major Arcana and represents determination, control and victory through effort. Upright, it means moving forward with focus, steering opposing forces in one direction. Reversed, it points to lost direction, scattered energy, aggression or obstacles you are not yet prepared to overcome.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "determination",
+          "willpower",
+          "victory",
+          "control",
+          "momentum"
         ],
         "reversed": [
-          "placeholder"
+          "loss of direction",
+          "lack of control",
+          "aggression",
+          "obstacles",
+          "scattered effort"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Chariot.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Chariot.",
+      "upright": "Upright, The Chariot is about winning through will. The two sphinxes pull in different directions, yet the charioteer holds the course without reins. The card says success comes from discipline, confidence and refusing to be distracted. Keep your eyes on the destination.",
+      "reversed": "Reversed, The Chariot shows momentum slipping. Conflicting goals may be pulling you apart, or frustration may be turning into force. It can also mean pushing ahead before you are ready, or feeling that circumstances are steering you instead of the other way round.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Chariot.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Chariot."
+            "short": "A hard-won success in the past proved what your determination can achieve. That confidence carries forward."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Chariot.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Chariot."
+            "short": "Past efforts lost direction or were blocked, and some frustration from that time remains."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Chariot.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Chariot."
+            "short": "Push forward. Focus your energy on a single goal and keep competing priorities under control."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Chariot.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Chariot."
+            "short": "You are pulled in different directions. Pause, choose one route and regain control before speeding up."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Chariot.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Chariot."
+            "short": "Victory is within reach if you stay disciplined. Expect progress, travel or a decisive win."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Chariot.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Chariot."
+            "short": "An obstacle or power struggle may slow you down. Plan your approach rather than forcing your way through."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Chariot.",
-      "faq": [
-        {
-          "question": "What does The Chariot mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Chariot."
-        },
-        {
-          "question": "Is The Chariot a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Chariot."
-        },
-        {
-          "question": "What does The Chariot mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Chariot."
-        }
-      ]
+      }
     },
     "strength": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Strength",
-      "imageAlt": "Strength tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Strength.",
+      "imageAlt": "Strength: a woman in a white robe with a crown of flowers gently closes the jaws of a lion, with an infinity sign floating above her head against a yellow sky.",
+      "summary": "Strength is card VIII of the Major Arcana and represents courage, patience and gentle inner power. Upright, it shows mastering fear or anger with calm compassion rather than force. Reversed, it points to self-doubt, low energy, raw emotion taking over or a need to rebuild confidence.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "courage",
+          "patience",
+          "compassion",
+          "inner strength",
+          "self-control"
         ],
         "reversed": [
-          "placeholder"
+          "self-doubt",
+          "weakness",
+          "insecurity",
+          "impulsiveness",
+          "low energy"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Strength.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Strength.",
+      "upright": "Upright, Strength describes power that does not need to shout. The woman tames the lion with a gentle hand, not a weapon. The card encourages you to meet difficult feelings, people or situations with steady patience. Real resilience is quiet and kind.",
+      "reversed": "Reversed, Strength suggests the lion is winning. Anxiety, anger or insecurity may be driving your reactions, or your energy may simply be depleted. The card asks you to be gentle with yourself and rebuild your confidence step by step.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Strength.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Strength."
+            "short": "You came through a hard time with courage and patience. That experience proved your resilience."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Strength.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Strength."
+            "short": "Self-doubt or overwhelming emotion in the past held you back, and you may still carry some of that hesitation."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Strength.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Strength."
+            "short": "Meet the current challenge calmly. Patience and kindness will get further than force right now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Strength.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Strength."
+            "short": "Your confidence is low or emotions are running hot. Rest, steady yourself and respond rather than react."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Strength.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Strength."
+            "short": "You will find the courage you need. A situation ahead will show how strong you have become."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Strength.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Strength."
+            "short": "Expect a test of nerve. Prepare by caring for your energy so fear or frustration does not take the lead."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Strength.",
-      "faq": [
-        {
-          "question": "What does Strength mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Strength."
-        },
-        {
-          "question": "Is Strength a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Strength."
-        },
-        {
-          "question": "What does Strength mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Strength."
-        }
-      ]
+      }
     },
     "the-hermit": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Hermit",
-      "imageAlt": "The Hermit tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Hermit.",
+      "imageAlt": "The Hermit: a bearded old man in a gray cloak stands alone on a snowy peak, holding up a lantern containing a six-pointed star and leaning on a tall staff.",
+      "summary": "The Hermit is card IX of the Major Arcana and represents solitude, reflection and the search for inner truth. Upright, it encourages stepping back from noise to think deeply or seek guidance. Reversed, it warns of isolation, loneliness or withdrawing too far, or of avoiding reflection that is needed.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "introspection",
+          "solitude",
+          "wisdom",
+          "guidance",
+          "searching"
         ],
         "reversed": [
-          "placeholder"
+          "isolation",
+          "loneliness",
+          "withdrawal",
+          "avoidance",
+          "aimlessness"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Hermit.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Hermit.",
+      "upright": "Upright, The Hermit lights the way inward. It is a time for retreat, study and honest self-examination. The answers you need are less likely to come from the crowd than from quiet thought. The Hermit can also appear as a wise mentor who offers perspective.",
+      "reversed": "Reversed, The Hermit suggests solitude has tipped into isolation, or that you are avoiding time alone because of what you might find. It can mean feeling cut off from others, or being too busy to ask the important questions.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Hermit.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Hermit."
+            "short": "A period of solitude or reflection helped you understand yourself better. Those insights still guide you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Hermit.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Hermit."
+            "short": "In the past you withdrew from others for too long, or avoided looking inward when you needed to."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Hermit.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Hermit."
+            "short": "Step back and think. Time alone, a quiet routine or a trusted mentor will help you find your answer."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Hermit.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Hermit."
+            "short": "You are either too isolated or too distracted. Reconnect with people, or make room for real reflection."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Hermit.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Hermit."
+            "short": "A time of inward focus is coming, bringing clarity about what really matters to you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Hermit.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Hermit."
+            "short": "Guard against cutting yourself off. Seek counsel rather than trying to solve everything alone."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Hermit.",
-      "faq": [
-        {
-          "question": "What does The Hermit mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Hermit."
-        },
-        {
-          "question": "Is The Hermit a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Hermit."
-        },
-        {
-          "question": "What does The Hermit mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Hermit."
-        }
-      ]
+      }
     },
     "wheel-of-fortune": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Wheel of Fortune",
-      "imageAlt": "Wheel of Fortune tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Wheel of Fortune.",
+      "imageAlt": "Wheel of Fortune: a large wheel marked with letters and alchemical symbols turns in the clouds, with a sphinx on top, a serpent descending, a jackal-headed figure rising and four winged creatures reading books in the corners.",
+      "summary": "The Wheel of Fortune is card X of the Major Arcana and represents cycles, change and turning points beyond your control. Upright, it signals luck shifting in your favor and a new phase beginning. Reversed, it points to a downturn, resistance to change or repeating the same patterns.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "cycles",
+          "change",
+          "fate",
+          "turning points",
+          "good luck"
         ],
         "reversed": [
-          "placeholder"
+          "bad luck",
+          "resistance to change",
+          "setbacks",
+          "repeating patterns",
+          "loss of control"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Wheel of Fortune.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Wheel of Fortune.",
+      "upright": "Upright, the Wheel of Fortune turns toward something new. Circumstances are moving, often in your favor, and opportunities may appear suddenly. The card reminds you that every situation is temporary. Adapt to the shift and make the most of the momentum.",
+      "reversed": "Reversed, the Wheel of Fortune shows a cycle turning down or stuck. Plans may be delayed by events outside your control, or you may be resisting a change that has already begun. Look for the pattern you keep repeating, since that part is within your power.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Wheel of Fortune.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Wheel of Fortune."
+            "short": "A lucky break or an unexpected turn of events set your current path in motion."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Wheel of Fortune.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Wheel of Fortune."
+            "short": "A setback or run of bad luck in the past changed your plans, and you are still adjusting to it."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Wheel of Fortune.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Wheel of Fortune."
+            "short": "Things are shifting now. Stay flexible and be ready to act when an opening appears."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Wheel of Fortune.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Wheel of Fortune."
+            "short": "You may feel stuck in a downturn or a familiar loop. Accept what you cannot control and change what you can."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Wheel of Fortune.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Wheel of Fortune."
+            "short": "A turning point is ahead, likely bringing a welcome change of fortune."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Wheel of Fortune.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Wheel of Fortune."
+            "short": "A temporary setback is possible. Prepare for it, and remember that the wheel will keep turning."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Wheel of Fortune.",
-      "faq": [
-        {
-          "question": "What does Wheel of Fortune mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Wheel of Fortune."
-        },
-        {
-          "question": "Is Wheel of Fortune a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Wheel of Fortune."
-        },
-        {
-          "question": "What does Wheel of Fortune mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Wheel of Fortune."
-        }
-      ]
+      }
     },
     "justice": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Justice",
-      "imageAlt": "Justice tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Justice.",
+      "imageAlt": "Justice: a crowned figure in red robes sits between two pillars, holding an upright double-edged sword in one hand and balanced scales in the other.",
+      "summary": "Justice is card XI of the Major Arcana and represents fairness, truth and cause and effect. Upright, it signals balanced decisions, accountability and outcomes that match actions, including legal matters. Reversed, it points to unfairness, dishonesty, avoiding responsibility or a decision that does not hold up to scrutiny.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "fairness",
+          "truth",
+          "accountability",
+          "cause and effect",
+          "law"
         ],
         "reversed": [
-          "placeholder"
+          "unfairness",
+          "dishonesty",
+          "avoidance",
+          "bias",
+          "lack of accountability"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Justice.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Justice.",
+      "upright": "Upright, Justice weighs things clearly. It asks for honest assessment, fair treatment and owning the consequences of your choices. Contracts, legal questions and important decisions are favored when handled with integrity. What you have put in is what you will get back.",
+      "reversed": "Reversed, Justice warns that the scales are off. Someone may be acting unfairly, hiding the truth or refusing to take responsibility, and that someone could be you. A legal or formal matter may not go as hoped. Correct the imbalance where you can.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Justice.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Justice."
+            "short": "A fair decision or an honest reckoning in the past set things right, and you are living with its results."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Justice.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Justice."
+            "short": "A past injustice, dishonest act or avoided responsibility still weighs on the present."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Justice.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Justice."
+            "short": "Weigh the facts and act with integrity. A fair, well-reasoned choice is needed now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Justice.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Justice."
+            "short": "Something is not being handled fairly. Look honestly at your own part and address what has been avoided."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Justice.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Justice."
+            "short": "A fair outcome is coming. Decisions, contracts or legal matters should resolve according to the facts."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Justice.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Justice."
+            "short": "Be careful of biased judgments ahead. Keep records, stay honest and do not count on shortcuts going unnoticed."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Justice.",
-      "faq": [
-        {
-          "question": "What does Justice mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Justice."
-        },
-        {
-          "question": "Is Justice a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Justice."
-        },
-        {
-          "question": "What does Justice mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Justice."
-        }
-      ]
+      }
     },
     "the-hanged-man": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Hanged Man",
-      "imageAlt": "The Hanged Man tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Hanged Man.",
+      "imageAlt": "The Hanged Man: a man hangs upside down by one foot from a living T-shaped tree, hands behind his back, with a calm face and a golden halo around his head.",
+      "summary": "The Hanged Man is card XII of the Major Arcana and represents pause, surrender and seeing things from a new angle. Upright, it suggests waiting, letting go of control and accepting a delay that brings insight. Reversed, it points to stalling, resistance, pointless sacrifice or indecision that has dragged on.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "pause",
+          "surrender",
+          "new perspective",
+          "patience",
+          "letting go"
         ],
         "reversed": [
-          "placeholder"
+          "stalling",
+          "resistance",
+          "indecision",
+          "needless sacrifice",
+          "feeling stuck"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Hanged Man.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Hanged Man.",
+      "upright": "Upright, The Hanged Man asks you to stop pushing. Hanging still, he sees the world upside down, and his calm face shows that this is a choice. The card suggests a voluntary pause, a sacrifice made for a larger aim, or a shift in viewpoint that changes everything.",
+      "reversed": "Reversed, The Hanged Man suggests the pause has turned into being stuck. You may be delaying a decision, clinging to a situation that no longer serves you, or giving things up without any real purpose. It is time to act or let go.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Hanged Man.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Hanged Man."
+            "short": "A period of waiting or a sacrifice in the past gave you a perspective you still rely on."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Hanged Man.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Hanged Man."
+            "short": "In the past you stayed stuck or postponed a decision for too long, and you feel the cost of that delay."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Hanged Man.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Hanged Man."
+            "short": "Pause before acting. Look at the situation from another angle, and accept that some things cannot be rushed."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Hanged Man.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Hanged Man."
+            "short": "You are waiting without purpose. Decide what you are holding on to and whether it is worth it."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Hanged Man.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Hanged Man."
+            "short": "A pause is coming that will change how you see things. Use it to reflect rather than to worry."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Hanged Man.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Hanged Man."
+            "short": "Do not let an unresolved choice drift. If nothing changes, the delay will grow longer."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Hanged Man.",
-      "faq": [
-        {
-          "question": "What does The Hanged Man mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Hanged Man."
-        },
-        {
-          "question": "Is The Hanged Man a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Hanged Man."
-        },
-        {
-          "question": "What does The Hanged Man mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Hanged Man."
-        }
-      ]
+      }
     },
     "death": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Death",
-      "imageAlt": "Death tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Death.",
+      "imageAlt": "Death: a skeleton in black armor rides a white horse and carries a black banner with a white rose, while a king lies fallen and a bishop, a woman and a child react, with a sun rising between two towers.",
+      "summary": "Death is card XIII of the Major Arcana and represents endings, transformation and clearing space for something new. It rarely means physical death. Upright, it signals a chapter closing for good. Reversed, it points to resisting a necessary ending, stagnation or fear of change.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "endings",
+          "transformation",
+          "transition",
+          "release",
+          "renewal"
         ],
         "reversed": [
-          "placeholder"
+          "resistance to change",
+          "stagnation",
+          "fear of endings",
+          "holding on",
+          "delayed transition"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Death.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Death.",
+      "upright": "Upright, Death marks the end of a chapter. A job, relationship, habit or belief has run its course, and letting it go makes room for growth. The rising sun on the card shows what follows. The change may be uncomfortable, but it is clean and final.",
+      "reversed": "Reversed, Death shows an ending that is being resisted. Holding on to what is already over keeps you in limbo and drains your energy. The card asks what you are afraid of losing, and whether staying the same is really safer.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Death.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Death."
+            "short": "A decisive ending in the past cleared the way for who you are now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Death.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Death."
+            "short": "You held on to something that had ended, and that delay still affects your situation."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Death.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Death."
+            "short": "Something is ending. Let it go fully, and trust that the space it leaves will be filled with something better."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Death.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Death."
+            "short": "You are resisting a change that has already started. Releasing it will bring relief."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Death.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Death."
+            "short": "A transformation is coming. One chapter will close so that a new one can begin."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Death.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Death."
+            "short": "An ending ahead may feel hard to accept. Preparing for it now will make the transition easier."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Death.",
-      "faq": [
-        {
-          "question": "What does Death mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Death."
-        },
-        {
-          "question": "Is Death a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Death."
-        },
-        {
-          "question": "What does Death mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Death."
-        }
-      ]
+      }
     },
     "temperance": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Temperance",
-      "imageAlt": "Temperance tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Temperance.",
+      "imageAlt": "Temperance: a winged angel with one foot on land and one in a pool pours water between two golden cups, with a path leading to a glowing crown on the distant hills.",
+      "summary": "Temperance is card XIV of the Major Arcana and represents balance, moderation and patience. Upright, it means blending opposites, finding the middle way and letting things develop at a steady pace. Reversed, it points to excess, imbalance, impatience or conflict between parts of your life that do not fit together.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "balance",
+          "moderation",
+          "patience",
+          "harmony",
+          "healing"
         ],
         "reversed": [
-          "placeholder"
+          "excess",
+          "imbalance",
+          "impatience",
+          "discord",
+          "overindulgence"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Temperance.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Temperance.",
+      "upright": "Upright, Temperance is the art of mixing well. The angel pours water between two cups without spilling, a picture of calm, careful adjustment. The card favors moderation, cooperation and healing over time. Small, consistent steps will get you further than extremes.",
+      "reversed": "Reversed, Temperance warns that something is out of proportion. You may be overdoing work, spending, food or conflict, or trying to rush a process that needs time. Look for where your life has tipped too far one way.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Temperance.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Temperance."
+            "short": "A period of balance and healing in the past helped you recover and find your footing."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Temperance.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Temperance."
+            "short": "Excess or imbalance in the past created problems you are still smoothing out."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Temperance.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Temperance."
+            "short": "Aim for the middle way. Patience, moderation and compromise will resolve the current situation."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Temperance.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Temperance."
+            "short": "You are running to extremes. Rebalance your routine and stop forcing a result that needs time."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Temperance.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Temperance."
+            "short": "Calm and balance lie ahead. A conflict will ease, and things will come together at the right pace."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Temperance.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Temperance."
+            "short": "Watch for overindulgence or haste ahead. Moderation now will prevent a bigger correction later."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Temperance.",
-      "faq": [
-        {
-          "question": "What does Temperance mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Temperance."
-        },
-        {
-          "question": "Is Temperance a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Temperance."
-        },
-        {
-          "question": "What does Temperance mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Temperance."
-        }
-      ]
+      }
     },
     "the-devil": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Devil",
-      "imageAlt": "The Devil tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Devil.",
+      "imageAlt": "The Devil: a horned, bat-winged figure squats on a black pedestal, with a naked man and woman loosely chained to it below, both wearing small horns and tails.",
+      "summary": "The Devil is card XV of the Major Arcana and represents attachment, temptation and feeling trapped. Upright, it points to unhealthy habits, materialism or relationships that hold you more than you hold them. Reversed, it signals breaking free, recognizing a pattern or loosening a hold that once felt permanent.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "attachment",
+          "temptation",
+          "addiction",
+          "materialism",
+          "restriction"
         ],
         "reversed": [
-          "placeholder"
+          "release",
+          "breaking free",
+          "awareness",
+          "detachment",
+          "reclaiming power"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Devil.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Devil.",
+      "upright": "Upright, The Devil shows a bond you may not have chosen consciously. It can be a habit, a debt, a toxic relationship or a fixation on status. Look closely at the card: the chains around the two figures are loose. The trap is real, but so is the way out.",
+      "reversed": "Reversed, The Devil signals awareness and release. You are starting to see what has been controlling you and to take your power back. The process may be uncomfortable, and old cravings may return, but the hold is weakening.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Devil.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Devil."
+            "short": "In the past you were caught in a habit, relationship or pattern that limited you, and it still shapes your choices."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Devil.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Devil."
+            "short": "You broke free from something that held you back. That release is the base for your current freedom."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Devil.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Devil."
+            "short": "Something has a grip on you. Name it honestly, since seeing the chain clearly is the first step to removing it."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Devil.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Devil."
+            "short": "You are loosening an old hold. Keep going, and do not let a moment of temptation pull you back."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Devil.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Devil."
+            "short": "Watch for temptation ahead. An easy shortcut or a new attachment could cost more than it seems."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Devil.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Devil."
+            "short": "Freedom is coming. A pattern that has restricted you is about to lose its power."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Devil.",
-      "faq": [
-        {
-          "question": "What does The Devil mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Devil."
-        },
-        {
-          "question": "Is The Devil a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Devil."
-        },
-        {
-          "question": "What does The Devil mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Devil."
-        }
-      ]
+      }
     },
     "the-tower": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Tower",
-      "imageAlt": "The Tower tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Tower.",
+      "imageAlt": "The Tower: lightning strikes a tall stone tower on a rocky peak and knocks off its crown, as flames burst from the windows and two people fall headfirst through the dark sky.",
+      "summary": "The Tower is card XVI of the Major Arcana and represents sudden upheaval, revelation and the collapse of false structures. Upright, it signals unexpected change that clears the ground for something truer. Reversed, it points to avoiding a necessary disruption, a crisis narrowly averted, or change happening slowly from within.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "upheaval",
+          "sudden change",
+          "revelation",
+          "collapse",
+          "awakening"
         ],
         "reversed": [
-          "placeholder"
+          "averted disaster",
+          "resisting change",
+          "delayed upheaval",
+          "inner transformation",
+          "fear of change"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Tower.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Tower.",
+      "upright": "Upright, The Tower brings a shock. Something built on weak foundations comes down quickly, whether a plan, belief, relationship or situation. It is rarely comfortable, but it is honest: what falls was not going to last. Once the dust settles, you can rebuild on solid ground.",
+      "reversed": "Reversed, The Tower suggests the upheaval is being held off or happening internally. You may be propping up something that is already cracking, or you may have escaped a crisis by a narrow margin. The lesson remains, even if the collapse does not come.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Tower.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Tower."
+            "short": "A sudden shake-up in the past tore down something unstable and forced a fresh start that shaped who you are."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Tower.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Tower."
+            "short": "You avoided or postponed a necessary upheaval in the past, and the underlying problem may still be there."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Tower.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Tower."
+            "short": "Expect disruption now. Let what is unstable fall instead of trying to hold it up."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Tower.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Tower."
+            "short": "You are holding back an inevitable change. Facing it on your own terms will hurt less than waiting."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Tower.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Tower."
+            "short": "A sudden change is coming that will clear away what is false and make room for honest rebuilding."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Tower.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Tower."
+            "short": "A crisis may be averted, but only if you address the weak points now rather than later."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Tower.",
-      "faq": [
-        {
-          "question": "What does The Tower mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Tower."
-        },
-        {
-          "question": "Is The Tower a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Tower."
-        },
-        {
-          "question": "What does The Tower mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Tower."
-        }
-      ]
+      }
     },
     "the-star": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Star",
-      "imageAlt": "The Star tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Star.",
+      "imageAlt": "The Star: a naked woman kneels by a pool under one large eight-pointed star and seven smaller ones, pouring water from one jug into the pool and from another onto the land, with a bird in a tree behind her.",
+      "summary": "The Star is card XVII of the Major Arcana and represents hope, healing and renewed faith after difficulty. Upright, it signals calm, inspiration and a clear sense of direction returning. Reversed, it points to discouragement, lost faith or disconnection from what once inspired you, usually only for a while.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "hope",
+          "healing",
+          "renewal",
+          "inspiration",
+          "serenity"
         ],
         "reversed": [
-          "placeholder"
+          "discouragement",
+          "lost faith",
+          "despair",
+          "disconnection",
+          "low motivation"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Star.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Star.",
+      "upright": "Upright, The Star follows the storm. It brings relief, gentle optimism and the sense that things can get better. The woman pours water freely, a picture of generosity and renewal. The card encourages you to trust the future and reconnect with your hopes.",
+      "reversed": "Reversed, The Star shows hope running low. Setbacks may have left you tired, cynical or unsure what to believe in. The card does not mean hope is gone, only obscured. Small acts of self-care and time with what you love can bring it back.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Star.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Star."
+            "short": "After a hard time, a period of healing and hope in the past restored your faith in yourself."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Star.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Star."
+            "short": "A past disappointment shook your faith, and part of you may still be guarded about hoping again."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Star.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Star."
+            "short": "Healing is underway. Trust your direction, rest and let yourself feel hopeful again."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Star.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Star."
+            "short": "You feel discouraged. Look for one small source of inspiration and build from there."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Star.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Star."
+            "short": "Brighter days are ahead. Expect renewed confidence, inspiration and a sense of peace."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Star.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Star."
+            "short": "A dip in motivation may come. Protect your hopes by staying close to the people and practices that sustain you."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Star.",
-      "faq": [
-        {
-          "question": "What does The Star mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Star."
-        },
-        {
-          "question": "Is The Star a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Star."
-        },
-        {
-          "question": "What does The Star mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Star."
-        }
-      ]
+      }
     },
     "the-moon": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Moon",
-      "imageAlt": "The Moon tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Moon.",
+      "imageAlt": "The Moon: a full moon with a face shines between two towers, while a dog and a wolf howl at it and a crayfish crawls out of a pool onto a winding path.",
+      "summary": "The Moon is card XVIII of the Major Arcana and represents illusion, uncertainty and the subconscious. Upright, it warns that things are not as they appear and asks you to move carefully, guided by intuition. Reversed, it points to confusion lifting, fears being faced or a truth coming to light.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "illusion",
+          "uncertainty",
+          "intuition",
+          "dreams",
+          "anxiety"
         ],
         "reversed": [
-          "placeholder"
+          "clarity returning",
+          "released fear",
+          "truth revealed",
+          "lingering confusion",
+          "repressed feelings"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Moon.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Moon.",
+      "upright": "Upright, The Moon lights the path only partly. Fears, rumors or wishful thinking may be distorting your view, and some facts are still hidden. The card asks for patience and intuition rather than quick conclusions. Pay attention to dreams and to feelings you cannot yet explain.",
+      "reversed": "Reversed, The Moon suggests the fog is starting to clear. Deceptions may be uncovered, and fears that seemed huge may shrink once faced. It can also mean anxiety bubbling up from below. Either way, honesty with yourself helps.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Moon.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Moon."
+            "short": "A confusing or uncertain period in the past taught you to rely on your intuition."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Moon.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Moon."
+            "short": "In the past, fear or deception clouded your judgment, and you are only now seeing what really happened."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Moon.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Moon."
+            "short": "Things are unclear right now. Avoid big decisions until you have more facts, and trust your instincts."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Moon.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Moon."
+            "short": "Clarity is returning. Face the fear or misunderstanding that has been holding you back."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Moon.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Moon."
+            "short": "A period of uncertainty is ahead. Move slowly, check information and listen to your inner voice."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Moon.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Moon."
+            "short": "The truth will come out. A confusing situation is about to make more sense."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Moon.",
-      "faq": [
-        {
-          "question": "What does The Moon mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Moon."
-        },
-        {
-          "question": "Is The Moon a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Moon."
-        },
-        {
-          "question": "What does The Moon mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Moon."
-        }
-      ]
+      }
     },
     "the-sun": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The Sun",
-      "imageAlt": "The Sun tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Sun.",
+      "imageAlt": "The Sun: a smiling sun shines over a wall lined with sunflowers, while a naked child with a feather in its hair rides a white horse and holds a large red banner.",
+      "summary": "The Sun is card XIX of the Major Arcana and represents joy, success and clarity. Upright, it is one of the most positive cards in the deck, signaling warmth, confidence and things going well. Reversed, it points to temporary clouds, dimmed enthusiasm or overconfidence, with the brightness still within reach.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "joy",
+          "success",
+          "vitality",
+          "clarity",
+          "optimism"
         ],
         "reversed": [
-          "placeholder"
+          "temporary setbacks",
+          "dimmed joy",
+          "overconfidence",
+          "delays",
+          "unrealistic expectations"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The Sun.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The Sun.",
+      "upright": "Upright, The Sun brings light to everything it touches. Plans succeed, relationships feel warm and you see your situation clearly. The child on the horse shows openness and simple delight. The card encourages you to enjoy the moment and share your good fortune.",
+      "reversed": "Reversed, The Sun is still shining, just behind clouds. Joy may feel muted, success may be delayed, or you may be expecting too much too soon. It can also warn against arrogance. The positive outcome is still likely, just less straightforward.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The Sun.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The Sun."
+            "short": "A happy, successful time in the past gave you confidence that still warms your present."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The Sun.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The Sun."
+            "short": "A past success did not feel as bright as it should have, or overconfidence led to a stumble."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The Sun.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The Sun."
+            "short": "Things are going well. Enjoy it, share it and let your natural confidence lead."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The Sun.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The Sun."
+            "short": "Something is dimming your joy. Adjust your expectations and look for the good that is still there."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The Sun.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The Sun."
+            "short": "Success and happiness are coming. Expect clarity, recognition and plenty of warmth."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The Sun.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The Sun."
+            "short": "Good results are on the way but may take longer than hoped. Stay patient and grounded."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Sun.",
-      "faq": [
-        {
-          "question": "What does The Sun mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Sun."
-        },
-        {
-          "question": "Is The Sun a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Sun."
-        },
-        {
-          "question": "What does The Sun mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The Sun."
-        }
-      ]
+      }
     },
     "judgement": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Judgement",
-      "imageAlt": "Judgement tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Judgement.",
+      "imageAlt": "Judgement: an angel in the clouds blows a trumpet hung with a banner bearing a cross, while men, women and children rise from open coffins with outstretched arms, mountains in the distance.",
+      "summary": "Judgement is card XX of the Major Arcana and represents awakening, reckoning and answering a calling. Upright, it signals a moment to review the past honestly, forgive and rise to a new stage of life. Reversed, it points to self-doubt, harsh self-criticism or ignoring a call to change.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "awakening",
+          "reckoning",
+          "renewal",
+          "calling",
+          "forgiveness"
         ],
         "reversed": [
-          "placeholder"
+          "self-doubt",
+          "self-criticism",
+          "ignoring a calling",
+          "regret",
+          "stagnation"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Judgement.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Judgement.",
+      "upright": "Upright, Judgement sounds a wake-up call. It is time to take stock of where you have been, accept the lessons and step into a more authentic version of yourself. The card often appears at a turning point where a decision or realization changes your direction for good.",
+      "reversed": "Reversed, Judgement suggests the call is being ignored or drowned out by self-doubt. You may be too hard on yourself to move on, or afraid of what change would demand. The card asks for honest review, not punishment.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Judgement.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Judgement."
+            "short": "A wake-up moment in the past changed your direction and helped you understand what you are meant to do."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Judgement.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Judgement."
+            "short": "Past regrets or self-judgment still hold you back from fully moving on."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Judgement.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Judgement."
+            "short": "You are being called to rise. Review your choices honestly, forgive what needs forgiving and take the next step."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Judgement.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Judgement."
+            "short": "You are judging yourself too harshly or ignoring a clear signal. Listen, and allow yourself to change."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Judgement.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Judgement."
+            "short": "A decisive realization is coming that will open a new chapter."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Judgement.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Judgement."
+            "short": "Do not ignore what you already know you need to change. Waiting will only make the reckoning harder."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Judgement.",
-      "faq": [
-        {
-          "question": "What does Judgement mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Judgement."
-        },
-        {
-          "question": "Is Judgement a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Judgement."
-        },
-        {
-          "question": "What does Judgement mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Judgement."
-        }
-      ]
+      }
     },
     "the-world": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "The World",
-      "imageAlt": "The World tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The World.",
+      "imageAlt": "The World: a dancing figure wrapped in a purple sash holds two wands inside a large oval laurel wreath, with an angel, an eagle, a bull and a lion in the four corners.",
+      "summary": "The World is card XXI and the final card of the Major Arcana. It represents completion, achievement and wholeness. Upright, it signals that a cycle is fulfilled and you can celebrate before the next begins. Reversed, it points to unfinished business, delays or closure that has not yet come.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "completion",
+          "achievement",
+          "fulfillment",
+          "wholeness",
+          "travel"
         ],
         "reversed": [
-          "placeholder"
+          "incompletion",
+          "delays",
+          "lack of closure",
+          "shortcuts",
+          "unfinished business"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for The World.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for The World.",
+      "upright": "Upright, The World closes the circle. A long effort reaches its natural end, bringing satisfaction and a sense that everything has come together. It can also point to travel or a wider view of life. Celebrate what you have done, then prepare for the next journey.",
+      "reversed": "Reversed, The World suggests you are close to the finish but not there yet. Loose ends, delays or reluctance to let go may be keeping a chapter open. Look at what still needs finishing, and resist taking shortcuts at the last step.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for The World.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for The World."
+            "short": "You completed an important cycle in the past, and that achievement gives you a strong base."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for The World.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for The World."
+            "short": "Something in the past was left unfinished, and it still waits for closure."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for The World.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for The World."
+            "short": "You are reaching a milestone. Acknowledge how far you have come and enjoy the sense of completion."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for The World.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for The World."
+            "short": "You are nearly done. Tie up the loose ends instead of moving on before you finish."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for The World.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for The World."
+            "short": "A goal will be fulfilled. Expect completion, recognition and perhaps travel or a broader horizon."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for The World.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for The World."
+            "short": "Closure may take longer than expected. Stay with it and finish properly."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The World.",
-      "faq": [
-        {
-          "question": "What does The World mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for The World."
-        },
-        {
-          "question": "Is The World a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for The World."
-        },
-        {
-          "question": "What does The World mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for The World."
-        }
-      ]
+      }
     }
   }
 }

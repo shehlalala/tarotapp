@@ -69,6 +69,7 @@ for (const s of GROUPS.slice(1)) {
 // --- locale text ---------------------------------------------------------
 const localesDir = join(dataDir, 'locales');
 const statusTally: Record<string, number> = {};
+const webOnlyMissing: string[] = [];
 
 for (const locale of readdirSync(localesDir)) {
   const seen = new Set<string>();
@@ -114,19 +115,24 @@ function checkText(at: string, t: CardText) {
     ['summary', t.summary],
     ['upright', t.upright],
     ['reversed', t.reversed],
-    ['symbolism', t.symbolism],
   ];
+  // Web-only fields: optional for the app MVP, required for the website (and under --strict).
+  const webOnly: Array<[string, unknown]> = [['symbolism', t.symbolism]];
   for (const p of POSITIONS) {
     for (const o of ORIENTATIONS) {
       required.push([`positions.${p}.${o}.short`, t.positions?.[p]?.[o]?.short]);
-      required.push([`positions.${p}.${o}.long`, t.positions?.[p]?.[o]?.long]);
+      webOnly.push([`positions.${p}.${o}.long`, t.positions?.[p]?.[o]?.long]);
     }
   }
+  const empty = (v: unknown) => typeof v !== 'string' || v.trim() === '';
   for (const [field, value] of required) {
-    if (typeof value !== 'string' || value.trim() === '') err(`${at}: "${field}" is empty`);
+    if (empty(value)) err(`${at}: "${field}" is empty`);
   }
   if (!t.keywords?.upright?.length || !t.keywords?.reversed?.length) err(`${at}: keywords need upright and reversed entries`);
-  if (!Array.isArray(t.faq) || t.faq.length < 3 || t.faq.length > 5) err(`${at}: faq needs 3–5 items`);
+  if (t.faq !== undefined && (!Array.isArray(t.faq) || t.faq.length < 3 || t.faq.length > 5)) err(`${at}: faq needs 3–5 items`);
+  const missingWeb = webOnly.filter(([, v]) => empty(v)).map(([f]) => f);
+  if (t.faq === undefined) missingWeb.push('faq');
+  if (missingWeb.length) webOnlyMissing.push(at);
 
   if (t.status === 'placeholder') return; // editorial checks only apply to real text
 
@@ -145,6 +151,9 @@ function checkText(at: string, t: CardText) {
 // --- report --------------------------------------------------------------
 const placeholders = Object.entries(statusTally).filter(([k]) => k.endsWith(':placeholder'));
 for (const [k, n] of placeholders) warn(`${k.split(':')[0]}: ${n} cards still have placeholder text`);
+if (webOnlyMissing.length) {
+  warn(`${webOnlyMissing.length} drafted card(s) lack web-only fields (long position text, symbolism, faq); needed before the website launches`);
+}
 
 console.log('Content status:', statusTally);
 for (const w of warnings) console.warn(`warn  ${w}`);

@@ -71,8 +71,8 @@ export type Orientation = 'upright' | 'reversed';
 export interface PositionText {
   /** One or two sentences. Shown on the reveal screen in the app. */
   short: string;
-  /** A paragraph. Shown in the app detail view and on the website. */
-  long: string;
+  /** A paragraph for the app detail view and the website. Optional until the web content pass. */
+  long?: string;
 }
 
 /** What a card means in one spread position, for each orientation. */
@@ -97,9 +97,10 @@ export interface CardText {
   upright: string;
   reversed: string;
   positions: Record<PositionId, PositionMeaning>;
-  symbolism: string;
-  /** 3–5 questions people actually ask about this card. */
-  faq: FaqItem[];
+  /** Optional until the web content pass. */
+  symbolism?: string;
+  /** 3–5 questions people actually ask about this card. Optional until the web content pass. */
+  faq?: FaqItem[];
 }
 
 /** Shape of data/locales/<locale>/<group>.json */

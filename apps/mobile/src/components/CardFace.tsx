@@ -5,11 +5,18 @@ import { CARD_ASPECT, colors, fonts, radius } from '../theme';
 
 const ROMAN = ['0', 'I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX', 'XXI'];
 
-/** Card face: the Rider-Waite-Smith artwork when bundled, otherwise placeholder art. */
+/** Card face: bundled artwork when the card has some, otherwise a typographic placeholder. */
 export function CardFace({ card, width, orientation }: { card: Card; width: number; orientation: Orientation }) {
   const height = width / CARD_ASPECT;
   const image = getCardImage(card.id);
+  const common = getCommonText(card.locale);
+  const top = card.arcana === 'major' ? ROMAN[card.number] : common.suits[card.suit!].name;
+  const bottom = card.arcana === 'major' ? common.arcana.major.name : common.ranks[card.rank!];
+
   if (image !== undefined) {
+    // Artwork leaves a plain band at the top and bottom (1/8 of the height each);
+    // the numeral and the localized name are drawn there as text.
+    const band = height * (130 / 1036);
     return (
       <View style={[styles.artCard, { width, height }, orientation === 'reversed' && styles.reversed]}>
         <Image
@@ -19,12 +26,20 @@ export function CardFace({ card, width, orientation }: { card: Card; width: numb
           accessibilityLabel={card.imageAlt}
           accessibilityIgnoresInvertColors
         />
+        <View style={[styles.band, { top: 0, height: band }]}>
+          <Text style={[styles.small, { fontSize: width * 0.085 }]} numberOfLines={1}>
+            {top}
+          </Text>
+        </View>
+        <View style={[styles.band, { bottom: 0, height: band, paddingHorizontal: width * 0.08 }]}>
+          <Text style={[styles.artName, { fontSize: width * 0.085 }]} numberOfLines={1} adjustsFontSizeToFit>
+            {card.name}
+          </Text>
+        </View>
       </View>
     );
   }
-  const common = getCommonText(card.locale);
-  const top = card.arcana === 'major' ? ROMAN[card.number] : common.suits[card.suit!].name;
-  const bottom = card.arcana === 'major' ? common.arcana.major.name : common.ranks[card.rank!];
+
   return (
     <View
       style={[styles.card, { width, height }, orientation === 'reversed' && styles.reversed]}
@@ -54,8 +69,10 @@ const styles = StyleSheet.create({
     padding: 5,
   },
   reversed: { transform: [{ rotate: '180deg' }] },
-  artCard: { borderRadius: radius.card, overflow: 'hidden', borderWidth: 1, borderColor: colors.goldMuted, backgroundColor: colors.cardFace },
+  artCard: { borderRadius: radius.card, overflow: 'hidden', backgroundColor: colors.cardFace },
   art: { width: '100%', height: '100%' },
+  band: { position: 'absolute', left: 0, right: 0, alignItems: 'center', justifyContent: 'center' },
+  artName: { color: colors.goldLight, fontFamily: fonts.serif, letterSpacing: 0.5, textAlign: 'center' },
   frame: {
     flex: 1,
     borderWidth: StyleSheet.hairlineWidth,
