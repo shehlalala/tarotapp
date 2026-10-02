@@ -2,886 +2,704 @@
   "$schema": "../../../schema/card-text.schema.json",
   "cards": {
     "ace-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Ace of Wands",
-      "imageAlt": "Ace of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ace of Wands.",
+      "imageAlt": "Ace of Wands: a hand emerges from a cloud gripping a sprouting wooden wand, with a castle on a hill and a river valley below.",
+      "summary": "The Ace of Wands represents a spark of inspiration, fresh energy and the start of a creative or ambitious venture. Upright, it signals enthusiasm and the drive to begin. Reversed, it points to delays, lack of motivation or an idea that has not yet found its outlet.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "inspiration",
+          "new venture",
+          "creative spark",
+          "enthusiasm",
+          "potential"
         ],
         "reversed": [
-          "placeholder"
+          "delays",
+          "lack of motivation",
+          "false start",
+          "creative block",
+          "hesitation"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Ace of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Ace of Wands.",
+      "upright": "Upright, the Ace of Wands is a burst of fire. An idea, passion or opportunity arrives with real momentum behind it. It favors starting projects, pitching ideas and following what excites you. The energy is raw, so act while it is strong and give it shape.",
+      "reversed": "Reversed, the Ace of Wands suggests the spark is there but not catching. Plans may stall, enthusiasm may fade quickly, or you may be waiting for perfect conditions. Look for a small first step that keeps the idea alive.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Ace of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Ace of Wands."
+            "short": "A burst of inspiration in the past started something that still drives you today."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Ace of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Ace of Wands."
+            "short": "A promising idea in the past never got off the ground, and you may still wonder what it could have been."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Ace of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Ace of Wands."
+            "short": "Fresh energy is available now. Start the project or conversation you have been thinking about."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Ace of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Ace of Wands."
+            "short": "Your motivation is low or scattered. Find one small action that rekindles your interest."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Ace of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Ace of Wands."
+            "short": "A new opportunity or burst of creativity is coming. Be ready to act on it quickly."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Ace of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Ace of Wands."
+            "short": "A new venture may face a slow start. Prepare the ground so it can catch when the time comes."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ace of Wands.",
-      "faq": [
-        {
-          "question": "What does Ace of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Wands."
-        },
-        {
-          "question": "Is Ace of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Wands."
-        },
-        {
-          "question": "What does Ace of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Wands."
-        }
-      ]
+      }
     },
     "two-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Two of Wands",
-      "imageAlt": "Two of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Two of Wands.",
+      "imageAlt": "Two of Wands: a man in a red cap stands on castle battlements holding a small globe, one wand in his hand and another fixed to the wall, looking out over land and sea.",
+      "summary": "The Two of Wands represents planning, future vision and the decision to look beyond familiar ground. Upright, it signals weighing options, mapping a path and preparing to expand. Reversed, it points to fear of the unknown, poor planning or staying in your comfort zone too long.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "planning",
+          "future vision",
+          "decisions",
+          "expansion",
+          "discovery"
         ],
         "reversed": [
-          "placeholder"
+          "fear of change",
+          "poor planning",
+          "indecision",
+          "playing it safe",
+          "restlessness"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Two of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Two of Wands.",
+      "upright": "Upright, the Two of Wands shows someone who has achieved a first success and now looks further. It is a card of strategy: comparing options, setting long-term goals and deciding where to go next. The world is bigger than your current position, and you are ready to explore it.",
+      "reversed": "Reversed, the Two of Wands suggests hesitation at the edge of the map. You may know you want more but feel unsure how to get there, or prefer the safety of what you know. A clearer plan can turn restlessness into movement.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Two of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Two of Wands."
+            "short": "A decision in the past to plan bigger and look further set you on your current course."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Two of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Two of Wands."
+            "short": "In the past you held back from a wider opportunity, and part of you still feels that restlessness."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Two of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Two of Wands."
+            "short": "Map out your next move. Compare your options and decide which direction truly interests you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Two of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Two of Wands."
+            "short": "You are hesitating between comfort and growth. Write down what is stopping you, then plan a first step."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Two of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Two of Wands."
+            "short": "A chance to expand, travel or broaden your plans is approaching. Prepare to make a deliberate choice."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Two of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Two of Wands."
+            "short": "Unclear plans could slow you down ahead. Settle your goals now so you can move when the time comes."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Two of Wands.",
-      "faq": [
-        {
-          "question": "What does Two of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Wands."
-        },
-        {
-          "question": "Is Two of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Wands."
-        },
-        {
-          "question": "What does Two of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Wands."
-        }
-      ]
+      }
     },
     "three-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Three of Wands",
-      "imageAlt": "Three of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Three of Wands.",
+      "imageAlt": "Three of Wands: a man stands on a cliff with his back turned, holding one of three planted wands, watching ships sail across a golden sea.",
+      "summary": "The Three of Wands represents progress, foresight and plans beginning to pay off. Upright, it signals expansion, opportunities abroad and waiting confidently for results. Reversed, it points to delays, obstacles, disappointing returns or plans that need to be reconsidered before you go further.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "progress",
+          "expansion",
+          "foresight",
+          "opportunity",
+          "momentum"
         ],
         "reversed": [
-          "placeholder"
+          "delays",
+          "obstacles",
+          "disappointment",
+          "lack of foresight",
+          "frustration"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Three of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Three of Wands.",
+      "upright": "Upright, the Three of Wands shows ships coming in. The groundwork is done, and you can begin to see the results of earlier effort. It favors thinking long-term, building partnerships and widening your reach, including trade, travel or work with people far away.",
+      "reversed": "Reversed, the Three of Wands suggests the ships are late. Plans may be delayed, partners unreliable or expectations too high. It is a moment to check your assumptions and adjust the route rather than abandon the voyage.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Three of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Three of Wands."
+            "short": "Early efforts in the past began to pay off, and that momentum carried you forward."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Three of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Three of Wands."
+            "short": "Past plans met delays or setbacks, and you are still waiting for some of them to come through."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Three of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Three of Wands."
+            "short": "Your work is starting to show results. Keep an eye on the horizon and prepare for growth."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Three of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Three of Wands."
+            "short": "Progress is slower than expected. Review your plan and fix what is holding things up."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Three of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Three of Wands."
+            "short": "Expansion is ahead: new markets, travel or opportunities that widen your world."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Three of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Three of Wands."
+            "short": "Expect some delays. Building in time and flexibility now will protect your plans later."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Three of Wands.",
-      "faq": [
-        {
-          "question": "What does Three of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Wands."
-        },
-        {
-          "question": "Is Three of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Wands."
-        },
-        {
-          "question": "What does Three of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Wands."
-        }
-      ]
+      }
     },
     "four-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Four of Wands",
-      "imageAlt": "Four of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Four of Wands.",
+      "imageAlt": "Four of Wands: four wands topped by a garland of flowers and fruit stand in the foreground while two figures raise bouquets in celebration before a castle.",
+      "summary": "The Four of Wands represents celebration, homecoming and a stable foundation. Upright, it signals happy milestones such as weddings, reunions or moving into a new home. Reversed, it points to tension at home, a celebration postponed or a feeling of not quite belonging.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "celebration",
+          "home",
+          "harmony",
+          "milestones",
+          "community"
         ],
         "reversed": [
-          "placeholder"
+          "conflict at home",
+          "cancelled plans",
+          "instability",
+          "lack of support",
+          "transition"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Four of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Four of Wands.",
+      "upright": "Upright, the Four of Wands is a card of joy and welcome. Something has been completed or secured, and it is time to share it with the people you care about. It often points to home, family gatherings, weddings and a sense of belonging.",
+      "reversed": "Reversed, the Four of Wands suggests the celebration is on hold. There may be friction in the household, a change of plans or a sense that a place no longer feels like home. The foundation is still there; it needs attention.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Four of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Four of Wands."
+            "short": "A happy milestone or a time of real belonging in the past still gives you a sense of security."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Four of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Four of Wands."
+            "short": "Past instability at home or a missed celebration left you wanting a stronger sense of belonging."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Four of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Four of Wands."
+            "short": "Celebrate what you have built. Gather your people and enjoy a moment of stability."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Four of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Four of Wands."
+            "short": "Something is unsettling your home life. Talk it through so the foundation stays strong."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Four of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Four of Wands."
+            "short": "A joyful event is coming, perhaps a homecoming, a move or a gathering worth celebrating."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Four of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Four of Wands."
+            "short": "Plans for a celebration or a move may shift. Stay flexible and focus on the people, not the details."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Four of Wands.",
-      "faq": [
-        {
-          "question": "What does Four of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Wands."
-        },
-        {
-          "question": "Is Four of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Wands."
-        },
-        {
-          "question": "What does Four of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Wands."
-        }
-      ]
+      }
     },
     "five-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Five of Wands",
-      "imageAlt": "Five of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Five of Wands.",
+      "imageAlt": "Five of Wands: five young men in different clothes brandish wooden wands at one another in a disorderly mock fight.",
+      "summary": "The Five of Wands represents competition, conflict and clashing ideas. Upright, it signals rivalry, disagreement or a busy struggle where everyone pushes their own view. Reversed, it points to avoiding conflict, tension finally easing or arguments that have turned inward and unspoken.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "competition",
+          "conflict",
+          "rivalry",
+          "disagreement",
+          "tension"
         ],
         "reversed": [
-          "placeholder"
+          "conflict avoidance",
+          "resolution",
+          "inner conflict",
+          "truce",
+          "suppressed tension"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Five of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Five of Wands.",
+      "upright": "Upright, the Five of Wands is noisy. Many people want different things at once, and nobody is quite listening. It can describe healthy competition that sharpens skills, or petty friction that wastes energy. Decide which this is, and whether the fight is worth having.",
+      "reversed": "Reversed, the Five of Wands suggests the struggle is changing. A conflict may be winding down, or it may have gone underground, with people avoiding hard conversations. Clearing the air honestly will help more than keeping the peace on the surface.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Five of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Five of Wands."
+            "short": "Competition or conflict in the past tested you and helped you find your own voice."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Five of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Five of Wands."
+            "short": "Past arguments were left unresolved, and that tension still affects relationships today."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Five of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Five of Wands."
+            "short": "You are in the middle of competing interests. Stand your ground without turning it into a war."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Five of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Five of Wands."
+            "short": "You are avoiding a necessary disagreement. Raise the issue calmly before it grows."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Five of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Five of Wands."
+            "short": "Expect competition or debate ahead. Prepare your case and keep it constructive."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Five of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Five of Wands."
+            "short": "A conflict is likely to ease. Use the calm to rebuild cooperation."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Five of Wands.",
-      "faq": [
-        {
-          "question": "What does Five of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Wands."
-        },
-        {
-          "question": "Is Five of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Wands."
-        },
-        {
-          "question": "What does Five of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Wands."
-        }
-      ]
+      }
     },
     "six-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Six of Wands",
-      "imageAlt": "Six of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Six of Wands.",
+      "imageAlt": "Six of Wands: a rider wearing a laurel wreath sits on a white horse holding a wand topped with another wreath, surrounded by a crowd carrying wands.",
+      "summary": "The Six of Wands represents victory, recognition and public success. Upright, it signals winning, praise and confidence earned through effort. Reversed, it points to a fall from grace, lack of recognition, self-doubt or caring too much about how others see you.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "victory",
+          "recognition",
+          "success",
+          "confidence",
+          "praise"
         ],
         "reversed": [
-          "placeholder"
+          "lack of recognition",
+          "self-doubt",
+          "ego",
+          "fall from grace",
+          "disappointment"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Six of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Six of Wands.",
+      "upright": "Upright, the Six of Wands is a victory parade. Your work has paid off, and other people can see it. The card encourages you to accept recognition gracefully and use the momentum. Confidence gained here can carry you into the next challenge.",
+      "reversed": "Reversed, the Six of Wands suggests the applause is missing or the win feels hollow. Credit may go to someone else, or pride may come before a stumble. It also asks whether you are chasing approval more than the goal itself.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Six of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Six of Wands."
+            "short": "A clear success in the past earned you respect and confidence that still serve you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Six of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Six of Wands."
+            "short": "In the past your efforts went unrecognized, or a public setback still stings."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Six of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Six of Wands."
+            "short": "You are winning. Accept the recognition and keep moving forward with confidence."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Six of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Six of Wands."
+            "short": "You feel overlooked or unsure of yourself. Focus on what you have achieved, not on who noticed."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Six of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Six of Wands."
+            "short": "Success and recognition are coming. Your hard work is about to be seen."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Six of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Six of Wands."
+            "short": "Do not let ego or other people's opinions decide your next move. Stay grounded."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Six of Wands.",
-      "faq": [
-        {
-          "question": "What does Six of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Wands."
-        },
-        {
-          "question": "Is Six of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Wands."
-        },
-        {
-          "question": "What does Six of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Wands."
-        }
-      ]
+      }
     },
     "seven-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Seven of Wands",
-      "imageAlt": "Seven of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Seven of Wands.",
+      "imageAlt": "Seven of Wands: a man stands on high ground holding a wand defensively against six wands raised from below, one boot and one shoe on his feet.",
+      "summary": "The Seven of Wands represents defending your position, perseverance and standing firm under pressure. Upright, it signals holding your ground against challenges or competition. Reversed, it points to feeling overwhelmed, giving up too soon or being defensive when no real threat exists.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "defense",
+          "perseverance",
+          "standing firm",
+          "challenge",
+          "conviction"
         ],
         "reversed": [
-          "placeholder"
+          "overwhelm",
+          "giving up",
+          "exhaustion",
+          "defensiveness",
+          "yielding"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Seven of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Seven of Wands.",
+      "upright": "Upright, the Seven of Wands shows someone on high ground, outnumbered but holding on. You have something worth protecting, whether a position, idea or boundary, and others are testing it. The card says your advantage is real. Stay determined and do not back down without reason.",
+      "reversed": "Reversed, the Seven of Wands suggests the pressure is wearing you down. You may be tempted to give up, or you may be fighting battles that no longer matter. Ask which positions are worth defending, and let the rest go.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Seven of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Seven of Wands."
+            "short": "You defended something important in the past, and standing firm then shaped where you are now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Seven of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Seven of Wands."
+            "short": "In the past you gave in under pressure, or wore yourself out defending the wrong thing."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Seven of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Seven of Wands."
+            "short": "Hold your ground. Your position is stronger than the pressure makes it feel."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Seven of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Seven of Wands."
+            "short": "You are exhausted or overly defensive. Choose your battles and rest where you can."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Seven of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Seven of Wands."
+            "short": "Challenges to your position are coming. Prepare, and trust your conviction."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Seven of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Seven of Wands."
+            "short": "Pressure ahead may tempt you to quit. Decide now what you will not compromise on."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Seven of Wands.",
-      "faq": [
-        {
-          "question": "What does Seven of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Wands."
-        },
-        {
-          "question": "Is Seven of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Wands."
-        },
-        {
-          "question": "What does Seven of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Wands."
-        }
-      ]
+      }
     },
     "eight-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Eight of Wands",
-      "imageAlt": "Eight of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Eight of Wands.",
+      "imageAlt": "Eight of Wands: eight flowering wands fly diagonally through a clear sky over a green landscape with a river and a house on a hill.",
+      "summary": "The Eight of Wands represents speed, movement and things happening quickly. Upright, it signals rapid progress, news arriving, travel and plans finally taking off. Reversed, it points to delays, frustration, miscommunication or rushing so fast that important details are missed.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "speed",
+          "movement",
+          "progress",
+          "news",
+          "travel"
         ],
         "reversed": [
-          "placeholder"
+          "delays",
+          "frustration",
+          "haste",
+          "miscommunication",
+          "waiting"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Eight of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Eight of Wands.",
+      "upright": "Upright, the Eight of Wands is all momentum. Obstacles clear, messages arrive and plans that were stuck start moving fast. It is a good time to act decisively, reply promptly and travel. Keep your focus so the pace does not scatter you.",
+      "reversed": "Reversed, the Eight of Wands suggests the wands have stalled in mid-air. Expected news may be late, travel disrupted or communication crossed. It can also warn against rushing. Patience and clear follow-up will get things moving again.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Eight of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Eight of Wands."
+            "short": "A burst of rapid progress or sudden news in the past moved your situation forward quickly."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Eight of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Eight of Wands."
+            "short": "Past delays or crossed messages slowed you down, and you may still be catching up."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Eight of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Eight of Wands."
+            "short": "Things are moving fast. Respond quickly and keep your attention on the goal."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Eight of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Eight of Wands."
+            "short": "Progress is stalled or rushed. Slow down, check the details and follow up clearly."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Eight of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Eight of Wands."
+            "short": "Swift developments are coming: news, travel or a breakthrough that speeds everything up."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Eight of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Eight of Wands."
+            "short": "Expect a delay ahead. Build in patience so frustration does not lead to hasty choices."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Eight of Wands.",
-      "faq": [
-        {
-          "question": "What does Eight of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Wands."
-        },
-        {
-          "question": "Is Eight of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Wands."
-        },
-        {
-          "question": "What does Eight of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Wands."
-        }
-      ]
+      }
     },
     "nine-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Nine of Wands",
-      "imageAlt": "Nine of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Nine of Wands.",
+      "imageAlt": "Nine of Wands: a weary man with a bandaged head leans on a wand and glances warily over his shoulder, with eight more wands standing behind him like a fence.",
+      "summary": "The Nine of Wands represents resilience, persistence and the last stretch of a hard effort. Upright, it signals that you are tired but close to the finish and should keep going. Reversed, it points to exhaustion, paranoia, stubbornness or a need to accept help and rest.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "resilience",
+          "persistence",
+          "courage",
+          "last stretch",
+          "boundaries"
         ],
         "reversed": [
-          "placeholder"
+          "exhaustion",
+          "paranoia",
+          "stubbornness",
+          "burnout",
+          "giving up"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Nine of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Nine of Wands.",
+      "upright": "Upright, the Nine of Wands shows someone who has been through a lot and is still standing. The bandage tells of past battles; the wands behind him show defenses in place. The card says you are nearly there. Keep going, but protect your energy.",
+      "reversed": "Reversed, the Nine of Wands suggests the strain has become too much. You may be pushing on out of stubbornness, expecting attack from every side, or close to burnout. Rest, ask for help and drop the battles that no longer serve you.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Nine of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Nine of Wands."
+            "short": "Past hardships taught you resilience. You kept going when it was hard, and that strength remains."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Nine of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Nine of Wands."
+            "short": "Past struggles left you guarded or worn out, and you may still be expecting the next blow."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Nine of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Nine of Wands."
+            "short": "You are tired but close to the finish. Hold on a little longer and guard your energy."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Nine of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Nine of Wands."
+            "short": "You are running on empty. Accept support and give yourself time to recover."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Nine of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Nine of Wands."
+            "short": "One more challenge lies ahead, and you have the stamina to meet it."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Nine of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Nine of Wands."
+            "short": "Watch for burnout ahead. Pace yourself now rather than pushing until you break."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Nine of Wands.",
-      "faq": [
-        {
-          "question": "What does Nine of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Wands."
-        },
-        {
-          "question": "Is Nine of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Wands."
-        },
-        {
-          "question": "What does Nine of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Wands."
-        }
-      ]
+      }
     },
     "ten-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Ten of Wands",
-      "imageAlt": "Ten of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ten of Wands.",
+      "imageAlt": "Ten of Wands: a man bends forward under the weight of ten wands held in his arms, struggling toward a town in the distance.",
+      "summary": "The Ten of Wands represents burden, responsibility and working too hard. Upright, it signals carrying more than your share and feeling weighed down by obligations. Reversed, it points to letting go of tasks, delegating, burnout catching up or finally putting down a load that was never yours.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "burden",
+          "responsibility",
+          "hard work",
+          "stress",
+          "obligation"
         ],
         "reversed": [
-          "placeholder"
+          "delegation",
+          "release",
+          "burnout",
+          "collapse",
+          "letting go"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Ten of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Ten of Wands.",
+      "upright": "Upright, the Ten of Wands shows success that has turned heavy. You may have said yes to everything, and now the load blocks your view. The destination is close, but the card asks whether you need to carry it all, and alone.",
+      "reversed": "Reversed, the Ten of Wands suggests the load is shifting. You may be learning to delegate and say no, or you may have hit a wall. Either way, it is time to put some of the wands down.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Ten of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Ten of Wands."
+            "short": "In the past you carried heavy responsibilities, and that hard work built where you are today."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Ten of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Ten of Wands."
+            "short": "You took on too much in the past, and the effects of that strain are still with you."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Ten of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Ten of Wands."
+            "short": "You are carrying too much. List your obligations and see which ones you can share or drop."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Ten of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Ten of Wands."
+            "short": "You are ready to let go of some burdens. Delegate, and do not pick them back up out of habit."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Ten of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Ten of Wands."
+            "short": "A heavy period of work is ahead. Plan help and rest into it from the start."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Ten of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Ten of Wands."
+            "short": "Relief is coming as old obligations end or get shared. Make room for what matters."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ten of Wands.",
-      "faq": [
-        {
-          "question": "What does Ten of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Wands."
-        },
-        {
-          "question": "Is Ten of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Wands."
-        },
-        {
-          "question": "What does Ten of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Wands."
-        }
-      ]
+      }
     },
     "page-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Page of Wands",
-      "imageAlt": "Page of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Page of Wands.",
+      "imageAlt": "Page of Wands: a young man in a tunic patterned with salamanders stands in a desert, holding a tall sprouting wand and gazing at its tip, pyramids in the distance.",
+      "summary": "The Page of Wands represents curiosity, enthusiasm and the first steps of exploration. Upright, it signals exciting ideas, a message about a new venture or a free-spirited learner. Reversed, it points to restless energy, unfinished plans, impatience or ideas that never move past the talking stage.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "curiosity",
+          "enthusiasm",
+          "exploration",
+          "discovery",
+          "free spirit"
         ],
         "reversed": [
-          "placeholder"
+          "restlessness",
+          "procrastination",
+          "impatience",
+          "unfinished plans",
+          "lack of direction"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Page of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Page of Wands.",
+      "upright": "Upright, the Page of Wands is eager to learn and try things. A new interest, course or adventure is calling, and the card encourages you to follow it with an open, playful mind. It can also bring news that sparks your enthusiasm.",
+      "reversed": "Reversed, the Page of Wands shows energy without direction. You may jump between ideas, start projects and drop them, or feel stuck waiting for inspiration. Choose one interest and give it real time.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Page of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Page of Wands."
+            "short": "A burst of curiosity in the past sent you exploring, and that spirit still shapes your choices."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Page of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Page of Wands."
+            "short": "In the past you started things with excitement but did not follow through."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Page of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Page of Wands."
+            "short": "Follow what excites you. Explore, ask questions and try something new without overplanning."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Page of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Page of Wands."
+            "short": "Your enthusiasm is scattered. Commit to one idea long enough to see where it leads."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Page of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Page of Wands."
+            "short": "Exciting news or a new interest is on its way. Approach it with curiosity."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Page of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Page of Wands."
+            "short": "Plans may stall if excitement fades. Turn an idea into a simple routine early on."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Page of Wands.",
-      "faq": [
-        {
-          "question": "What does Page of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Wands."
-        },
-        {
-          "question": "Is Page of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Wands."
-        },
-        {
-          "question": "What does Page of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Wands."
-        }
-      ]
+      }
     },
     "knight-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Knight of Wands",
-      "imageAlt": "Knight of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Knight of Wands.",
+      "imageAlt": "Knight of Wands: an armored knight in a salamander-patterned tunic rides a rearing orange horse across a desert, holding a wand high.",
+      "summary": "The Knight of Wands represents action, adventure and bold, passionate energy. Upright, it signals charging toward a goal, travel or a confident, spontaneous person. Reversed, it points to recklessness, impatience, scattered efforts or starting things with a rush and abandoning them halfway.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "action",
+          "adventure",
+          "passion",
+          "confidence",
+          "impulsiveness"
         ],
         "reversed": [
-          "placeholder"
+          "recklessness",
+          "haste",
+          "frustration",
+          "scattered energy",
+          "delays"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Knight of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Knight of Wands.",
+      "upright": "Upright, the Knight of Wands moves fast and fearlessly. It is a card of bold action, travel and pursuing a passion with full commitment. It can describe a charismatic, adventurous person. The energy is exciting; channel it toward a clear target.",
+      "reversed": "Reversed, the Knight of Wands shows that energy turning messy. Impatience may lead to mistakes, plans may be dropped as soon as they get hard, or tempers may flare. Slow down enough to steer.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Knight of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Knight of Wands."
+            "short": "A bold move or adventurous phase in the past pushed you forward and still fuels your confidence."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Knight of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Knight of Wands."
+            "short": "Past impulsive decisions caused problems you are still sorting out."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Knight of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Knight of Wands."
+            "short": "Act now with confidence. Go after what you want, but keep your destination in sight."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Knight of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Knight of Wands."
+            "short": "You are rushing or getting frustrated. Pause before acting so energy does not turn into mistakes."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Knight of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Knight of Wands."
+            "short": "An adventure, journey or exciting change is coming. Be ready to move quickly."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Knight of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Knight of Wands."
+            "short": "Beware of jumping in without a plan. Excitement ahead needs some structure to last."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Knight of Wands.",
-      "faq": [
-        {
-          "question": "What does Knight of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Wands."
-        },
-        {
-          "question": "Is Knight of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Wands."
-        },
-        {
-          "question": "What does Knight of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Wands."
-        }
-      ]
+      }
     },
     "queen-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Queen of Wands",
-      "imageAlt": "Queen of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Queen of Wands.",
+      "imageAlt": "Queen of Wands: a queen sits on a throne decorated with lions, holding a wand in one hand and a sunflower in the other, a black cat seated at her feet.",
+      "summary": "The Queen of Wands represents confidence, warmth and determined, creative leadership. Upright, it signals self-assurance, charisma and the ability to inspire others while staying true to yourself. Reversed, it points to self-doubt, jealousy, burnout or a strong personality turning demanding and controlling.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "confidence",
+          "warmth",
+          "determination",
+          "charisma",
+          "independence"
         ],
         "reversed": [
-          "placeholder"
+          "self-doubt",
+          "jealousy",
+          "demanding behavior",
+          "burnout",
+          "insecurity"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Queen of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Queen of Wands.",
+      "upright": "Upright, the Queen of Wands knows who she is. She is warm and sociable but also fiercely capable, juggling many things with energy to spare. The card encourages you to step forward, show your talents and lead by example. Your confidence is contagious.",
+      "reversed": "Reversed, the Queen of Wands suggests the fire is flickering. You may be doubting yourself, comparing yourself with others or spreading yourself too thin. It can also point to someone whose confidence has become domineering. Reconnect with what genuinely energizes you.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Queen of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Queen of Wands."
+            "short": "A period of confidence and visibility in the past showed you what you are capable of."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Queen of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Queen of Wands."
+            "short": "Self-doubt or jealousy in the past dimmed your light, and you are still reclaiming it."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Queen of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Queen of Wands."
+            "short": "Be bold and visible. Your warmth and determination can lead others right now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Queen of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Queen of Wands."
+            "short": "You are doubting yourself or overextended. Rest, and focus on what makes you feel strong."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Queen of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Queen of Wands."
+            "short": "You will step into a confident, influential role. Let your personality shine."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Queen of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Queen of Wands."
+            "short": "Watch for burnout or rivalry ahead. Protect your energy and your sense of self."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Queen of Wands.",
-      "faq": [
-        {
-          "question": "What does Queen of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Wands."
-        },
-        {
-          "question": "Is Queen of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Wands."
-        },
-        {
-          "question": "What does Queen of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Wands."
-        }
-      ]
+      }
     },
     "king-of-wands": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "King of Wands",
-      "imageAlt": "King of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for King of Wands.",
+      "imageAlt": "King of Wands: a king sits on a throne carved with lions and salamanders, holding a flowering wand, a small salamander at his feet.",
+      "summary": "The King of Wands represents visionary leadership, boldness and turning big ideas into reality. Upright, it signals taking charge, inspiring others and acting with long-term vision. Reversed, it points to impulsiveness, arrogance, unrealistic expectations or a leader who overreaches without listening to others.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "leadership",
+          "vision",
+          "boldness",
+          "entrepreneurship",
+          "honor"
         ],
         "reversed": [
-          "placeholder"
+          "impulsiveness",
+          "arrogance",
+          "overreach",
+          "high expectations",
+          "ruthlessness"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for King of Wands.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for King of Wands.",
+      "upright": "Upright, the King of Wands sees the big picture and has the drive to pursue it. He leads through inspiration rather than control. The card favors entrepreneurship, setting a bold direction and taking responsibility for a vision. Others are ready to follow if you lead.",
+      "reversed": "Reversed, the King of Wands suggests vision without balance. Plans may be too ambitious, decisions too hasty or leadership too forceful. Listen to others, check your expectations and lead with integrity rather than ego.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for King of Wands.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for King of Wands."
+            "short": "Bold leadership in the past, yours or someone else's, set a direction you are still following."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for King of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for King of Wands."
+            "short": "A leader's overreach or your own impatience in the past caused setbacks you still feel."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for King of Wands.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for King of Wands."
+            "short": "Take the lead. Set a clear vision and inspire others to work toward it with you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for King of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for King of Wands."
+            "short": "You may be pushing too hard or expecting too much. Slow down and listen before you decide."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for King of Wands.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for King of Wands."
+            "short": "A leadership opportunity or a chance to launch a big idea is coming."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for King of Wands.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for King of Wands."
+            "short": "Ambition ahead could outrun your resources. Plan carefully and share responsibility."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for King of Wands.",
-      "faq": [
-        {
-          "question": "What does King of Wands mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Wands."
-        },
-        {
-          "question": "Is King of Wands a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Wands."
-        },
-        {
-          "question": "What does King of Wands mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Wands."
-        }
-      ]
+      }
     }
   }
 }

@@ -2,886 +2,704 @@
   "$schema": "../../../schema/card-text.schema.json",
   "cards": {
     "ace-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Ace of Swords",
-      "imageAlt": "Ace of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ace of Swords.",
+      "imageAlt": "Ace of Swords: a hand emerges from a cloud gripping an upright sword whose tip passes through a crown hung with olive and palm branches, above bare mountains.",
+      "summary": "The Ace of Swords represents clarity, truth and a breakthrough in thinking. Upright, it signals a sharp new idea, an honest conversation or a decision made with a clear mind. Reversed, it points to confusion, misinformation, harsh words or an idea that lacks the focus to succeed.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "clarity",
+          "truth",
+          "breakthrough",
+          "new idea",
+          "decisiveness"
         ],
         "reversed": [
-          "placeholder"
+          "confusion",
+          "misinformation",
+          "harsh words",
+          "clouded judgment",
+          "lack of focus"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Ace of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Ace of Swords.",
+      "upright": "Upright, the Ace of Swords cuts through fog. You see a situation clearly, perhaps for the first time, and can act on the truth. It favors honest communication, fresh ideas, study and firm decisions. Use this clarity with care, since words can wound as well as heal.",
+      "reversed": "Reversed, the Ace of Swords suggests a blurred blade. Facts may be missing or twisted, thinking may be muddled, or words may be used to hurt. Gather information and wait for clarity before acting.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Ace of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Ace of Swords."
+            "short": "A moment of clarity or a hard truth in the past changed how you saw things for good."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Ace of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Ace of Swords."
+            "short": "In the past confusion or a misunderstanding led you in the wrong direction."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Ace of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Ace of Swords."
+            "short": "You see the situation clearly. Speak honestly and make the decision you have been weighing."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Ace of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Ace of Swords."
+            "short": "Your thinking is clouded. Check the facts and avoid sharp words until things are clearer."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Ace of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Ace of Swords."
+            "short": "A breakthrough is coming: new information, an idea or a truth that clears the way."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Ace of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Ace of Swords."
+            "short": "Expect some confusion ahead. Get things in writing and ask questions before deciding."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ace of Swords.",
-      "faq": [
-        {
-          "question": "What does Ace of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Swords."
-        },
-        {
-          "question": "Is Ace of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Swords."
-        },
-        {
-          "question": "What does Ace of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Swords."
-        }
-      ]
+      }
     },
     "two-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Two of Swords",
-      "imageAlt": "Two of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Two of Swords.",
+      "imageAlt": "Two of Swords: a blindfolded woman in a white robe sits on a stone bench with two long swords crossed over her chest, a calm sea and crescent moon behind her.",
+      "summary": "The Two of Swords represents indecision, stalemate and avoiding a difficult choice. Upright, it signals being stuck between two options and blocking out information that would help. Reversed, it points to information overload, a decision finally made, or emotions breaking through a forced calm.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "indecision",
+          "stalemate",
+          "avoidance",
+          "difficult choice",
+          "denial"
         ],
         "reversed": [
-          "placeholder"
+          "information overload",
+          "decision made",
+          "confusion",
+          "released tension",
+          "lesser of two evils"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Two of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Two of Swords.",
+      "upright": "Upright, the Two of Swords shows someone holding two blades in perfect, tense balance with her eyes covered. You may be avoiding a choice because both options seem hard, or refusing to look at the facts. The card asks you to remove the blindfold.",
+      "reversed": "Reversed, the Two of Swords suggests the stalemate is breaking. You may finally choose, or feel overwhelmed by too much input. Emotions you have suppressed may surface. Either way, staying frozen is no longer possible.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Two of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Two of Swords."
+            "short": "A difficult choice in the past, held for a long time, shaped where you are now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Two of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Two of Swords."
+            "short": "In the past you finally made a hard decision you had avoided, and you live with its results."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Two of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Two of Swords."
+            "short": "You are avoiding a decision. Look honestly at both options and choose."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Two of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Two of Swords."
+            "short": "The pressure to decide has broken through. Trust your judgment, even without perfect information."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Two of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Two of Swords."
+            "short": "A choice between two paths is coming. Prepare by gathering the facts now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Two of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Two of Swords."
+            "short": "A long stalemate will end. Be ready for the feelings that come with the decision."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Two of Swords.",
-      "faq": [
-        {
-          "question": "What does Two of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Swords."
-        },
-        {
-          "question": "Is Two of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Swords."
-        },
-        {
-          "question": "What does Two of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Swords."
-        }
-      ]
+      }
     },
     "three-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Three of Swords",
-      "imageAlt": "Three of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Three of Swords.",
+      "imageAlt": "Three of Swords: a red heart pierced by three swords hangs against a gray sky filled with rain clouds.",
+      "summary": "The Three of Swords represents heartbreak, grief and painful truth. Upright, it signals emotional hurt, separation or sorrow that must be felt to heal. Reversed, it points to recovery, forgiveness and releasing pain, or to grief that is being held in rather than expressed.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "heartbreak",
+          "grief",
+          "sorrow",
+          "painful truth",
+          "separation"
         ],
         "reversed": [
-          "placeholder"
+          "recovery",
+          "forgiveness",
+          "healing",
+          "releasing pain",
+          "repressed grief"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Three of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Three of Swords.",
+      "upright": "Upright, the Three of Swords is one of the most direct images in tarot: a heart pierced in the rain. It describes hurt from loss, betrayal or a painful truth. The card does not soften the pain, but it suggests that facing it honestly is the start of healing.",
+      "reversed": "Reversed, the Three of Swords suggests the storm is passing. You are beginning to heal, forgive and release what hurt you. It can also warn against swallowing grief instead of letting it move through you.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Three of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Three of Swords."
+            "short": "A past heartbreak or loss left a mark, and it also taught you about your own strength."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Three of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Three of Swords."
+            "short": "You have worked through a past hurt, and that healing has made you more resilient."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Three of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Three of Swords."
+            "short": "You are hurting. Allow yourself to grieve and seek comfort from people you trust."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Three of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Three of Swords."
+            "short": "Healing has begun. Keep releasing the pain rather than holding on to it."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Three of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Three of Swords."
+            "short": "A painful truth or disappointment may come. Facing it directly will help you recover."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Three of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Three of Swords."
+            "short": "Relief from an old sorrow is ahead. Forgiveness will bring lightness."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Three of Swords.",
-      "faq": [
-        {
-          "question": "What does Three of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Swords."
-        },
-        {
-          "question": "Is Three of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Swords."
-        },
-        {
-          "question": "What does Three of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Swords."
-        }
-      ]
+      }
     },
     "four-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Four of Swords",
-      "imageAlt": "Four of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Four of Swords.",
+      "imageAlt": "Four of Swords: the effigy of a knight lies with hands joined in prayer on a stone tomb in a church, three swords hanging on the wall above and one carved along the tomb, a stained-glass window behind.",
+      "summary": "The Four of Swords represents rest, recovery and quiet contemplation. Upright, it signals a needed pause to recharge after stress, illness or conflict. Reversed, it points to restlessness, burnout, refusing to rest or slowly returning to activity after a period of withdrawal.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "rest",
+          "recovery",
+          "contemplation",
+          "retreat",
+          "recharging"
         ],
         "reversed": [
-          "placeholder"
+          "restlessness",
+          "burnout",
+          "exhaustion",
+          "reawakening",
+          "resisting rest"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Four of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Four of Swords.",
+      "upright": "Upright, the Four of Swords calls for stillness. After a hard time, the mind and body need recovery. Take a break, step away from conflict and let your thoughts settle. This rest is not wasted time; it is preparation for what comes next.",
+      "reversed": "Reversed, the Four of Swords suggests rest is being ignored or is ending. You may be pushing on despite exhaustion, or feeling restless after a long pause. Listen to your body, and return to activity gradually.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Four of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Four of Swords."
+            "short": "A period of rest or retreat in the past helped you recover and regain perspective."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Four of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Four of Swords."
+            "short": "In the past you pushed through exhaustion instead of resting, and you may still feel the cost."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Four of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Four of Swords."
+            "short": "Take time out. Rest, reflect and let your mind recover before acting."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Four of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Four of Swords."
+            "short": "You are running on empty but refusing to stop. Schedule real rest now."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Four of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Four of Swords."
+            "short": "A quiet period of recovery is coming. Use it well."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Four of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Four of Swords."
+            "short": "You may be tempted to skip rest ahead. Plan recovery before burnout forces it."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Four of Swords.",
-      "faq": [
-        {
-          "question": "What does Four of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Swords."
-        },
-        {
-          "question": "Is Four of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Swords."
-        },
-        {
-          "question": "What does Four of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Swords."
-        }
-      ]
+      }
     },
     "five-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Five of Swords",
-      "imageAlt": "Five of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Five of Swords.",
+      "imageAlt": "Five of Swords: a smirking man gathers up swords while two dejected figures walk away toward the shore, two swords lying on the ground under a windswept sky.",
+      "summary": "The Five of Swords represents conflict, defeat and winning at a cost. Upright, it signals arguments, hostility and victories that damage relationships. Reversed, it points to reconciliation, letting go of a grudge, ending a conflict or lingering resentment after a painful dispute.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "conflict",
+          "defeat",
+          "hollow victory",
+          "hostility",
+          "self-interest"
         ],
         "reversed": [
-          "placeholder"
+          "reconciliation",
+          "making amends",
+          "lingering resentment",
+          "ending conflict",
+          "letting go"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Five of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Five of Swords.",
+      "upright": "Upright, the Five of Swords shows a win that leaves everyone worse off. Arguments may have turned personal, or someone may be playing dirty to come out on top. The card asks whether being right is worth what it costs, and when to walk away.",
+      "reversed": "Reversed, the Five of Swords suggests the fight is ending. There may be a chance to make peace, apologize or let go of resentment. It can also show bitterness that lingers after the conflict itself has passed.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Five of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Five of Swords."
+            "short": "A past conflict ended badly for someone, and the tension from it still lingers."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Five of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Five of Swords."
+            "short": "You moved past an old conflict, and that reconciliation still helps you."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Five of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Five of Swords."
+            "short": "A conflict is costing more than it is worth. Choose your battles carefully."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Five of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Five of Swords."
+            "short": "It is time to make peace. Let go of the grudge and repair what you can."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Five of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Five of Swords."
+            "short": "A clash of interests may come. Think about the long-term cost before trying to win."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Five of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Five of Swords."
+            "short": "A conflict will ease. An apology or compromise can close it for good."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Five of Swords.",
-      "faq": [
-        {
-          "question": "What does Five of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Swords."
-        },
-        {
-          "question": "Is Five of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Swords."
-        },
-        {
-          "question": "What does Five of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Swords."
-        }
-      ]
+      }
     },
     "six-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Six of Swords",
-      "imageAlt": "Six of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Six of Swords.",
+      "imageAlt": "Six of Swords: a ferryman poles a small boat carrying a cloaked woman and a child across water toward a distant shore, six swords standing upright in the boat.",
+      "summary": "The Six of Swords represents transition, moving on and leaving difficulty behind. Upright, it signals calmer waters ahead, a journey or a gradual recovery after a hard period. Reversed, it points to resisting change, unfinished business or carrying old problems into a new situation.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "transition",
+          "moving on",
+          "recovery",
+          "journey",
+          "calmer times"
         ],
         "reversed": [
-          "placeholder"
+          "resisting change",
+          "unfinished business",
+          "stuck",
+          "emotional baggage",
+          "delayed journey"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Six of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Six of Swords.",
+      "upright": "Upright, the Six of Swords shows a crossing toward quieter waters. The swords still travel with the passengers, so the past is not forgotten, but the worst is behind you. It favors moving forward, accepting help and travel.",
+      "reversed": "Reversed, the Six of Swords suggests the boat is stuck or turning back. You may be reluctant to leave, or bringing old troubles with you. Resolve what you can before moving on, or the same problems may follow.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Six of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Six of Swords."
+            "short": "You left a difficult situation behind in the past, and that move brought you to calmer ground."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Six of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Six of Swords."
+            "short": "In the past you could not move on, and some of that unfinished business remains."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Six of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Six of Swords."
+            "short": "You are leaving a hard time behind. Keep moving toward calmer water and accept help."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Six of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Six of Swords."
+            "short": "You are resisting a necessary move. Deal with what holds you back, then go."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Six of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Six of Swords."
+            "short": "A transition or journey ahead will bring relief and a fresh outlook."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Six of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Six of Swords."
+            "short": "Moving on may take longer than hoped. Clear old baggage first."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Six of Swords.",
-      "faq": [
-        {
-          "question": "What does Six of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Swords."
-        },
-        {
-          "question": "Is Six of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Swords."
-        },
-        {
-          "question": "What does Six of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Swords."
-        }
-      ]
+      }
     },
     "seven-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Seven of Swords",
-      "imageAlt": "Seven of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Seven of Swords.",
+      "imageAlt": "Seven of Swords: a man tiptoes away from a military camp carrying five swords and looking back over his shoulder, two swords left standing in the ground behind him.",
+      "summary": "The Seven of Swords represents deception, strategy and getting away with something. Upright, it signals secrecy, cutting corners or someone acting behind the scenes. Reversed, it points to a deception being exposed, a guilty conscience, coming clean or a strategy that no longer works.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "deception",
+          "strategy",
+          "secrecy",
+          "cunning",
+          "evasion"
         ],
         "reversed": [
-          "placeholder"
+          "exposure",
+          "confession",
+          "guilty conscience",
+          "coming clean",
+          "failed scheme"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Seven of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Seven of Swords.",
+      "upright": "Upright, the Seven of Swords warns that not everything is out in the open. Someone may be dishonest, or you may be tempted to bend the rules. It can also mean clever strategy and working alone. Ask whether your methods would survive being seen.",
+      "reversed": "Reversed, the Seven of Swords suggests secrets are surfacing. A deception may be uncovered, or you may feel ready to admit something. Honesty, even when uncomfortable, will restore your peace of mind.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Seven of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Seven of Swords."
+            "short": "A past deception, yours or someone else's, still affects trust in your situation."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Seven of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Seven of Swords."
+            "short": "Something hidden in the past came to light, and you have been dealing with the fallout."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Seven of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Seven of Swords."
+            "short": "Be alert to dishonesty, and make sure your own conduct is above board."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Seven of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Seven of Swords."
+            "short": "It is time to come clean. Telling the truth will lift a weight."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Seven of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Seven of Swords."
+            "short": "Watch for hidden agendas ahead. Protect your interests and verify what you are told."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Seven of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Seven of Swords."
+            "short": "A secret will surface. Prepare to handle it calmly and honestly."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Seven of Swords.",
-      "faq": [
-        {
-          "question": "What does Seven of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Swords."
-        },
-        {
-          "question": "Is Seven of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Swords."
-        },
-        {
-          "question": "What does Seven of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Swords."
-        }
-      ]
+      }
     },
     "eight-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Eight of Swords",
-      "imageAlt": "Eight of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Eight of Swords.",
+      "imageAlt": "Eight of Swords: a woman, blindfolded and loosely bound, stands in a muddy marsh surrounded by eight swords planted in the ground, a castle on the cliff behind her.",
+      "summary": "The Eight of Swords represents feeling trapped, powerless and limited by your own thinking. Upright, it signals self-imposed restrictions, fear and a belief that there is no way out. Reversed, it points to release, new perspective, regaining control and realizing the restraints were looser than they seemed.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "restriction",
+          "feeling trapped",
+          "self-limiting beliefs",
+          "fear",
+          "powerlessness"
         ],
         "reversed": [
-          "placeholder"
+          "release",
+          "freedom",
+          "new perspective",
+          "self-acceptance",
+          "regaining control"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Eight of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Eight of Swords.",
+      "upright": "Upright, the Eight of Swords shows someone who feels stuck, yet the swords do not fully enclose her and the bindings are loose. The trap is mostly in the mind: fear, worry or old beliefs. The card asks you to question the story you are telling yourself.",
+      "reversed": "Reversed, the Eight of Swords suggests the blindfold is coming off. You are seeing options you missed and taking steps toward freedom. Anxiety may still visit, but you are no longer ruled by it.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Eight of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Eight of Swords."
+            "short": "In the past you felt trapped by circumstances or your own fears, and that experience still shapes you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Eight of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Eight of Swords."
+            "short": "You freed yourself from a limiting situation in the past, and that gives you confidence now."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Eight of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Eight of Swords."
+            "short": "You feel stuck, but the limits are less solid than they seem. Look for one small way out."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Eight of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Eight of Swords."
+            "short": "You are breaking free. Keep questioning the fears that held you back."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Eight of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Eight of Swords."
+            "short": "You may face a situation that feels restrictive. Remember you have more options than it appears."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Eight of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Eight of Swords."
+            "short": "Freedom and a clearer outlook are coming. Old limits will lose their hold."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Eight of Swords.",
-      "faq": [
-        {
-          "question": "What does Eight of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Swords."
-        },
-        {
-          "question": "Is Eight of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Swords."
-        },
-        {
-          "question": "What does Eight of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Swords."
-        }
-      ]
+      }
     },
     "nine-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Nine of Swords",
-      "imageAlt": "Nine of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Nine of Swords.",
+      "imageAlt": "Nine of Swords: a figure sits up in bed with their face in their hands, nine swords hanging horizontally on the black wall behind, the quilt patterned with roses and astrological signs.",
+      "summary": "The Nine of Swords represents anxiety, worry and sleepless nights. Upright, it signals fear, guilt or overthinking that makes problems feel worse than they are. Reversed, it points to recovering from anxiety, seeking help and putting worries in perspective, or to despair reaching a peak.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "anxiety",
+          "worry",
+          "fear",
+          "overthinking",
+          "sleeplessness"
         ],
         "reversed": [
-          "placeholder"
+          "recovery",
+          "hope",
+          "seeking help",
+          "perspective",
+          "deep despair"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Nine of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Nine of Swords.",
+      "upright": "Upright, the Nine of Swords is the card of the 3 a.m. thought spiral. Worry, guilt or dread is keeping you awake, often more painful than the actual situation. The card asks you to talk about your fears and check them against reality.",
+      "reversed": "Reversed, the Nine of Swords suggests the worst of the anxiety may be easing as you reach out or reframe your thoughts. In some cases it marks a peak of distress. Either way, support from others is important, and asking for it is a strength.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Nine of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Nine of Swords."
+            "short": "A time of deep worry in the past still colors how you approach problems."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Nine of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Nine of Swords."
+            "short": "You came through a period of anxiety in the past, and that recovery gives you perspective."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Nine of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Nine of Swords."
+            "short": "Your worries are heavy. Share them with someone you trust and look at the facts."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Nine of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Nine of Swords."
+            "short": "You are starting to see past your fears. Keep reaching out for support."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Nine of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Nine of Swords."
+            "short": "Anxiety may rise ahead. Build calming habits and a support network now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Nine of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Nine of Swords."
+            "short": "Relief from worry is coming. Things will look less frightening soon."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Nine of Swords.",
-      "faq": [
-        {
-          "question": "What does Nine of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Swords."
-        },
-        {
-          "question": "Is Nine of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Swords."
-        },
-        {
-          "question": "What does Nine of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Swords."
-        }
-      ]
+      }
     },
     "ten-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Ten of Swords",
-      "imageAlt": "Ten of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ten of Swords.",
+      "imageAlt": "Ten of Swords: a man lies face down by the water with ten swords in his back beneath a black sky, while a band of golden dawn light rises over the distant hills.",
+      "summary": "The Ten of Swords represents painful endings, rock bottom and the close of a difficult chapter. Upright, it signals betrayal, defeat or a situation that has completely run its course. Reversed, it points to recovery, surviving the worst, slowly rising again or refusing to let something end.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "painful ending",
+          "rock bottom",
+          "betrayal",
+          "defeat",
+          "closure"
         ],
         "reversed": [
-          "placeholder"
+          "recovery",
+          "regeneration",
+          "survival",
+          "resisting an ending",
+          "lessons learned"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Ten of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Ten of Swords.",
+      "upright": "Upright, the Ten of Swords looks dramatic, but its message is final, not fatal: something is over. The worst has happened, and there is nowhere lower to go. Notice the dawn on the horizon. Accept the ending so that recovery can start.",
+      "reversed": "Reversed, the Ten of Swords suggests you are getting back up. Healing is slow but real, and the lessons are becoming clear. It can also warn against reopening a wound by holding on to what has already ended.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Ten of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Ten of Swords."
+            "short": "A painful ending in the past hit hard, but it cleared the way for a new beginning."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Ten of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Ten of Swords."
+            "short": "You have recovered from a past low point, and that resilience is now part of you."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Ten of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Ten of Swords."
+            "short": "A difficult chapter is closing. Let it end, and trust that things can only improve from here."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Ten of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Ten of Swords."
+            "short": "You are recovering. Keep moving forward and do not return to old wounds."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Ten of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Ten of Swords."
+            "short": "A painful ending may be coming, followed by a real new start."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Ten of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Ten of Swords."
+            "short": "Recovery is ahead. What felt like defeat will become a turning point."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ten of Swords.",
-      "faq": [
-        {
-          "question": "What does Ten of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Swords."
-        },
-        {
-          "question": "Is Ten of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Swords."
-        },
-        {
-          "question": "What does Ten of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Swords."
-        }
-      ]
+      }
     },
     "page-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Page of Swords",
-      "imageAlt": "Page of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Page of Swords.",
+      "imageAlt": "Page of Swords: a young person stands on a windy hilltop holding a sword upright with both hands, looking alertly to one side, clouds and birds in the sky.",
+      "summary": "The Page of Swords represents curiosity, alertness and a hunger for ideas. Upright, it signals learning, asking questions, speaking up and new ways of thinking. Reversed, it points to gossip, hasty words, defensiveness or scattered thinking that never settles into real understanding.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "curiosity",
+          "alertness",
+          "new ideas",
+          "communication",
+          "learning"
         ],
         "reversed": [
-          "placeholder"
+          "gossip",
+          "hasty words",
+          "defensiveness",
+          "scattered thinking",
+          "all talk"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Page of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Page of Swords.",
+      "upright": "Upright, the Page of Swords is eager to know. It encourages you to research, ask questions and share ideas, even if they are not fully formed. It can also bring news or a challenging conversation. Stay sharp and open-minded.",
+      "reversed": "Reversed, the Page of Swords suggests mental energy without discipline. You may talk more than you listen, spread rumors or argue just to win. Slow down, check your sources and think before you speak.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Page of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Page of Swords."
+            "short": "A burst of curiosity in the past led you to learn something that still shapes your thinking."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Page of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Page of Swords."
+            "short": "In the past careless words or gossip caused trouble that still echoes."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Page of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Page of Swords."
+            "short": "Ask questions and dig into the details. A curious, open mind will serve you well."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Page of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Page of Swords."
+            "short": "You are talking before thinking. Pause, listen and verify before you speak."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Page of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Page of Swords."
+            "short": "New information or a chance to learn is coming. Be ready to engage."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Page of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Page of Swords."
+            "short": "Watch for gossip or hasty communication ahead. Keep your words considered."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Page of Swords.",
-      "faq": [
-        {
-          "question": "What does Page of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Swords."
-        },
-        {
-          "question": "Is Page of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Swords."
-        },
-        {
-          "question": "What does Page of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Swords."
-        }
-      ]
+      }
     },
     "knight-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Knight of Swords",
-      "imageAlt": "Knight of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Knight of Swords.",
+      "imageAlt": "Knight of Swords: an armored knight charges at full gallop on a white horse with sword raised, wind bending the trees and driving the clouds.",
+      "summary": "The Knight of Swords represents ambition, drive and fast, focused action. Upright, it signals charging toward a goal, speaking your mind and cutting through obstacles. Reversed, it points to recklessness, aggression, impatience or rushing ahead without considering the consequences for others.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "ambition",
+          "drive",
+          "fast action",
+          "assertiveness",
+          "focus"
         ],
         "reversed": [
-          "placeholder"
+          "recklessness",
+          "aggression",
+          "impatience",
+          "tactlessness",
+          "burnout"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Knight of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Knight of Swords.",
+      "upright": "Upright, the Knight of Swords rides into the wind at full speed. When you know what you want, this card supports bold, direct action and clear communication. Momentum is on your side. Just make sure you are heading in the right direction.",
+      "reversed": "Reversed, the Knight of Swords suggests speed has become a problem. You may be bulldozing over others, starting arguments or racing toward a goal without a plan. Slow down enough to think and to listen.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Knight of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Knight of Swords."
+            "short": "A burst of determined action in the past moved you forward quickly."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Knight of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Knight of Swords."
+            "short": "In the past rushing or harsh words caused damage you are still repairing."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Knight of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Knight of Swords."
+            "short": "Act decisively. Pursue your goal directly and speak plainly."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Knight of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Knight of Swords."
+            "short": "You are moving too fast or too forcefully. Take a breath and consider others."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Knight of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Knight of Swords."
+            "short": "A fast-moving situation is coming. You will need focus and quick thinking."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Knight of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Knight of Swords."
+            "short": "Avoid charging ahead without a plan. Haste could undo good work."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Knight of Swords.",
-      "faq": [
-        {
-          "question": "What does Knight of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Swords."
-        },
-        {
-          "question": "Is Knight of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Swords."
-        },
-        {
-          "question": "What does Knight of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Swords."
-        }
-      ]
+      }
     },
     "queen-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Queen of Swords",
-      "imageAlt": "Queen of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Queen of Swords.",
+      "imageAlt": "Queen of Swords: a queen sits on a throne carved with butterflies, holding an upright sword in her right hand and extending her left hand, clouds gathering below.",
+      "summary": "The Queen of Swords represents clear thinking, honesty and independence. Upright, it signals sound judgment, direct communication and setting firm boundaries with fairness. Reversed, it points to coldness, harsh criticism, bitterness or letting emotions cloud judgment while appearing completely rational.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "clarity",
+          "honesty",
+          "independence",
+          "boundaries",
+          "sound judgment"
         ],
         "reversed": [
-          "placeholder"
+          "coldness",
+          "harsh criticism",
+          "bitterness",
+          "cruelty",
+          "clouded judgment"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Queen of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Queen of Swords.",
+      "upright": "Upright, the Queen of Swords sees through pretense. She has learned from experience and speaks the truth plainly, but without cruelty. The card encourages you to think independently, set boundaries and make decisions based on facts rather than pressure.",
+      "reversed": "Reversed, the Queen of Swords suggests the blade has become too sharp or too dull. Words may be cutting, judgments harsh or old hurts may be shaping your view. Combine honesty with compassion.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Queen of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Queen of Swords."
+            "short": "Honest, clear-headed choices in the past, yours or a mentor's, taught you to trust your judgment."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Queen of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Queen of Swords."
+            "short": "In the past harsh words or bitterness damaged a relationship, and it still matters."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Queen of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Queen of Swords."
+            "short": "Be clear and direct. Set boundaries and decide based on the facts."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Queen of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Queen of Swords."
+            "short": "You may be too critical or guarded. Soften your delivery without losing your honesty."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Queen of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Queen of Swords."
+            "short": "A situation ahead will call for clear thinking and honest communication."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Queen of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Queen of Swords."
+            "short": "Watch for coldness, yours or someone else's, getting in the way of understanding."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Queen of Swords.",
-      "faq": [
-        {
-          "question": "What does Queen of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Swords."
-        },
-        {
-          "question": "Is Queen of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Swords."
-        },
-        {
-          "question": "What does Queen of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Swords."
-        }
-      ]
+      }
     },
     "king-of-swords": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "King of Swords",
-      "imageAlt": "King of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for King of Swords.",
+      "imageAlt": "King of Swords: a king sits facing forward on a stone throne carved with butterflies, holding an upright sword slightly tilted, tall cypress trees and clouds behind him.",
+      "summary": "The King of Swords represents intellectual authority, fairness and clear-minded leadership. Upright, it signals logic, ethics and decisions based on principle and evidence. Reversed, it points to manipulation, abuse of power, rigid thinking or using intelligence to control others rather than serve them.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "authority",
+          "logic",
+          "fairness",
+          "truth",
+          "ethics"
         ],
         "reversed": [
-          "placeholder"
+          "manipulation",
+          "abuse of power",
+          "rigidity",
+          "coldness",
+          "irrationality"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for King of Swords.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for King of Swords.",
+      "upright": "Upright, the King of Swords rules by reason. He weighs evidence, upholds principles and communicates with precision. The card favors professional advice, legal or technical matters and decisions made impartially. Let logic and integrity guide you.",
+      "reversed": "Reversed, the King of Swords suggests intellect without conscience. Someone may be using authority or clever arguments to dominate, or you may be so rigid that you ignore the human side. Fairness needs both reason and empathy.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for King of Swords.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for King of Swords."
+            "short": "A fair, principled decision in the past set a standard you still follow."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for King of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for King of Swords."
+            "short": "In the past someone in authority misused their power, and it still affects your trust."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for King of Swords.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for King of Swords."
+            "short": "Make a principled decision. Use logic, seek expert advice and act fairly."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for King of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for King of Swords."
+            "short": "Watch for manipulation or rigid thinking, including your own. Consider the people involved."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for King of Swords.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for King of Swords."
+            "short": "You will need to take an objective, authoritative stance on an important matter."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for King of Swords.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for King of Swords."
+            "short": "Beware of someone using power or clever words for their own ends."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for King of Swords.",
-      "faq": [
-        {
-          "question": "What does King of Swords mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Swords."
-        },
-        {
-          "question": "Is King of Swords a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Swords."
-        },
-        {
-          "question": "What does King of Swords mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Swords."
-        }
-      ]
+      }
     }
   }
 }

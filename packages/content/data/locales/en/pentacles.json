@@ -2,886 +2,704 @@
   "$schema": "../../../schema/card-text.schema.json",
   "cards": {
     "ace-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Ace of Pentacles",
-      "imageAlt": "Ace of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ace of Pentacles.",
+      "imageAlt": "Ace of Pentacles: a hand emerges from a cloud holding a large golden pentacle above a garden of white lilies, with a hedge archway opening onto distant mountains.",
+      "summary": "The Ace of Pentacles represents a new opportunity in money, work or health with real potential to grow. Upright, it signals a job offer, investment or solid fresh start. Reversed, it points to a missed opportunity, poor planning, financial caution or a promising idea without practical grounding.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "opportunity",
+          "prosperity",
+          "new venture",
+          "stability",
+          "manifestation"
         ],
         "reversed": [
-          "placeholder"
+          "missed opportunity",
+          "poor planning",
+          "financial setback",
+          "lack of foresight",
+          "greed"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Ace of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Ace of Pentacles.",
+      "upright": "Upright, the Ace of Pentacles is a seed with real soil around it. A concrete opportunity is appearing: a job, a raise, a business idea, a healthier routine. The card encourages you to accept it and plan carefully so it can grow into something lasting.",
+      "reversed": "Reversed, the Ace of Pentacles suggests the seed is not taking root. An opportunity may slip away, plans may be shaky, or money worries may make you hesitate. Check your foundations and your budget before committing.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Ace of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Ace of Pentacles."
+            "short": "A practical opportunity in the past, perhaps a job or investment, laid the groundwork for your current stability."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Ace of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Ace of Pentacles."
+            "short": "In the past you missed or mishandled an opportunity, and you may still feel its absence."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Ace of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Ace of Pentacles."
+            "short": "A real opportunity is in front of you. Take it and build a practical plan around it."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Ace of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Ace of Pentacles."
+            "short": "An opportunity may be slipping away. Ground your plans in realistic numbers and act carefully."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Ace of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Ace of Pentacles."
+            "short": "A new source of income, work or stability is on its way."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Ace of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Ace of Pentacles."
+            "short": "Be careful with money and commitments ahead. Planning now prevents a missed chance later."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ace of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Ace of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Pentacles."
-        },
-        {
-          "question": "Is Ace of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Pentacles."
-        },
-        {
-          "question": "What does Ace of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Pentacles."
-        }
-      ]
+      }
     },
     "two-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Two of Pentacles",
-      "imageAlt": "Two of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Two of Pentacles.",
+      "imageAlt": "Two of Pentacles: a young man in a tall hat dances while juggling two pentacles joined by a looping ribbon in the shape of an infinity sign, with ships riding high waves behind him.",
+      "summary": "The Two of Pentacles represents balance, adaptability and juggling priorities. Upright, it signals managing several responsibilities at once with flexibility, especially money and time. Reversed, it points to overwhelm, disorganization, financial strain or taking on more than you can realistically handle.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "balance",
+          "adaptability",
+          "juggling",
+          "time management",
+          "flexibility"
         ],
         "reversed": [
-          "placeholder"
+          "overwhelm",
+          "disorganization",
+          "financial strain",
+          "overcommitment",
+          "imbalance"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Two of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Two of Pentacles.",
+      "upright": "Upright, the Two of Pentacles keeps things moving. Life may be busy and changeable, but you are managing it with skill and good humor. The card encourages flexibility, prioritizing and keeping a light touch. Balance is something you do, not something you reach once.",
+      "reversed": "Reversed, the Two of Pentacles suggests a ball is about to drop. You may be overcommitted, behind on bills or spread too thin. Cut back to what matters most and get organized before adding anything new.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Two of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Two of Pentacles."
+            "short": "You learned to juggle competing demands in the past, and that adaptability still serves you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Two of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Two of Pentacles."
+            "short": "In the past you took on too much at once, and some of that strain remains."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Two of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Two of Pentacles."
+            "short": "You are balancing a lot. Stay flexible and keep your priorities clear."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Two of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Two of Pentacles."
+            "short": "You are overwhelmed. Drop or delegate something and organize what is left."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Two of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Two of Pentacles."
+            "short": "A busy, changeable period is coming. You can handle it with good planning."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Two of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Two of Pentacles."
+            "short": "Watch for overcommitment ahead. Say no to what you cannot sustain."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Two of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Two of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Pentacles."
-        },
-        {
-          "question": "Is Two of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Pentacles."
-        },
-        {
-          "question": "What does Two of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Pentacles."
-        }
-      ]
+      }
     },
     "three-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Three of Pentacles",
-      "imageAlt": "Three of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Three of Pentacles.",
+      "imageAlt": "Three of Pentacles: a stonemason stands on a bench carving an arch in a cathedral while a monk and a figure in a cloak hold up the building plans, three pentacles carved above them.",
+      "summary": "The Three of Pentacles represents teamwork, skill and building something of quality. Upright, it signals collaboration, learning a craft and being recognized for good work. Reversed, it points to poor teamwork, misaligned goals, sloppy work or a lack of respect for each person's contribution.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "teamwork",
+          "collaboration",
+          "skill",
+          "craftsmanship",
+          "learning"
         ],
         "reversed": [
-          "placeholder"
+          "poor teamwork",
+          "misalignment",
+          "low standards",
+          "conflict",
+          "lack of recognition"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Three of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Three of Pentacles.",
+      "upright": "Upright, the Three of Pentacles shows people with different skills working on a shared project. Each contribution matters, and the result is better than any could make alone. The card favors apprenticeships, planning with others and taking pride in careful work.",
+      "reversed": "Reversed, the Three of Pentacles suggests the team is not working well. Goals may be unclear, effort uneven or skills undervalued. Clarify roles and expectations, and raise the standard of the work.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Three of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Three of Pentacles."
+            "short": "Good collaboration or training in the past helped you build skills you still rely on."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Three of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Three of Pentacles."
+            "short": "In the past poor teamwork or low standards held a project back."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Three of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Three of Pentacles."
+            "short": "Work with others. Share skills, listen to feedback and focus on quality."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Three of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Three of Pentacles."
+            "short": "Your team or project is misaligned. Clarify who does what and why."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Three of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Three of Pentacles."
+            "short": "A collaboration ahead will bring recognition for your skills."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Three of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Three of Pentacles."
+            "short": "Expect friction in a group project. Set clear expectations early."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Three of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Three of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Pentacles."
-        },
-        {
-          "question": "Is Three of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Pentacles."
-        },
-        {
-          "question": "What does Three of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Pentacles."
-        }
-      ]
+      }
     },
     "four-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Four of Pentacles",
-      "imageAlt": "Four of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Four of Pentacles.",
+      "imageAlt": "Four of Pentacles: a crowned man sits on a stone seat clutching a pentacle to his chest, with one pentacle balanced on his crown and two under his feet, a city behind him.",
+      "summary": "The Four of Pentacles represents security, saving and holding on tightly. Upright, it signals financial stability and caution, but also possessiveness and fear of loss. Reversed, it points to loosening control, generosity, or the opposite: overspending, instability or giving away too much.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "security",
+          "saving",
+          "control",
+          "possessiveness",
+          "conservation"
         ],
         "reversed": [
-          "placeholder"
+          "generosity",
+          "letting go",
+          "overspending",
+          "instability",
+          "greed"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Four of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Four of Pentacles.",
+      "upright": "Upright, the Four of Pentacles holds on. You have achieved some security and want to protect it, which is sensible up to a point. The card asks whether caution has become fear. Money, people and control held too tightly can stop anything new from coming in.",
+      "reversed": "Reversed, the Four of Pentacles suggests your grip is changing. You may be learning to share and trust, or swinging toward careless spending. Find a balance between security and openness.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Four of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Four of Pentacles."
+            "short": "Careful saving or protecting what you had in the past created the stability you have now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Four of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Four of Pentacles."
+            "short": "In the past you held on too tightly, or lost control of your finances, and that still affects you."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Four of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Four of Pentacles."
+            "short": "Protect what you have built, but be careful not to close yourself off."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Four of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Four of Pentacles."
+            "short": "Loosen your grip a little, or rein in spending. Find the middle ground."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Four of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Four of Pentacles."
+            "short": "Financial security is coming if you stay disciplined."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Four of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Four of Pentacles."
+            "short": "Avoid hoarding or overspending ahead. Plan money with both caution and generosity."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Four of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Four of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Pentacles."
-        },
-        {
-          "question": "Is Four of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Pentacles."
-        },
-        {
-          "question": "What does Four of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Pentacles."
-        }
-      ]
+      }
     },
     "five-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Five of Pentacles",
-      "imageAlt": "Five of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Five of Pentacles.",
+      "imageAlt": "Five of Pentacles: two ragged figures, one on crutches, trudge through the snow past a lit stained-glass church window showing five pentacles.",
+      "summary": "The Five of Pentacles represents hardship, loss and feeling left out in the cold. Upright, it signals financial difficulty, illness or isolation, while help may be closer than it seems. Reversed, it points to recovery from hardship, accepting help and gradually regaining stability and hope.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "hardship",
+          "financial loss",
+          "isolation",
+          "worry",
+          "insecurity"
         ],
         "reversed": [
-          "placeholder"
+          "recovery",
+          "accepting help",
+          "improvement",
+          "renewed hope",
+          "stability returning"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Five of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Five of Pentacles.",
+      "upright": "Upright, the Five of Pentacles shows people struggling in the snow, so focused on hardship that they walk past a lit window. Money, health or support may be lacking right now. The card acknowledges the difficulty and reminds you to look for the help that is available.",
+      "reversed": "Reversed, the Five of Pentacles suggests the worst is passing. Finances may improve, health may recover, or you may finally accept support. Each small step back toward stability counts.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Five of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Five of Pentacles."
+            "short": "A period of hardship in the past taught you resilience and what really matters."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Five of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Five of Pentacles."
+            "short": "You recovered from a difficult time in the past, and that recovery gives you strength now."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Five of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Five of Pentacles."
+            "short": "Times are hard. Do not struggle alone; reach out for the help that is available."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Five of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Five of Pentacles."
+            "short": "Things are improving. Accept support and keep rebuilding step by step."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Five of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Five of Pentacles."
+            "short": "A lean period may come. Prepare now and know where to turn for help."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Five of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Five of Pentacles."
+            "short": "Recovery is ahead. Stability and support will return."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Five of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Five of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Pentacles."
-        },
-        {
-          "question": "Is Five of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Pentacles."
-        },
-        {
-          "question": "What does Five of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Pentacles."
-        }
-      ]
+      }
     },
     "six-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Six of Pentacles",
-      "imageAlt": "Six of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Six of Pentacles.",
+      "imageAlt": "Six of Pentacles: a well-dressed merchant holds a pair of scales in one hand and drops coins into the outstretched hand of one of two kneeling beggars.",
+      "summary": "The Six of Pentacles represents generosity, giving and receiving, and fair exchange. Upright, it signals charity, support or a balanced flow of resources between people. Reversed, it points to strings attached, unequal power, debt, or giving so much that you neglect yourself.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "generosity",
+          "charity",
+          "sharing",
+          "fairness",
+          "support"
         ],
         "reversed": [
-          "placeholder"
+          "strings attached",
+          "debt",
+          "inequality",
+          "one-sided giving",
+          "power imbalance"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Six of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Six of Pentacles.",
+      "upright": "Upright, the Six of Pentacles is about resources moving fairly. You may be in a position to help others, or you may be receiving support you need. The scales show that giving should be balanced and thoughtful. Generosity strengthens everyone involved.",
+      "reversed": "Reversed, the Six of Pentacles suggests the exchange is unbalanced. Help may come with conditions, debts may weigh on you, or you may give more than you can afford. Check that support flows fairly in both directions.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Six of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Six of Pentacles."
+            "short": "Generosity in the past, given or received, made a real difference to where you are now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Six of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Six of Pentacles."
+            "short": "A past debt or unequal arrangement still affects your situation."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Six of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Six of Pentacles."
+            "short": "Share what you can, and accept help gracefully when you need it."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Six of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Six of Pentacles."
+            "short": "Something is one-sided. Look at who holds the power and set fairer terms."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Six of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Six of Pentacles."
+            "short": "Support or a fair exchange is coming, perhaps a gift, a loan or help from a mentor."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Six of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Six of Pentacles."
+            "short": "Be careful of help that comes with strings. Read the terms before you accept."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Six of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Six of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Pentacles."
-        },
-        {
-          "question": "Is Six of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Pentacles."
-        },
-        {
-          "question": "What does Six of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Pentacles."
-        }
-      ]
+      }
     },
     "seven-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Seven of Pentacles",
-      "imageAlt": "Seven of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Seven of Pentacles.",
+      "imageAlt": "Seven of Pentacles: a farmer leans on his hoe and gazes thoughtfully at seven pentacles growing on a leafy bush in front of him.",
+      "summary": "The Seven of Pentacles represents patience, long-term investment and assessing progress. Upright, it signals pausing to review your efforts while waiting for results to grow. Reversed, it points to impatience, frustration with slow progress, poor returns or effort spent on the wrong things.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "patience",
+          "investment",
+          "assessment",
+          "perseverance",
+          "long-term view"
         ],
         "reversed": [
-          "placeholder"
+          "impatience",
+          "frustration",
+          "poor returns",
+          "wasted effort",
+          "lack of reward"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Seven of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Seven of Pentacles.",
+      "upright": "Upright, the Seven of Pentacles shows a gardener pausing mid-season. You have put in work, and the results are growing but not yet ready. It is a good time to evaluate what is working, adjust and keep tending. Real growth takes time.",
+      "reversed": "Reversed, the Seven of Pentacles suggests frustration with slow results. You may be tempted to give up or to rush the harvest. Ask honestly whether the effort is well placed; if so, persist, and if not, redirect it.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Seven of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Seven of Pentacles."
+            "short": "Patient effort in the past is now starting to pay off."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Seven of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Seven of Pentacles."
+            "short": "In the past you invested time or money in something that did not return what you hoped."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Seven of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Seven of Pentacles."
+            "short": "Step back and assess your progress. Keep going with what is working."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Seven of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Seven of Pentacles."
+            "short": "You are frustrated by slow results. Decide whether to persist or change your approach."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Seven of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Seven of Pentacles."
+            "short": "Your patience will be rewarded. The results of steady effort are coming."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Seven of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Seven of Pentacles."
+            "short": "Results may be slower than you want. Avoid abandoning a good plan too early."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Seven of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Seven of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Pentacles."
-        },
-        {
-          "question": "Is Seven of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Pentacles."
-        },
-        {
-          "question": "What does Seven of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Pentacles."
-        }
-      ]
+      }
     },
     "eight-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Eight of Pentacles",
-      "imageAlt": "Eight of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Eight of Pentacles.",
+      "imageAlt": "Eight of Pentacles: a craftsman sits at a workbench carefully carving a pentacle, with six finished pentacles displayed on a post beside him and another on the ground.",
+      "summary": "The Eight of Pentacles represents diligence, skill-building and dedication to a craft. Upright, it signals focused practice, training and taking pride in steady, detailed work. Reversed, it points to perfectionism, boredom, cutting corners or effort that lacks direction or meaningful purpose.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "diligence",
+          "mastery",
+          "practice",
+          "craftsmanship",
+          "dedication"
         ],
         "reversed": [
-          "placeholder"
+          "perfectionism",
+          "boredom",
+          "cutting corners",
+          "lack of focus",
+          "uninspired work"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Eight of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Eight of Pentacles.",
+      "upright": "Upright, the Eight of Pentacles is the card of practice. Mastery comes from repetition, attention to detail and caring about the result. It favors study, apprenticeships and steady progress in your work. Keep at it; each piece makes you better.",
+      "reversed": "Reversed, the Eight of Pentacles suggests something is off in how you work. You may be stuck in perfectionism, rushing through tasks or doing work that no longer interests you. Reconnect with why the work matters, or find work that does.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Eight of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Eight of Pentacles."
+            "short": "Dedicated practice in the past built skills that support you today."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Eight of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Eight of Pentacles."
+            "short": "In the past you cut corners or lost interest, and the results still show."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Eight of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Eight of Pentacles."
+            "short": "Focus on improving your skills. Steady, careful effort will pay off."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Eight of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Eight of Pentacles."
+            "short": "You are bored or stuck in perfectionism. Adjust your approach or your goals."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Eight of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Eight of Pentacles."
+            "short": "A period of focused learning or skilled work is ahead."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Eight of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Eight of Pentacles."
+            "short": "Avoid rushing a job you will have to redo. Quality will matter later."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Eight of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Eight of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Pentacles."
-        },
-        {
-          "question": "Is Eight of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Pentacles."
-        },
-        {
-          "question": "What does Eight of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Pentacles."
-        }
-      ]
+      }
     },
     "nine-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Nine of Pentacles",
-      "imageAlt": "Nine of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Nine of Pentacles.",
+      "imageAlt": "Nine of Pentacles: an elegant woman in a robe patterned with flowers stands in a vineyard heavy with grapes, a hooded falcon on her gloved hand and nine pentacles around her.",
+      "summary": "The Nine of Pentacles represents independence, self-sufficiency and enjoying the rewards of your work. Upright, it signals financial comfort, refinement and confidence in what you have built. Reversed, it points to overworking, financial dependence, superficial success or struggling to enjoy what you have.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "independence",
+          "self-sufficiency",
+          "luxury",
+          "financial security",
+          "accomplishment"
         ],
         "reversed": [
-          "placeholder"
+          "overworking",
+          "dependence",
+          "superficiality",
+          "financial setbacks",
+          "lack of enjoyment"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Nine of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Nine of Pentacles.",
+      "upright": "Upright, the Nine of Pentacles enjoys a garden she grew herself. Your discipline has created comfort and independence, and you can take pleasure in it. The card encourages self-reliance, treating yourself well and appreciating the life you have built.",
+      "reversed": "Reversed, the Nine of Pentacles suggests success is not bringing ease. You may be working too hard to enjoy anything, relying on others for security, or valuing appearances over substance. Reconsider what independence means to you.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Nine of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Nine of Pentacles."
+            "short": "Your past discipline created the independence and comfort you enjoy now."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Nine of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Nine of Pentacles."
+            "short": "In the past you depended on others financially, or overworked without enjoying the results."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Nine of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Nine of Pentacles."
+            "short": "Enjoy what you have earned. You have built something worth savoring."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Nine of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Nine of Pentacles."
+            "short": "Success feels empty or fragile. Rebalance work, rest and real security."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Nine of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Nine of Pentacles."
+            "short": "Financial independence and comfortable living are coming."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Nine of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Nine of Pentacles."
+            "short": "Watch for overworking or overspending ahead. Protect what you have built."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Nine of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Nine of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Pentacles."
-        },
-        {
-          "question": "Is Nine of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Pentacles."
-        },
-        {
-          "question": "What does Nine of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Pentacles."
-        }
-      ]
+      }
     },
     "ten-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Ten of Pentacles",
-      "imageAlt": "Ten of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ten of Pentacles.",
+      "imageAlt": "Ten of Pentacles: an old man in a patterned robe sits with two white dogs beneath a stone archway, while a couple and a child stand nearby and ten pentacles are arranged across the scene.",
+      "summary": "The Ten of Pentacles represents lasting wealth, family legacy and long-term stability. Upright, it signals financial security, inheritance, strong family ties and building something that endures. Reversed, it points to family disputes over money, financial loss, or tension between tradition and personal freedom.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "legacy",
+          "wealth",
+          "family",
+          "stability",
+          "inheritance"
         ],
         "reversed": [
-          "placeholder"
+          "family disputes",
+          "financial loss",
+          "instability",
+          "broken traditions",
+          "short-term thinking"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Ten of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Ten of Pentacles.",
+      "upright": "Upright, the Ten of Pentacles is about what lasts. Wealth, home and family come together across generations. It favors long-term investments, property, family businesses and decisions that will benefit people after you. Security here is deep, not flashy.",
+      "reversed": "Reversed, the Ten of Pentacles suggests the foundation is cracked. There may be arguments over money or inheritance, financial setbacks or pressure to follow family expectations. Protect long-term stability, and decide which traditions to keep.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Ten of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Ten of Pentacles."
+            "short": "Family support or an inheritance in the past gave you a stable foundation."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Ten of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Ten of Pentacles."
+            "short": "Past family disputes over money or expectations still shape your situation."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Ten of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Ten of Pentacles."
+            "short": "Think long-term. Invest in stability for yourself and the people you love."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Ten of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Ten of Pentacles."
+            "short": "Money or family tensions are surfacing. Address them openly and fairly."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Ten of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Ten of Pentacles."
+            "short": "Lasting security and family stability are ahead."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Ten of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Ten of Pentacles."
+            "short": "Watch for financial disputes or risky decisions that could affect your legacy."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ten of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Ten of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Pentacles."
-        },
-        {
-          "question": "Is Ten of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Pentacles."
-        },
-        {
-          "question": "What does Ten of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Pentacles."
-        }
-      ]
+      }
     },
     "page-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Page of Pentacles",
-      "imageAlt": "Page of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Page of Pentacles.",
+      "imageAlt": "Page of Pentacles: a young man stands in a green field with trees and plowed land, holding up a single pentacle in both hands and studying it closely.",
+      "summary": "The Page of Pentacles represents study, ambition and the first practical steps toward a goal. Upright, it signals learning, a new job or course, and turning a plan into action. Reversed, it points to procrastination, lack of progress, unrealistic goals or learning without ever applying it.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "study",
+          "ambition",
+          "new opportunity",
+          "diligence",
+          "planning"
         ],
         "reversed": [
-          "placeholder"
+          "procrastination",
+          "lack of progress",
+          "unrealistic goals",
+          "laziness",
+          "missed lessons"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Page of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Page of Pentacles.",
+      "upright": "Upright, the Page of Pentacles is a careful student. A new skill, course, job or financial plan is calling, and the card encourages you to take it seriously and start with practical steps. Steady effort now lays the foundation for later success.",
+      "reversed": "Reversed, the Page of Pentacles suggests the plan is not moving. You may be dreaming without acting, procrastinating or setting goals too far from reality. Break the plan down and start with one concrete step.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Page of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Page of Pentacles."
+            "short": "Study or a first job in the past gave you practical skills you still use."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Page of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Page of Pentacles."
+            "short": "In the past you put off a goal or did not follow through on a plan."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Page of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Page of Pentacles."
+            "short": "Start learning or building something practical. Small, steady steps will count."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Page of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Page of Pentacles."
+            "short": "You are procrastinating. Turn your goal into one action you can do today."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Page of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Page of Pentacles."
+            "short": "A practical opportunity to learn or earn is coming."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Page of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Page of Pentacles."
+            "short": "Plans may stall if you wait for the perfect moment. Begin before you feel ready."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Page of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Page of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Pentacles."
-        },
-        {
-          "question": "Is Page of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Pentacles."
-        },
-        {
-          "question": "What does Page of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Pentacles."
-        }
-      ]
+      }
     },
     "knight-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Knight of Pentacles",
-      "imageAlt": "Knight of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Knight of Pentacles.",
+      "imageAlt": "Knight of Pentacles: an armored knight sits on a heavy, motionless black horse in a plowed field, holding a pentacle and looking at it steadily.",
+      "summary": "The Knight of Pentacles represents hard work, reliability and slow, steady progress. Upright, it signals routine, responsibility and finishing what you start, however long it takes. Reversed, it points to boredom, stagnation, perfectionism or being so cautious and routine-bound that nothing moves forward.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "hard work",
+          "reliability",
+          "routine",
+          "patience",
+          "responsibility"
         ],
         "reversed": [
-          "placeholder"
+          "boredom",
+          "stagnation",
+          "perfectionism",
+          "laziness",
+          "over-caution"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Knight of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Knight of Pentacles.",
+      "upright": "Upright, the Knight of Pentacles is the most dependable knight in the deck. He moves slowly but never stops. The card favors consistent routines, careful planning and keeping your promises. Results may not be fast, but they will be solid.",
+      "reversed": "Reversed, the Knight of Pentacles suggests steadiness has become stuck. You may be bored, overly cautious or doing the same thing without results. Add a little risk or change, or you may stop moving altogether.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Knight of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Knight of Pentacles."
+            "short": "Steady, reliable effort in the past built the security you have today."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Knight of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Knight of Pentacles."
+            "short": "In the past you stayed stuck in a routine that no longer served you."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Knight of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Knight of Pentacles."
+            "short": "Keep going steadily. Consistency and reliability will get you there."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Knight of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Knight of Pentacles."
+            "short": "You are in a rut. Change one part of your routine to get moving again."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Knight of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Knight of Pentacles."
+            "short": "A period of steady progress is ahead. Commit to the routine."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Knight of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Knight of Pentacles."
+            "short": "Watch for stagnation ahead. Balance caution with occasional bold moves."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Knight of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Knight of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Pentacles."
-        },
-        {
-          "question": "Is Knight of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Pentacles."
-        },
-        {
-          "question": "What does Knight of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Pentacles."
-        }
-      ]
+      }
     },
     "queen-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Queen of Pentacles",
-      "imageAlt": "Queen of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Queen of Pentacles.",
+      "imageAlt": "Queen of Pentacles: a queen sits on an ornate throne in a blooming garden, cradling a large pentacle in her lap, with a rabbit in the grass at her feet.",
+      "summary": "The Queen of Pentacles represents nurturing, practicality and comfortable abundance. Upright, it signals caring for home, family and finances with warmth and good sense. Reversed, it points to neglecting yourself, work-home imbalance, smothering others or worry about money and security.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "nurturing",
+          "practicality",
+          "abundance",
+          "comfort",
+          "resourcefulness"
         ],
         "reversed": [
-          "placeholder"
+          "self-neglect",
+          "work-home imbalance",
+          "smothering",
+          "financial worry",
+          "insecurity"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Queen of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Queen of Pentacles.",
+      "upright": "Upright, the Queen of Pentacles makes a home a refuge. She is warm and generous but also sensible with money and time. The card encourages you to care for others in practical ways, enjoy simple comforts and look after your body and surroundings.",
+      "reversed": "Reversed, the Queen of Pentacles suggests care is out of balance. You may be giving everything to work or family and nothing to yourself, or worrying too much about security. Make room for your own needs.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Queen of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Queen of Pentacles."
+            "short": "A nurturing, practical influence in the past gave you a sense of comfort and security."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Queen of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Queen of Pentacles."
+            "short": "In the past you neglected yourself while caring for others, or worried constantly about money."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Queen of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Queen of Pentacles."
+            "short": "Look after your home, health and finances with warmth and common sense."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Queen of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Queen of Pentacles."
+            "short": "You are stretched between work and home. Care for yourself as well as others."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Queen of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Queen of Pentacles."
+            "short": "A comfortable, abundant period is coming, rooted in practical care."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Queen of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Queen of Pentacles."
+            "short": "Watch for burnout from caring for everyone else. Plan time for yourself."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Queen of Pentacles.",
-      "faq": [
-        {
-          "question": "What does Queen of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Pentacles."
-        },
-        {
-          "question": "Is Queen of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Pentacles."
-        },
-        {
-          "question": "What does Queen of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Pentacles."
-        }
-      ]
+      }
     },
     "king-of-pentacles": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "King of Pentacles",
-      "imageAlt": "King of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for King of Pentacles.",
+      "imageAlt": "King of Pentacles: a king in a robe patterned with grapevines sits on a throne carved with bulls, holding a scepter and a pentacle, a castle and garden behind him.",
+      "summary": "The King of Pentacles represents wealth, success and steady, responsible leadership. Upright, it signals financial security, business skill and providing generously for others. Reversed, it points to greed, materialism, stubbornness or a focus on money and status that crowds out everything else.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "wealth",
+          "success",
+          "leadership",
+          "security",
+          "discipline"
         ],
         "reversed": [
-          "placeholder"
+          "greed",
+          "materialism",
+          "stubbornness",
+          "financial mismanagement",
+          "controlling behavior"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for King of Pentacles.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for King of Pentacles.",
+      "upright": "Upright, the King of Pentacles has built a kingdom through effort and good judgment. He is wealthy, reliable and generous with what he has. The card favors business success, wise investments and providing security for the people who depend on you.",
+      "reversed": "Reversed, the King of Pentacles suggests success has become an obsession. Money and status may be valued over people, or decisions may be stubborn and controlling. Wealth without warmth does not last. Rebalance your priorities.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for King of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for King of Pentacles."
+            "short": "A successful, steady provider in the past, yourself or someone close, set a strong foundation."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for King of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for King of Pentacles."
+            "short": "In the past greed or poor financial judgment caused problems you still feel."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for King of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for King of Pentacles."
+            "short": "You are in a strong position. Lead with discipline and share your success."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for King of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for King of Pentacles."
+            "short": "Money or control is crowding out what matters. Rebalance your priorities."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for King of Pentacles.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for King of Pentacles."
+            "short": "Financial success and a position of responsibility are coming."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for King of Pentacles.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for King of Pentacles."
+            "short": "Beware of becoming too focused on wealth or status ahead."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for King of Pentacles.",
-      "faq": [
-        {
-          "question": "What does King of Pentacles mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Pentacles."
-        },
-        {
-          "question": "Is King of Pentacles a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Pentacles."
-        },
-        {
-          "question": "What does King of Pentacles mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Pentacles."
-        }
-      ]
+      }
     }
   }
 }

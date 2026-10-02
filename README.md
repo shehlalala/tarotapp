@@ -18,9 +18,25 @@ Requires Node ≥ 22.18 and pnpm 10.
 
 ```sh
 pnpm install
-pnpm validate     # check card content
+pnpm mobile          # run the app: scan the QR code with Expo Go on your phone
+pnpm preview:build   # single-file web build of the app: apps/mobile/dist-preview/index.html
+pnpm validate        # check card content
 pnpm typecheck
+pnpm test
 ```
+
+## Card art
+
+- **Major Arcana:** original illustrations made for this project from each archetype's traditional
+  symbols. The SVG sources are in `packages/content/images/major/` and
+  `packages/content/scripts/art/archetypes.ts`. Re-render them with
+  `pnpm --filter @tarot/content render-art`.
+- **Minor Arcana:** typographic placeholder faces for now.
+- **1909 Rider-Waite-Smith scans:** `pnpm fetch-art` downloads the public-domain scans from
+  Wikimedia Commons (you need internet access to Commons). It replaces any art it fetches.
+
+Image packages on npm labelled "Rider-Waite" were checked and not used. They carry the 1971
+U.S. Games recolouring, which is copyrighted.
 
 ## Principles
 
@@ -28,13 +44,20 @@ pnpm typecheck
 - All card text lives in `packages/content`. Neither app hard-codes card names or meanings.
 - Card art is limited to the 1909 Rider-Waite-Smith illustrations (public domain) or original art.
 
-## Build phases
+## Status
 
-1. ✅ Monorepo, shared content package, types, card schema, placeholder data for all 78 cards
-2. ✅ Mobile: card selection flow, slots, Reveal button logic
-3. ✅ Mobile: shuffle and flip animations, detail view, New Reading
-4. ⬜ Mobile: reading history, share image, About screen, i18n
-5. ⬜ Web: Astro setup, layout, homepage, robots.txt, sitemap, llms.txt, structured data
-6. ⬜ Web: 78 card pages and guides
-7. ⬜ Content: draft all card meanings for review
-8. ⬜ EAS Build configuration and App Store pre-submission checklist
+**MVP (done):**
+- Reading flow: shuffle, pick three cards, staggered 3D flip on reveal, random reversals.
+- Card detail view, reading history kept on the device, About screen, and text sharing.
+- Major Arcana artwork and a web preview build.
+- Drafted text for all 78 cards (status `draft`, awaiting your review): summary, keywords,
+  upright and reversed meanings, and Past/Present/Future meanings for both orientations.
+
+**Next:**
+- Website (Astro): homepage, 78 card pages, guides, robots.txt, sitemap, llms.txt, structured
+  data, and a privacy policy.
+- Web-only content: long position meanings, symbolism and FAQ (`pnpm validate --strict` lists
+  what is missing).
+- A designed share image (the MVP shares text), and Minor Arcana artwork.
+- An i18n library swap. Strings are already in `apps/mobile/src/i18n/en.json`.
+- EAS Build configuration and the App Store pre-submission checklist.

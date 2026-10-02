@@ -2,886 +2,704 @@
   "$schema": "../../../schema/card-text.schema.json",
   "cards": {
     "ace-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Ace of Cups",
-      "imageAlt": "Ace of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ace of Cups.",
+      "imageAlt": "Ace of Cups: a hand emerges from a cloud holding an overflowing golden cup, with five streams of water falling into a pond of lilies and a dove descending toward the cup.",
+      "summary": "The Ace of Cups represents new feelings, love and emotional openness. Upright, it signals the start of a relationship, a wave of compassion or a deep sense of fulfillment. Reversed, it points to blocked emotions, emptiness, self-neglect or love that is held back instead of shared.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "new love",
+          "compassion",
+          "emotional renewal",
+          "intuition",
+          "joy"
         ],
         "reversed": [
-          "placeholder"
+          "blocked emotions",
+          "emptiness",
+          "self-neglect",
+          "repressed feelings",
+          "withheld love"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Ace of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Ace of Cups.",
+      "upright": "Upright, the Ace of Cups overflows. It marks a fresh start in matters of the heart: a new relationship, a renewed friendship, a creative or spiritual awakening. The card invites you to open up, receive kindness and let your feelings flow freely.",
+      "reversed": "Reversed, the Ace of Cups suggests the cup is tipped or closed. Feelings may be bottled up, love may feel out of reach, or you may be giving to everyone except yourself. Begin by refilling your own cup with care and honesty.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Ace of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Ace of Cups."
+            "short": "An emotional new beginning in the past, perhaps a love or friendship, opened your heart in a lasting way."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Ace of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Ace of Cups."
+            "short": "In the past you closed yourself off emotionally, and you may still be guarding your heart."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Ace of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Ace of Cups."
+            "short": "Your heart is open to something new. Welcome affection and let yourself feel fully."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Ace of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Ace of Cups."
+            "short": "Your feelings are blocked or drained. Tend to your own emotional needs before giving more."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Ace of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Ace of Cups."
+            "short": "A new emotional chapter is coming, bringing love, connection or creative joy."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Ace of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Ace of Cups."
+            "short": "You may hesitate to open up ahead. Be honest about what you need so you do not miss real connection."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ace of Cups.",
-      "faq": [
-        {
-          "question": "What does Ace of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Cups."
-        },
-        {
-          "question": "Is Ace of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Cups."
-        },
-        {
-          "question": "What does Ace of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ace of Cups."
-        }
-      ]
+      }
     },
     "two-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Two of Cups",
-      "imageAlt": "Two of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Two of Cups.",
+      "imageAlt": "Two of Cups: a young man and woman face each other and exchange cups, beneath a winged lion's head above a staff entwined with two serpents.",
+      "summary": "The Two of Cups represents partnership, mutual attraction and a balanced connection between two people. Upright, it signals new romance, friendship or cooperation built on respect. Reversed, it points to imbalance, broken communication, a separation or a relationship where one side gives much more.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "partnership",
+          "attraction",
+          "connection",
+          "mutual respect",
+          "unity"
         ],
         "reversed": [
-          "placeholder"
+          "imbalance",
+          "breakup",
+          "miscommunication",
+          "distrust",
+          "separation"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Two of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Two of Cups.",
+      "upright": "Upright, the Two of Cups is a meeting of equals. Two people see each other clearly and choose to connect, whether as lovers, friends or partners. It favors reconciliation, commitment and agreements made in good faith.",
+      "reversed": "Reversed, the Two of Cups shows a bond under strain. Trust may be shaken, communication strained, or one person may be investing more than the other. It can also point to a need for self-love before a partnership can work.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Two of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Two of Cups."
+            "short": "A close partnership or meaningful connection in the past shaped who you are today."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Two of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Two of Cups."
+            "short": "A past relationship fell out of balance or ended, and its lessons still affect how you connect."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Two of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Two of Cups."
+            "short": "A strong connection is forming or deepening. Meet the other person halfway and be honest."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Two of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Two of Cups."
+            "short": "A relationship feels uneven or distant. Talk openly about what each of you needs."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Two of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Two of Cups."
+            "short": "A meaningful partnership or reconciliation is coming, in love, friendship or work."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Two of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Two of Cups."
+            "short": "A bond may be tested ahead. Clear communication now will keep it balanced."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Two of Cups.",
-      "faq": [
-        {
-          "question": "What does Two of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Cups."
-        },
-        {
-          "question": "Is Two of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Cups."
-        },
-        {
-          "question": "What does Two of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Two of Cups."
-        }
-      ]
+      }
     },
     "three-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Three of Cups",
-      "imageAlt": "Three of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Three of Cups.",
+      "imageAlt": "Three of Cups: three women in flowing robes dance in a circle, raising their cups together in a garden full of fruit and gourds.",
+      "summary": "The Three of Cups represents friendship, celebration and community. Upright, it signals joyful gatherings, support from friends and shared good news. Reversed, it points to overindulgence, gossip, feeling left out or social commitments that leave little time for yourself or a closer relationship.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "friendship",
+          "celebration",
+          "community",
+          "joy",
+          "collaboration"
         ],
         "reversed": [
-          "placeholder"
+          "overindulgence",
+          "gossip",
+          "isolation",
+          "exclusion",
+          "third-party interference"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Three of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Three of Cups.",
+      "upright": "Upright, the Three of Cups raises a toast. It is a card of friendship, reunions and celebrating together, whether a birthday, a success or simply good company. It reminds you that joy grows when shared, and that your circle is a real source of strength.",
+      "reversed": "Reversed, the Three of Cups suggests the party has gone wrong. There may be too much indulgence, too much gossip, or a sense of being on the outside. It can also point to interference in a relationship. Choose your company carefully.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Three of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Three of Cups."
+            "short": "Good friends and happy gatherings in the past gave you a support network you still rely on."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Three of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Three of Cups."
+            "short": "In the past you felt left out, or a friendship soured through gossip or excess."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Three of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Three of Cups."
+            "short": "Spend time with the people who lift you up. Celebrate together and share your news."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Three of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Three of Cups."
+            "short": "Social life feels draining or complicated. Step back from drama and reconnect one to one."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Three of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Three of Cups."
+            "short": "A celebration, reunion or joyful gathering is coming. Your community will support you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Three of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Three of Cups."
+            "short": "Watch for overindulgence or gossip ahead. Keep your circle small and trustworthy."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Three of Cups.",
-      "faq": [
-        {
-          "question": "What does Three of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Cups."
-        },
-        {
-          "question": "Is Three of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Cups."
-        },
-        {
-          "question": "What does Three of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Three of Cups."
-        }
-      ]
+      }
     },
     "four-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Four of Cups",
-      "imageAlt": "Four of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Four of Cups.",
+      "imageAlt": "Four of Cups: a young man sits cross-armed under a tree, gazing at three cups on the grass while a hand from a cloud offers him a fourth cup he does not notice.",
+      "summary": "The Four of Cups represents apathy, contemplation and overlooked opportunities. Upright, it signals boredom, discontent or withdrawing inward while something new is offered. Reversed, it points to waking up from a slump, renewed interest or finally noticing what has been in front of you.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "apathy",
+          "contemplation",
+          "discontent",
+          "missed opportunity",
+          "withdrawal"
         ],
         "reversed": [
-          "placeholder"
+          "renewed interest",
+          "motivation returning",
+          "acceptance",
+          "seizing opportunity",
+          "awareness"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Four of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Four of Cups.",
+      "upright": "Upright, the Four of Cups shows someone so focused on what is lacking that they miss what is offered. You may feel bored, disappointed or stuck in your own head. Some reflection is healthy, but the card asks you to look up and notice new possibilities.",
+      "reversed": "Reversed, the Four of Cups suggests the fog is lifting. After a period of withdrawal you are ready to engage again, try something new and say yes. It can also mean accepting what you have instead of always wanting something different.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Four of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Four of Cups."
+            "short": "A period of reflection in the past helped you understand what you really want."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Four of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Four of Cups."
+            "short": "In the past you overlooked or turned down an opportunity while feeling stuck."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Four of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Four of Cups."
+            "short": "You are bored or dissatisfied. Look around carefully; something worthwhile may already be offered."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Four of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Four of Cups."
+            "short": "You are coming out of a slump. Accept the next invitation and let your interest return."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Four of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Four of Cups."
+            "short": "A period of restlessness may come. Use it to reflect, but stay open to new offers."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Four of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Four of Cups."
+            "short": "Renewed motivation is on its way. An opportunity will catch your attention again."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Four of Cups.",
-      "faq": [
-        {
-          "question": "What does Four of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Cups."
-        },
-        {
-          "question": "Is Four of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Cups."
-        },
-        {
-          "question": "What does Four of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Four of Cups."
-        }
-      ]
+      }
     },
     "five-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Five of Cups",
-      "imageAlt": "Five of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Five of Cups.",
+      "imageAlt": "Five of Cups: a figure in a black cloak bows over three spilled cups while two upright cups stand behind, with a river and a bridge leading to a house beyond.",
+      "summary": "The Five of Cups represents loss, grief and regret. Upright, it signals focusing on what went wrong and mourning a disappointment. Reversed, it points to acceptance, moving on, forgiving yourself and noticing what still remains after a setback, or, in some cases, grief that is being avoided.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "loss",
+          "grief",
+          "regret",
+          "disappointment",
+          "sorrow"
         ],
         "reversed": [
-          "placeholder"
+          "acceptance",
+          "moving on",
+          "forgiveness",
+          "recovery",
+          "avoided grief"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Five of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Five of Cups.",
+      "upright": "Upright, the Five of Cups gives grief its place. Something has been lost or has not worked out, and sorrow is natural. The card points to the two cups still standing behind the figure: not everything is gone. When you are ready, turn around and see what remains.",
+      "reversed": "Reversed, the Five of Cups suggests healing is underway. You are starting to accept what happened, learn from it and move forward. It can also gently warn that pushing grief aside will only delay recovery.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Five of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Five of Cups."
+            "short": "A past loss or disappointment shaped you deeply and taught you about resilience."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Five of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Five of Cups."
+            "short": "You have moved through an old grief, and that acceptance gives you a firmer footing now."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Five of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Five of Cups."
+            "short": "You are grieving something. Allow it, and remember that some good things still stand."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Five of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Five of Cups."
+            "short": "You are ready to move on. Forgive yourself and look at what is still possible."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Five of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Five of Cups."
+            "short": "A disappointment may come. Give yourself time, and do not lose sight of what remains."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Five of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Five of Cups."
+            "short": "Healing lies ahead. The weight you carry now will lighten."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Five of Cups.",
-      "faq": [
-        {
-          "question": "What does Five of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Cups."
-        },
-        {
-          "question": "Is Five of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Cups."
-        },
-        {
-          "question": "What does Five of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Five of Cups."
-        }
-      ]
+      }
     },
     "six-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Six of Cups",
-      "imageAlt": "Six of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Six of Cups.",
+      "imageAlt": "Six of Cups: in an old village courtyard, a child offers a cup filled with white flowers to a smaller child, with other flower-filled cups around them.",
+      "summary": "The Six of Cups represents nostalgia, childhood memories and innocent kindness. Upright, it signals revisiting the past, reconnecting with old friends or simple acts of generosity. Reversed, it points to being stuck in the past, idealizing old times or finally leaving childhood patterns behind.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "nostalgia",
+          "memories",
+          "innocence",
+          "kindness",
+          "reunion"
         ],
         "reversed": [
-          "placeholder"
+          "living in the past",
+          "idealization",
+          "moving forward",
+          "leaving home",
+          "unrealistic memories"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Six of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Six of Cups.",
+      "upright": "Upright, the Six of Cups brings warmth from the past. Old friends, childhood places or simple pleasures may return in some form. The card encourages playfulness, gentleness and giving without expecting anything back. Memories can be a source of comfort and insight.",
+      "reversed": "Reversed, the Six of Cups suggests the past has too strong a grip. You may be romanticizing how things were, or refusing to change because of old attachments. It can also mean you are ready to grow up and step into the present.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Six of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Six of Cups."
+            "short": "Happy memories or early influences in the past still give you comfort and a sense of who you are."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Six of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Six of Cups."
+            "short": "Old patterns from your past may still shape your choices more than you realize."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Six of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Six of Cups."
+            "short": "Reconnect with something from your past: an old friend, a place, or a simple joy you have forgotten."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Six of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Six of Cups."
+            "short": "You are looking back too much. Honor your memories, then focus on what is in front of you."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Six of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Six of Cups."
+            "short": "A reunion or nostalgic visit is coming. It may bring comfort and clarity."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Six of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Six of Cups."
+            "short": "Avoid trying to recreate the past. The best of what is ahead will be new."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Six of Cups.",
-      "faq": [
-        {
-          "question": "What does Six of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Cups."
-        },
-        {
-          "question": "Is Six of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Cups."
-        },
-        {
-          "question": "What does Six of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Six of Cups."
-        }
-      ]
+      }
     },
     "seven-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Seven of Cups",
-      "imageAlt": "Seven of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Seven of Cups.",
+      "imageAlt": "Seven of Cups: a dark figure faces seven cups floating in clouds, each holding a vision: a head, a veiled figure, a snake, a castle, jewels, a laurel wreath and a dragon.",
+      "summary": "The Seven of Cups represents choices, fantasy and wishful thinking. Upright, it signals many options, daydreams and illusions that make it hard to decide. Reversed, it points to clarity returning, cutting through distractions and choosing one realistic path among many tempting ones.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "choices",
+          "fantasy",
+          "illusion",
+          "wishful thinking",
+          "imagination"
         ],
         "reversed": [
-          "placeholder"
+          "clarity",
+          "decisiveness",
+          "reality check",
+          "focus",
+          "disillusion"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Seven of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Seven of Cups.",
+      "upright": "Upright, the Seven of Cups is crowded with possibilities. Some are real opportunities; others are fantasies or traps. The card warns against being dazzled and asks you to look closely at each option. Imagination is valuable, but decisions need facts.",
+      "reversed": "Reversed, the Seven of Cups suggests the clouds are clearing. You are ready to drop unrealistic options and commit to what truly matters. It can also mean waking up from an illusion, which may sting but brings focus.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Seven of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Seven of Cups."
+            "short": "A time of many choices or big dreams in the past helped you discover what you want."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Seven of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Seven of Cups."
+            "short": "In the past you were misled by an illusion or stayed undecided too long."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Seven of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Seven of Cups."
+            "short": "You face many options. Separate the real from the wishful before you choose."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Seven of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Seven of Cups."
+            "short": "Clarity is returning. Pick one path and commit to it."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Seven of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Seven of Cups."
+            "short": "Several choices will appear. Take your time and check which ones are solid."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Seven of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Seven of Cups."
+            "short": "A decision ahead will become clear once you let go of fantasies."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Seven of Cups.",
-      "faq": [
-        {
-          "question": "What does Seven of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Cups."
-        },
-        {
-          "question": "Is Seven of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Cups."
-        },
-        {
-          "question": "What does Seven of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Seven of Cups."
-        }
-      ]
+      }
     },
     "eight-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Eight of Cups",
-      "imageAlt": "Eight of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Eight of Cups.",
+      "imageAlt": "Eight of Cups: a cloaked figure with a staff walks away from eight neatly stacked cups toward rocky mountains under a moon that is both full and crescent.",
+      "summary": "The Eight of Cups represents walking away, emotional withdrawal and the search for deeper meaning. Upright, it signals leaving behind something that no longer fulfills you, even if it looks fine. Reversed, it points to fear of change, staying too long or drifting without a clear reason to leave.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "walking away",
+          "seeking meaning",
+          "letting go",
+          "withdrawal",
+          "transition"
         ],
         "reversed": [
-          "placeholder"
+          "fear of change",
+          "staying too long",
+          "aimless drifting",
+          "avoidance",
+          "indecision"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Eight of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Eight of Cups.",
+      "upright": "Upright, the Eight of Cups shows the courage to leave. The cups are stacked neatly, so nothing is obviously wrong, but something is missing. The card supports moving on from a job, relationship or situation in search of something more meaningful.",
+      "reversed": "Reversed, the Eight of Cups suggests uncertainty about leaving. You may be staying out of fear or habit, or walking away from everything without knowing what you want. Get clear on what you are seeking before you decide.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Eight of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Eight of Cups."
+            "short": "In the past you walked away from something unfulfilling, and that choice set you on a truer path."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Eight of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Eight of Cups."
+            "short": "You stayed too long in a situation in the past, and you may still feel its weight."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Eight of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Eight of Cups."
+            "short": "Something no longer satisfies you. It may be time to move on and look for deeper meaning."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Eight of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Eight of Cups."
+            "short": "You are torn between staying and going. Be honest about what is keeping you there."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Eight of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Eight of Cups."
+            "short": "A time is coming to leave something behind in search of greater fulfillment."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Eight of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Eight of Cups."
+            "short": "Fear of change may tempt you to stay put. Consider what you would gain by moving on."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Eight of Cups.",
-      "faq": [
-        {
-          "question": "What does Eight of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Cups."
-        },
-        {
-          "question": "Is Eight of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Cups."
-        },
-        {
-          "question": "What does Eight of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Eight of Cups."
-        }
-      ]
+      }
     },
     "nine-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Nine of Cups",
-      "imageAlt": "Nine of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Nine of Cups.",
+      "imageAlt": "Nine of Cups: a contented man sits with arms folded on a wooden bench, with nine cups arranged on a curved, cloth-covered table behind him.",
+      "summary": "The Nine of Cups represents contentment, satisfaction and wishes coming true. Upright, it is often called the wish card, signaling comfort, pleasure and emotional fulfillment. Reversed, it points to dissatisfaction, smugness, overindulgence or realizing that what you wanted is not what you need.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "contentment",
+          "satisfaction",
+          "wishes fulfilled",
+          "comfort",
+          "gratitude"
         ],
         "reversed": [
-          "placeholder"
+          "dissatisfaction",
+          "smugness",
+          "overindulgence",
+          "materialism",
+          "unmet wishes"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Nine of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Nine of Cups.",
+      "upright": "Upright, the Nine of Cups is the wish card. Things are going well, and you can enjoy comfort, pleasure and a sense of having enough. It encourages gratitude and savoring what you have achieved. A hope you hold may well be granted.",
+      "reversed": "Reversed, the Nine of Cups suggests the wish has not satisfied. You may have what you wanted yet still feel empty, or chase pleasure to fill a gap. It asks you to look for fulfillment that goes deeper than possessions or appearances.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Nine of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Nine of Cups."
+            "short": "A wish came true in the past, bringing satisfaction you can still draw on."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Nine of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Nine of Cups."
+            "short": "In the past you got what you wanted but found it less fulfilling than expected."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Nine of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Nine of Cups."
+            "short": "You have much to be content about. Enjoy it and express gratitude."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Nine of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Nine of Cups."
+            "short": "Something feels hollow. Ask what would truly satisfy you beyond comfort or status."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Nine of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Nine of Cups."
+            "short": "A wish is likely to come true. Expect satisfaction and emotional comfort."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Nine of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Nine of Cups."
+            "short": "Be careful what you wish for. Make sure your goals reflect what you really need."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Nine of Cups.",
-      "faq": [
-        {
-          "question": "What does Nine of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Cups."
-        },
-        {
-          "question": "Is Nine of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Cups."
-        },
-        {
-          "question": "What does Nine of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Nine of Cups."
-        }
-      ]
+      }
     },
     "ten-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Ten of Cups",
-      "imageAlt": "Ten of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ten of Cups.",
+      "imageAlt": "Ten of Cups: a couple raise their arms toward a rainbow of ten cups in the sky while two children dance beside them, a house and river in the green landscape beyond.",
+      "summary": "The Ten of Cups represents emotional fulfillment, family harmony and lasting happiness. Upright, it signals loving relationships, a peaceful home and a sense that life is in alignment. Reversed, it points to family tension, broken relationships, unrealistic ideals or a home that looks happier than it feels.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "harmony",
+          "family",
+          "happiness",
+          "fulfillment",
+          "emotional security"
         ],
         "reversed": [
-          "placeholder"
+          "family conflict",
+          "disharmony",
+          "broken relationships",
+          "unrealistic ideals",
+          "disconnection"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Ten of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Ten of Cups.",
+      "upright": "Upright, the Ten of Cups is a picture of lasting contentment. Love, family and home come together in harmony. It suggests that your relationships are supportive and that emotional security is within reach. Celebrate the people who make you feel at home.",
+      "reversed": "Reversed, the Ten of Cups suggests the rainbow is fading. Family tensions, values that no longer match or a gap between appearance and reality may be causing unhappiness. Honest conversation and realistic expectations can help restore harmony.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Ten of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Ten of Cups."
+            "short": "A happy, loving home or relationship in the past gave you a lasting sense of security."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Ten of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Ten of Cups."
+            "short": "Past family tension or a broken relationship still affects how you see home and love."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Ten of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Ten of Cups."
+            "short": "Harmony is here. Enjoy the warmth of your relationships and your home."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Ten of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Ten of Cups."
+            "short": "Something is off in your close relationships. Address it openly rather than keeping up appearances."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Ten of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Ten of Cups."
+            "short": "Emotional fulfillment and a harmonious home life are coming."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Ten of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Ten of Cups."
+            "short": "Family or relationship tensions may surface. Work through them with patience and honesty."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ten of Cups.",
-      "faq": [
-        {
-          "question": "What does Ten of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Cups."
-        },
-        {
-          "question": "Is Ten of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Cups."
-        },
-        {
-          "question": "What does Ten of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Ten of Cups."
-        }
-      ]
+      }
     },
     "page-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Page of Cups",
-      "imageAlt": "Page of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Page of Cups.",
+      "imageAlt": "Page of Cups: a young man in a tunic decorated with lotus flowers stands at the shore holding a cup from which a small fish peers out at him.",
+      "summary": "The Page of Cups represents emotional curiosity, creativity and gentle surprises. Upright, it signals an intuitive message, a creative idea or a sweet romantic beginning. Reversed, it points to emotional immaturity, creative blocks, escapism or feelings that are hard to express.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "creativity",
+          "intuition",
+          "curiosity",
+          "sensitivity",
+          "surprise"
         ],
         "reversed": [
-          "placeholder"
+          "emotional immaturity",
+          "creative block",
+          "escapism",
+          "insecurity",
+          "moodiness"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Page of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Page of Cups.",
+      "upright": "Upright, the Page of Cups brings something unexpected and tender: a creative idea, an invitation or a flirtatious message. The fish in the cup reminds you to stay open to whimsy. The card encourages you to explore your feelings and imagination with a light heart.",
+      "reversed": "Reversed, the Page of Cups suggests feelings are getting tangled. You may be overly sensitive, retreating into daydreams or struggling to express yourself. Treat your emotions with patience, and let creativity flow without judging it.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Page of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Page of Cups."
+            "short": "A gentle surprise or creative spark in the past opened you to new feelings."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Page of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Page of Cups."
+            "short": "In the past emotional insecurity or daydreaming held you back from expressing yourself."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Page of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Page of Cups."
+            "short": "Be open to a surprise. Follow a creative hunch or a gentle feeling."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Page of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Page of Cups."
+            "short": "Your emotions feel immature or blocked. Express them in a safe, creative way."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Page of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Page of Cups."
+            "short": "An affectionate message or creative opportunity is on its way."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Page of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Page of Cups."
+            "short": "Avoid escaping into fantasy ahead. Bring your feelings into real conversations."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Page of Cups.",
-      "faq": [
-        {
-          "question": "What does Page of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Cups."
-        },
-        {
-          "question": "Is Page of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Cups."
-        },
-        {
-          "question": "What does Page of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Page of Cups."
-        }
-      ]
+      }
     },
     "knight-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Knight of Cups",
-      "imageAlt": "Knight of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Knight of Cups.",
+      "imageAlt": "Knight of Cups: a knight in armor decorated with fish rides a calm white horse at a slow walk, holding a golden cup out before him, a river in the valley.",
+      "summary": "The Knight of Cups represents romance, charm and following the heart. Upright, it signals an offer, invitation or proposal and an idealistic, creative approach to life. Reversed, it points to moodiness, unrealistic expectations, jealousy or someone whose charming words are not matched by action.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "romance",
+          "charm",
+          "idealism",
+          "invitation",
+          "following the heart"
         ],
         "reversed": [
-          "placeholder"
+          "moodiness",
+          "unrealistic expectations",
+          "jealousy",
+          "empty promises",
+          "disappointment"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Knight of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Knight of Cups.",
+      "upright": "Upright, the Knight of Cups arrives with an offer of the heart. It may be a romantic proposal, an artistic opportunity or an invitation to do something meaningful. The knight moves slowly and gracefully, guided by feeling. Let your imagination and compassion lead.",
+      "reversed": "Reversed, the Knight of Cups suggests the romance is not what it seems. Promises may not be kept, moods may swing, or you may be chasing an ideal that cannot exist. Ground your feelings in reality before committing.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Knight of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Knight of Cups."
+            "short": "A romantic or creative offer in the past led you to follow your heart, and it still shapes you."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Knight of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Knight of Cups."
+            "short": "In the past a charming promise was not kept, or idealism led to disappointment."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Knight of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Knight of Cups."
+            "short": "Follow your heart. An invitation or creative idea is worth saying yes to."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Knight of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Knight of Cups."
+            "short": "Your expectations may be too high, or someone's words outpace their actions. Look closely."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Knight of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Knight of Cups."
+            "short": "A romantic proposal or heartfelt offer is coming your way."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Knight of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Knight of Cups."
+            "short": "Be wary of promises that sound too perfect. Let actions prove intentions."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Knight of Cups.",
-      "faq": [
-        {
-          "question": "What does Knight of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Cups."
-        },
-        {
-          "question": "Is Knight of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Cups."
-        },
-        {
-          "question": "What does Knight of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Knight of Cups."
-        }
-      ]
+      }
     },
     "queen-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "Queen of Cups",
-      "imageAlt": "Queen of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Queen of Cups.",
+      "imageAlt": "Queen of Cups: a queen sits on a throne at the edge of the sea, gazing intently at an ornate, closed golden cup she holds in both hands.",
+      "summary": "The Queen of Cups represents compassion, emotional intelligence and intuition. Upright, it signals caring for others with calm, deep understanding while staying emotionally balanced. Reversed, it points to emotional overwhelm, codependence, insecurity or neglecting your own needs while absorbing everyone else's feelings.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "compassion",
+          "intuition",
+          "emotional intelligence",
+          "calm",
+          "care"
         ],
         "reversed": [
-          "placeholder"
+          "emotional overwhelm",
+          "codependence",
+          "insecurity",
+          "martyrdom",
+          "neglecting yourself"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for Queen of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for Queen of Cups.",
+      "upright": "Upright, the Queen of Cups listens with her whole heart. She senses what others feel and responds with kindness, yet she stays grounded. The card encourages you to trust your intuition, offer empathy and honor your own emotional world.",
+      "reversed": "Reversed, the Queen of Cups suggests your emotional boundaries are thin. You may be taking on others' feelings, losing yourself in caring for them, or feeling insecure. Look after your own heart first so you can keep giving.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for Queen of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for Queen of Cups."
+            "short": "A caring, intuitive influence in the past taught you empathy and emotional strength."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for Queen of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for Queen of Cups."
+            "short": "In the past you gave too much emotionally and neglected yourself, and you are still recovering."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for Queen of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for Queen of Cups."
+            "short": "Lead with compassion and trust your intuition. Listen deeply to yourself and others."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for Queen of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for Queen of Cups."
+            "short": "You are emotionally overloaded. Set gentle boundaries and care for your own needs."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for Queen of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for Queen of Cups."
+            "short": "A time of emotional depth and intuitive understanding is ahead."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for Queen of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for Queen of Cups."
+            "short": "You may feel overwhelmed by others' needs. Protect your energy before it runs low."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Queen of Cups.",
-      "faq": [
-        {
-          "question": "What does Queen of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Cups."
-        },
-        {
-          "question": "Is Queen of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Cups."
-        },
-        {
-          "question": "What does Queen of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for Queen of Cups."
-        }
-      ]
+      }
     },
     "king-of-cups": {
-      "status": "placeholder",
+      "status": "draft",
       "name": "King of Cups",
-      "imageAlt": "King of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
-      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for King of Cups.",
+      "imageAlt": "King of Cups: a king sits calmly on a stone throne floating on a rough sea, holding a cup and a short scepter, with a ship and a leaping fish behind him.",
+      "summary": "The King of Cups represents emotional balance, wisdom and calm under pressure. Upright, it signals steady compassion, diplomacy and leading with both heart and head. Reversed, it points to suppressed emotions, moodiness, manipulation or someone who seems calm while feelings churn beneath the surface.",
       "keywords": {
         "upright": [
-          "placeholder"
+          "emotional balance",
+          "wisdom",
+          "diplomacy",
+          "compassion",
+          "calm"
         ],
         "reversed": [
-          "placeholder"
+          "suppressed emotions",
+          "moodiness",
+          "manipulation",
+          "volatility",
+          "coldness"
         ]
       },
-      "upright": "[PLACEHOLDER] Upright meaning for King of Cups.",
-      "reversed": "[PLACEHOLDER] Reversed meaning for King of Cups.",
+      "upright": "Upright, the King of Cups stays steady while the sea moves around him. He feels deeply but is not ruled by his feelings. The card encourages calm leadership, wise counsel and compassionate decisions. It may describe a mature, supportive figure in your life.",
+      "reversed": "Reversed, the King of Cups suggests emotions are being controlled rather than balanced. Feelings may be bottled up until they spill over, or used to influence others. Allow yourself to feel and express things honestly.",
       "positions": {
         "past": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Past meaning for King of Cups.",
-            "long": "[PLACEHOLDER] Long upright Past meaning for King of Cups."
+            "short": "A wise, calm influence in the past helped you learn to handle your emotions."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Past meaning for King of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Past meaning for King of Cups."
+            "short": "In the past bottled-up emotions or someone's moodiness created instability you still feel."
           }
         },
         "present": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Present meaning for King of Cups.",
-            "long": "[PLACEHOLDER] Long upright Present meaning for King of Cups."
+            "short": "Stay calm and kind. Balance your feelings with good judgment."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Present meaning for King of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Present meaning for King of Cups."
+            "short": "You are holding emotions in too tightly. Find a safe way to let them out."
           }
         },
         "future": {
           "upright": {
-            "short": "[PLACEHOLDER] Short upright Future meaning for King of Cups.",
-            "long": "[PLACEHOLDER] Long upright Future meaning for King of Cups."
+            "short": "You will handle an emotional situation with wisdom and composure."
           },
           "reversed": {
-            "short": "[PLACEHOLDER] Short reversed Future meaning for King of Cups.",
-            "long": "[PLACEHOLDER] Long reversed Future meaning for King of Cups."
+            "short": "Watch for emotional manipulation or your own suppressed feelings surfacing ahead."
           }
         }
-      },
-      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for King of Cups.",
-      "faq": [
-        {
-          "question": "What does King of Cups mean in tarot?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Cups."
-        },
-        {
-          "question": "Is King of Cups a yes or no card?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Cups."
-        },
-        {
-          "question": "What does King of Cups mean in a love reading?",
-          "answer": "[PLACEHOLDER] FAQ answer for King of Cups."
-        }
-      ]
+      }
     }
   }
 }
