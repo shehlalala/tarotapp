@@ -1,0 +1,887 @@
+{
+  "$schema": "../../../schema/card-text.schema.json",
+  "cards": {
+    "ace-of-wands": {
+      "status": "placeholder",
+      "name": "Ace of Wands",
+      "imageAlt": "Ace of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ace of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Ace of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Ace of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Ace of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Ace of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Ace of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Ace of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Ace of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Ace of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Ace of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Ace of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Ace of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Ace of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Ace of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Ace of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ace of Wands.",
+      "faq": [
+        {
+          "question": "What does Ace of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Wands."
+        },
+        {
+          "question": "Is Ace of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Wands."
+        },
+        {
+          "question": "What does Ace of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Wands."
+        }
+      ]
+    },
+    "two-of-wands": {
+      "status": "placeholder",
+      "name": "Two of Wands",
+      "imageAlt": "Two of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Two of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Two of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Two of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Two of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Two of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Two of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Two of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Two of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Two of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Two of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Two of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Two of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Two of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Two of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Two of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Two of Wands.",
+      "faq": [
+        {
+          "question": "What does Two of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Wands."
+        },
+        {
+          "question": "Is Two of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Wands."
+        },
+        {
+          "question": "What does Two of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Wands."
+        }
+      ]
+    },
+    "three-of-wands": {
+      "status": "placeholder",
+      "name": "Three of Wands",
+      "imageAlt": "Three of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Three of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Three of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Three of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Three of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Three of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Three of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Three of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Three of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Three of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Three of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Three of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Three of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Three of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Three of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Three of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Three of Wands.",
+      "faq": [
+        {
+          "question": "What does Three of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Wands."
+        },
+        {
+          "question": "Is Three of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Wands."
+        },
+        {
+          "question": "What does Three of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Wands."
+        }
+      ]
+    },
+    "four-of-wands": {
+      "status": "placeholder",
+      "name": "Four of Wands",
+      "imageAlt": "Four of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Four of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Four of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Four of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Four of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Four of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Four of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Four of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Four of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Four of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Four of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Four of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Four of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Four of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Four of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Four of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Four of Wands.",
+      "faq": [
+        {
+          "question": "What does Four of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Wands."
+        },
+        {
+          "question": "Is Four of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Wands."
+        },
+        {
+          "question": "What does Four of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Wands."
+        }
+      ]
+    },
+    "five-of-wands": {
+      "status": "placeholder",
+      "name": "Five of Wands",
+      "imageAlt": "Five of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Five of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Five of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Five of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Five of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Five of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Five of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Five of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Five of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Five of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Five of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Five of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Five of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Five of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Five of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Five of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Five of Wands.",
+      "faq": [
+        {
+          "question": "What does Five of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Wands."
+        },
+        {
+          "question": "Is Five of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Wands."
+        },
+        {
+          "question": "What does Five of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Wands."
+        }
+      ]
+    },
+    "six-of-wands": {
+      "status": "placeholder",
+      "name": "Six of Wands",
+      "imageAlt": "Six of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Six of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Six of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Six of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Six of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Six of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Six of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Six of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Six of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Six of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Six of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Six of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Six of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Six of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Six of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Six of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Six of Wands.",
+      "faq": [
+        {
+          "question": "What does Six of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Wands."
+        },
+        {
+          "question": "Is Six of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Wands."
+        },
+        {
+          "question": "What does Six of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Wands."
+        }
+      ]
+    },
+    "seven-of-wands": {
+      "status": "placeholder",
+      "name": "Seven of Wands",
+      "imageAlt": "Seven of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Seven of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Seven of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Seven of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Seven of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Seven of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Seven of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Seven of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Seven of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Seven of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Seven of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Seven of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Seven of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Seven of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Seven of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Seven of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Seven of Wands.",
+      "faq": [
+        {
+          "question": "What does Seven of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Wands."
+        },
+        {
+          "question": "Is Seven of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Wands."
+        },
+        {
+          "question": "What does Seven of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Wands."
+        }
+      ]
+    },
+    "eight-of-wands": {
+      "status": "placeholder",
+      "name": "Eight of Wands",
+      "imageAlt": "Eight of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Eight of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Eight of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Eight of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Eight of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Eight of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Eight of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Eight of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Eight of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Eight of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Eight of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Eight of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Eight of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Eight of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Eight of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Eight of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Eight of Wands.",
+      "faq": [
+        {
+          "question": "What does Eight of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Wands."
+        },
+        {
+          "question": "Is Eight of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Wands."
+        },
+        {
+          "question": "What does Eight of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Wands."
+        }
+      ]
+    },
+    "nine-of-wands": {
+      "status": "placeholder",
+      "name": "Nine of Wands",
+      "imageAlt": "Nine of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Nine of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Nine of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Nine of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Nine of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Nine of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Nine of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Nine of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Nine of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Nine of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Nine of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Nine of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Nine of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Nine of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Nine of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Nine of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Nine of Wands.",
+      "faq": [
+        {
+          "question": "What does Nine of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Wands."
+        },
+        {
+          "question": "Is Nine of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Wands."
+        },
+        {
+          "question": "What does Nine of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Wands."
+        }
+      ]
+    },
+    "ten-of-wands": {
+      "status": "placeholder",
+      "name": "Ten of Wands",
+      "imageAlt": "Ten of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ten of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Ten of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Ten of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Ten of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Ten of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Ten of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Ten of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Ten of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Ten of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Ten of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Ten of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Ten of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Ten of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Ten of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Ten of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ten of Wands.",
+      "faq": [
+        {
+          "question": "What does Ten of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Wands."
+        },
+        {
+          "question": "Is Ten of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Wands."
+        },
+        {
+          "question": "What does Ten of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Wands."
+        }
+      ]
+    },
+    "page-of-wands": {
+      "status": "placeholder",
+      "name": "Page of Wands",
+      "imageAlt": "Page of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Page of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Page of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Page of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Page of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Page of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Page of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Page of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Page of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Page of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Page of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Page of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Page of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Page of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Page of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Page of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Page of Wands.",
+      "faq": [
+        {
+          "question": "What does Page of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Wands."
+        },
+        {
+          "question": "Is Page of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Wands."
+        },
+        {
+          "question": "What does Page of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Wands."
+        }
+      ]
+    },
+    "knight-of-wands": {
+      "status": "placeholder",
+      "name": "Knight of Wands",
+      "imageAlt": "Knight of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Knight of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Knight of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Knight of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Knight of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Knight of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Knight of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Knight of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Knight of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Knight of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Knight of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Knight of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Knight of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Knight of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Knight of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Knight of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Knight of Wands.",
+      "faq": [
+        {
+          "question": "What does Knight of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Wands."
+        },
+        {
+          "question": "Is Knight of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Wands."
+        },
+        {
+          "question": "What does Knight of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Wands."
+        }
+      ]
+    },
+    "queen-of-wands": {
+      "status": "placeholder",
+      "name": "Queen of Wands",
+      "imageAlt": "Queen of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Queen of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Queen of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Queen of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Queen of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Queen of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Queen of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Queen of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Queen of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Queen of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Queen of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Queen of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Queen of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Queen of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Queen of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Queen of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Queen of Wands.",
+      "faq": [
+        {
+          "question": "What does Queen of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Wands."
+        },
+        {
+          "question": "Is Queen of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Wands."
+        },
+        {
+          "question": "What does Queen of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Wands."
+        }
+      ]
+    },
+    "king-of-wands": {
+      "status": "placeholder",
+      "name": "King of Wands",
+      "imageAlt": "King of Wands tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for King of Wands.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for King of Wands.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for King of Wands.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for King of Wands.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for King of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for King of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for King of Wands."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for King of Wands.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for King of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for King of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for King of Wands."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for King of Wands.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for King of Wands."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for King of Wands.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for King of Wands."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for King of Wands.",
+      "faq": [
+        {
+          "question": "What does King of Wands mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Wands."
+        },
+        {
+          "question": "Is King of Wands a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Wands."
+        },
+        {
+          "question": "What does King of Wands mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Wands."
+        }
+      ]
+    }
+  }
+}

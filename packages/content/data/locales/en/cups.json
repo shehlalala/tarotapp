@@ -1,0 +1,887 @@
+{
+  "$schema": "../../../schema/card-text.schema.json",
+  "cards": {
+    "ace-of-cups": {
+      "status": "placeholder",
+      "name": "Ace of Cups",
+      "imageAlt": "Ace of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ace of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Ace of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Ace of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Ace of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Ace of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Ace of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Ace of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Ace of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Ace of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Ace of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Ace of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Ace of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Ace of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Ace of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Ace of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ace of Cups.",
+      "faq": [
+        {
+          "question": "What does Ace of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Cups."
+        },
+        {
+          "question": "Is Ace of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Cups."
+        },
+        {
+          "question": "What does Ace of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Cups."
+        }
+      ]
+    },
+    "two-of-cups": {
+      "status": "placeholder",
+      "name": "Two of Cups",
+      "imageAlt": "Two of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Two of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Two of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Two of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Two of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Two of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Two of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Two of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Two of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Two of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Two of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Two of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Two of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Two of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Two of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Two of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Two of Cups.",
+      "faq": [
+        {
+          "question": "What does Two of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Cups."
+        },
+        {
+          "question": "Is Two of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Cups."
+        },
+        {
+          "question": "What does Two of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Cups."
+        }
+      ]
+    },
+    "three-of-cups": {
+      "status": "placeholder",
+      "name": "Three of Cups",
+      "imageAlt": "Three of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Three of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Three of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Three of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Three of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Three of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Three of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Three of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Three of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Three of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Three of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Three of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Three of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Three of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Three of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Three of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Three of Cups.",
+      "faq": [
+        {
+          "question": "What does Three of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Cups."
+        },
+        {
+          "question": "Is Three of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Cups."
+        },
+        {
+          "question": "What does Three of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Cups."
+        }
+      ]
+    },
+    "four-of-cups": {
+      "status": "placeholder",
+      "name": "Four of Cups",
+      "imageAlt": "Four of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Four of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Four of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Four of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Four of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Four of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Four of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Four of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Four of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Four of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Four of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Four of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Four of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Four of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Four of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Four of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Four of Cups.",
+      "faq": [
+        {
+          "question": "What does Four of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Cups."
+        },
+        {
+          "question": "Is Four of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Cups."
+        },
+        {
+          "question": "What does Four of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Cups."
+        }
+      ]
+    },
+    "five-of-cups": {
+      "status": "placeholder",
+      "name": "Five of Cups",
+      "imageAlt": "Five of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Five of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Five of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Five of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Five of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Five of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Five of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Five of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Five of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Five of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Five of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Five of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Five of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Five of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Five of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Five of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Five of Cups.",
+      "faq": [
+        {
+          "question": "What does Five of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Cups."
+        },
+        {
+          "question": "Is Five of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Cups."
+        },
+        {
+          "question": "What does Five of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Cups."
+        }
+      ]
+    },
+    "six-of-cups": {
+      "status": "placeholder",
+      "name": "Six of Cups",
+      "imageAlt": "Six of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Six of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Six of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Six of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Six of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Six of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Six of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Six of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Six of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Six of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Six of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Six of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Six of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Six of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Six of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Six of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Six of Cups.",
+      "faq": [
+        {
+          "question": "What does Six of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Cups."
+        },
+        {
+          "question": "Is Six of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Cups."
+        },
+        {
+          "question": "What does Six of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Cups."
+        }
+      ]
+    },
+    "seven-of-cups": {
+      "status": "placeholder",
+      "name": "Seven of Cups",
+      "imageAlt": "Seven of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Seven of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Seven of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Seven of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Seven of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Seven of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Seven of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Seven of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Seven of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Seven of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Seven of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Seven of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Seven of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Seven of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Seven of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Seven of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Seven of Cups.",
+      "faq": [
+        {
+          "question": "What does Seven of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Cups."
+        },
+        {
+          "question": "Is Seven of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Cups."
+        },
+        {
+          "question": "What does Seven of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Cups."
+        }
+      ]
+    },
+    "eight-of-cups": {
+      "status": "placeholder",
+      "name": "Eight of Cups",
+      "imageAlt": "Eight of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Eight of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Eight of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Eight of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Eight of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Eight of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Eight of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Eight of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Eight of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Eight of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Eight of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Eight of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Eight of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Eight of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Eight of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Eight of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Eight of Cups.",
+      "faq": [
+        {
+          "question": "What does Eight of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Cups."
+        },
+        {
+          "question": "Is Eight of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Cups."
+        },
+        {
+          "question": "What does Eight of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Cups."
+        }
+      ]
+    },
+    "nine-of-cups": {
+      "status": "placeholder",
+      "name": "Nine of Cups",
+      "imageAlt": "Nine of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Nine of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Nine of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Nine of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Nine of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Nine of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Nine of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Nine of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Nine of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Nine of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Nine of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Nine of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Nine of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Nine of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Nine of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Nine of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Nine of Cups.",
+      "faq": [
+        {
+          "question": "What does Nine of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Cups."
+        },
+        {
+          "question": "Is Nine of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Cups."
+        },
+        {
+          "question": "What does Nine of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Cups."
+        }
+      ]
+    },
+    "ten-of-cups": {
+      "status": "placeholder",
+      "name": "Ten of Cups",
+      "imageAlt": "Ten of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ten of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Ten of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Ten of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Ten of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Ten of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Ten of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Ten of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Ten of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Ten of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Ten of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Ten of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Ten of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Ten of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Ten of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Ten of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ten of Cups.",
+      "faq": [
+        {
+          "question": "What does Ten of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Cups."
+        },
+        {
+          "question": "Is Ten of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Cups."
+        },
+        {
+          "question": "What does Ten of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Cups."
+        }
+      ]
+    },
+    "page-of-cups": {
+      "status": "placeholder",
+      "name": "Page of Cups",
+      "imageAlt": "Page of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Page of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Page of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Page of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Page of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Page of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Page of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Page of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Page of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Page of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Page of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Page of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Page of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Page of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Page of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Page of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Page of Cups.",
+      "faq": [
+        {
+          "question": "What does Page of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Cups."
+        },
+        {
+          "question": "Is Page of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Cups."
+        },
+        {
+          "question": "What does Page of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Cups."
+        }
+      ]
+    },
+    "knight-of-cups": {
+      "status": "placeholder",
+      "name": "Knight of Cups",
+      "imageAlt": "Knight of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Knight of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Knight of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Knight of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Knight of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Knight of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Knight of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Knight of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Knight of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Knight of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Knight of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Knight of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Knight of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Knight of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Knight of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Knight of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Knight of Cups.",
+      "faq": [
+        {
+          "question": "What does Knight of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Cups."
+        },
+        {
+          "question": "Is Knight of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Cups."
+        },
+        {
+          "question": "What does Knight of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Cups."
+        }
+      ]
+    },
+    "queen-of-cups": {
+      "status": "placeholder",
+      "name": "Queen of Cups",
+      "imageAlt": "Queen of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Queen of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Queen of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Queen of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Queen of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Queen of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Queen of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Queen of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Queen of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Queen of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Queen of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Queen of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Queen of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Queen of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Queen of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Queen of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Queen of Cups.",
+      "faq": [
+        {
+          "question": "What does Queen of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Cups."
+        },
+        {
+          "question": "Is Queen of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Cups."
+        },
+        {
+          "question": "What does Queen of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Cups."
+        }
+      ]
+    },
+    "king-of-cups": {
+      "status": "placeholder",
+      "name": "King of Cups",
+      "imageAlt": "King of Cups tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for King of Cups.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for King of Cups.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for King of Cups.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for King of Cups.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for King of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for King of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for King of Cups."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for King of Cups.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for King of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for King of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for King of Cups."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for King of Cups.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for King of Cups."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for King of Cups.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for King of Cups."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for King of Cups.",
+      "faq": [
+        {
+          "question": "What does King of Cups mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Cups."
+        },
+        {
+          "question": "Is King of Cups a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Cups."
+        },
+        {
+          "question": "What does King of Cups mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Cups."
+        }
+      ]
+    }
+  }
+}

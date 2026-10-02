@@ -1,0 +1,175 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "card-text.schema.json",
+  "title": "Tarot card text for one locale and one group (major arcana or one suit)",
+  "type": "object",
+  "required": [
+    "cards"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "cards": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[a-z]+(-[a-z]+)*$"
+      },
+      "additionalProperties": {
+        "$ref": "#/$defs/cardText"
+      }
+    }
+  },
+  "$defs": {
+    "text": {
+      "type": "string",
+      "minLength": 1
+    },
+    "cardText": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "name",
+        "imageAlt",
+        "summary",
+        "keywords",
+        "upright",
+        "reversed",
+        "positions",
+        "symbolism",
+        "faq"
+      ],
+      "properties": {
+        "status": {
+          "enum": [
+            "placeholder",
+            "draft",
+            "reviewed"
+          ],
+          "description": "placeholder = scaffold, draft = awaiting human review, reviewed = approved."
+        },
+        "name": {
+          "$ref": "#/$defs/text"
+        },
+        "imageAlt": {
+          "$ref": "#/$defs/text"
+        },
+        "summary": {
+          "$ref": "#/$defs/text",
+          "description": "40-60 word, self-contained answer to 'What does <card> mean in tarot?'"
+        },
+        "keywords": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "upright",
+            "reversed"
+          ],
+          "properties": {
+            "upright": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/text"
+              },
+              "minItems": 1
+            },
+            "reversed": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/text"
+              },
+              "minItems": 1
+            }
+          }
+        },
+        "upright": {
+          "$ref": "#/$defs/text"
+        },
+        "reversed": {
+          "$ref": "#/$defs/text"
+        },
+        "positions": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "past",
+            "present",
+            "future"
+          ],
+          "properties": {
+            "past": {
+              "$ref": "#/$defs/positionMeaning"
+            },
+            "present": {
+              "$ref": "#/$defs/positionMeaning"
+            },
+            "future": {
+              "$ref": "#/$defs/positionMeaning"
+            }
+          }
+        },
+        "symbolism": {
+          "$ref": "#/$defs/text"
+        },
+        "faq": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 5,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "question",
+              "answer"
+            ],
+            "properties": {
+              "question": {
+                "$ref": "#/$defs/text"
+              },
+              "answer": {
+                "$ref": "#/$defs/text"
+              }
+            }
+          }
+        }
+      }
+    },
+    "positionText": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "short",
+        "long"
+      ],
+      "properties": {
+        "short": {
+          "$ref": "#/$defs/text",
+          "description": "One or two sentences, shown on the reveal screen."
+        },
+        "long": {
+          "$ref": "#/$defs/text",
+          "description": "A paragraph, shown in the detail view and on the website."
+        }
+      }
+    },
+    "positionMeaning": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "upright",
+        "reversed"
+      ],
+      "description": "Meaning in this position, for a card drawn upright and drawn reversed.",
+      "properties": {
+        "upright": {
+          "$ref": "#/$defs/positionText"
+        },
+        "reversed": {
+          "$ref": "#/$defs/positionText"
+        }
+      }
+    }
+  }
+}

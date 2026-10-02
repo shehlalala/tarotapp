@@ -1,0 +1,8 @@
+{
+  "suits": [
+    { "id": "wands", "element": "fire" },
+    { "id": "cups", "element": "water" },
+    { "id": "swords", "element": "air" },
+    { "id": "pentacles", "element": "earth" }
+  ]
+}

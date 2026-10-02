@@ -1,0 +1,19 @@
+{
+  "name": "@tarot/content",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Single source of truth for card data, spreads, brand config and shared types.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./brand.json": "./brand.json",
+    "./data/*": "./data/*"
+  },
+  "scripts": {
+    "validate": "node scripts/validate.ts",
+    "placeholders": "node scripts/generate-placeholders.ts",
+    "typecheck": "tsc --noEmit -p ."
+  }
+}

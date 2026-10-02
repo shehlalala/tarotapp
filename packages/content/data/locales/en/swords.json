@@ -1,0 +1,887 @@
+{
+  "$schema": "../../../schema/card-text.schema.json",
+  "cards": {
+    "ace-of-swords": {
+      "status": "placeholder",
+      "name": "Ace of Swords",
+      "imageAlt": "Ace of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ace of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Ace of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Ace of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Ace of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Ace of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Ace of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Ace of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Ace of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Ace of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Ace of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Ace of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Ace of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Ace of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Ace of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Ace of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ace of Swords.",
+      "faq": [
+        {
+          "question": "What does Ace of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Swords."
+        },
+        {
+          "question": "Is Ace of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Swords."
+        },
+        {
+          "question": "What does Ace of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Swords."
+        }
+      ]
+    },
+    "two-of-swords": {
+      "status": "placeholder",
+      "name": "Two of Swords",
+      "imageAlt": "Two of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Two of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Two of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Two of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Two of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Two of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Two of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Two of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Two of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Two of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Two of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Two of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Two of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Two of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Two of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Two of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Two of Swords.",
+      "faq": [
+        {
+          "question": "What does Two of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Swords."
+        },
+        {
+          "question": "Is Two of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Swords."
+        },
+        {
+          "question": "What does Two of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Swords."
+        }
+      ]
+    },
+    "three-of-swords": {
+      "status": "placeholder",
+      "name": "Three of Swords",
+      "imageAlt": "Three of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Three of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Three of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Three of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Three of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Three of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Three of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Three of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Three of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Three of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Three of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Three of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Three of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Three of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Three of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Three of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Three of Swords.",
+      "faq": [
+        {
+          "question": "What does Three of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Swords."
+        },
+        {
+          "question": "Is Three of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Swords."
+        },
+        {
+          "question": "What does Three of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Swords."
+        }
+      ]
+    },
+    "four-of-swords": {
+      "status": "placeholder",
+      "name": "Four of Swords",
+      "imageAlt": "Four of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Four of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Four of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Four of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Four of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Four of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Four of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Four of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Four of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Four of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Four of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Four of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Four of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Four of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Four of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Four of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Four of Swords.",
+      "faq": [
+        {
+          "question": "What does Four of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Swords."
+        },
+        {
+          "question": "Is Four of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Swords."
+        },
+        {
+          "question": "What does Four of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Swords."
+        }
+      ]
+    },
+    "five-of-swords": {
+      "status": "placeholder",
+      "name": "Five of Swords",
+      "imageAlt": "Five of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Five of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Five of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Five of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Five of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Five of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Five of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Five of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Five of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Five of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Five of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Five of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Five of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Five of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Five of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Five of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Five of Swords.",
+      "faq": [
+        {
+          "question": "What does Five of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Swords."
+        },
+        {
+          "question": "Is Five of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Swords."
+        },
+        {
+          "question": "What does Five of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Swords."
+        }
+      ]
+    },
+    "six-of-swords": {
+      "status": "placeholder",
+      "name": "Six of Swords",
+      "imageAlt": "Six of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Six of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Six of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Six of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Six of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Six of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Six of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Six of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Six of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Six of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Six of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Six of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Six of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Six of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Six of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Six of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Six of Swords.",
+      "faq": [
+        {
+          "question": "What does Six of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Swords."
+        },
+        {
+          "question": "Is Six of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Swords."
+        },
+        {
+          "question": "What does Six of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Swords."
+        }
+      ]
+    },
+    "seven-of-swords": {
+      "status": "placeholder",
+      "name": "Seven of Swords",
+      "imageAlt": "Seven of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Seven of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Seven of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Seven of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Seven of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Seven of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Seven of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Seven of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Seven of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Seven of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Seven of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Seven of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Seven of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Seven of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Seven of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Seven of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Seven of Swords.",
+      "faq": [
+        {
+          "question": "What does Seven of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Swords."
+        },
+        {
+          "question": "Is Seven of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Swords."
+        },
+        {
+          "question": "What does Seven of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Swords."
+        }
+      ]
+    },
+    "eight-of-swords": {
+      "status": "placeholder",
+      "name": "Eight of Swords",
+      "imageAlt": "Eight of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Eight of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Eight of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Eight of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Eight of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Eight of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Eight of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Eight of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Eight of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Eight of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Eight of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Eight of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Eight of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Eight of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Eight of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Eight of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Eight of Swords.",
+      "faq": [
+        {
+          "question": "What does Eight of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Swords."
+        },
+        {
+          "question": "Is Eight of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Swords."
+        },
+        {
+          "question": "What does Eight of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Swords."
+        }
+      ]
+    },
+    "nine-of-swords": {
+      "status": "placeholder",
+      "name": "Nine of Swords",
+      "imageAlt": "Nine of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Nine of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Nine of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Nine of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Nine of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Nine of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Nine of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Nine of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Nine of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Nine of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Nine of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Nine of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Nine of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Nine of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Nine of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Nine of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Nine of Swords.",
+      "faq": [
+        {
+          "question": "What does Nine of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Swords."
+        },
+        {
+          "question": "Is Nine of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Swords."
+        },
+        {
+          "question": "What does Nine of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Swords."
+        }
+      ]
+    },
+    "ten-of-swords": {
+      "status": "placeholder",
+      "name": "Ten of Swords",
+      "imageAlt": "Ten of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ten of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Ten of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Ten of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Ten of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Ten of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Ten of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Ten of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Ten of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Ten of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Ten of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Ten of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Ten of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Ten of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Ten of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Ten of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ten of Swords.",
+      "faq": [
+        {
+          "question": "What does Ten of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Swords."
+        },
+        {
+          "question": "Is Ten of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Swords."
+        },
+        {
+          "question": "What does Ten of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Swords."
+        }
+      ]
+    },
+    "page-of-swords": {
+      "status": "placeholder",
+      "name": "Page of Swords",
+      "imageAlt": "Page of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Page of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Page of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Page of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Page of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Page of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Page of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Page of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Page of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Page of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Page of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Page of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Page of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Page of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Page of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Page of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Page of Swords.",
+      "faq": [
+        {
+          "question": "What does Page of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Swords."
+        },
+        {
+          "question": "Is Page of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Swords."
+        },
+        {
+          "question": "What does Page of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Swords."
+        }
+      ]
+    },
+    "knight-of-swords": {
+      "status": "placeholder",
+      "name": "Knight of Swords",
+      "imageAlt": "Knight of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Knight of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Knight of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Knight of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Knight of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Knight of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Knight of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Knight of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Knight of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Knight of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Knight of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Knight of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Knight of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Knight of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Knight of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Knight of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Knight of Swords.",
+      "faq": [
+        {
+          "question": "What does Knight of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Swords."
+        },
+        {
+          "question": "Is Knight of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Swords."
+        },
+        {
+          "question": "What does Knight of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Swords."
+        }
+      ]
+    },
+    "queen-of-swords": {
+      "status": "placeholder",
+      "name": "Queen of Swords",
+      "imageAlt": "Queen of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Queen of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Queen of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Queen of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Queen of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Queen of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Queen of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Queen of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Queen of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Queen of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Queen of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Queen of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Queen of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Queen of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Queen of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Queen of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Queen of Swords.",
+      "faq": [
+        {
+          "question": "What does Queen of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Swords."
+        },
+        {
+          "question": "Is Queen of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Swords."
+        },
+        {
+          "question": "What does Queen of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Swords."
+        }
+      ]
+    },
+    "king-of-swords": {
+      "status": "placeholder",
+      "name": "King of Swords",
+      "imageAlt": "King of Swords tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for King of Swords.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for King of Swords.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for King of Swords.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for King of Swords.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for King of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for King of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for King of Swords."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for King of Swords.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for King of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for King of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for King of Swords."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for King of Swords.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for King of Swords."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for King of Swords.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for King of Swords."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for King of Swords.",
+      "faq": [
+        {
+          "question": "What does King of Swords mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Swords."
+        },
+        {
+          "question": "Is King of Swords a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Swords."
+        },
+        {
+          "question": "What does King of Swords mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Swords."
+        }
+      ]
+    }
+  }
+}

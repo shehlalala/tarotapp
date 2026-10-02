@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.astro/
+.expo/
+web-build/
+*.tsbuildinfo
+.DS_Store
+.env*
+!.env.example
+npm-debug.log*
+pnpm-debug.log*

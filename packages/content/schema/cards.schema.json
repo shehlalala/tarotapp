@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "cards.schema.json",
+  "title": "Tarot card facts (language-neutral)",
+  "type": "object",
+  "required": ["cards"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "cards": {
+      "type": "array",
+      "minItems": 78,
+      "maxItems": 78,
+      "items": { "$ref": "#/$defs/card" }
+    }
+  },
+  "$defs": {
+    "slug": { "type": "string", "pattern": "^[a-z]+(-[a-z]+)*$" },
+    "card": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "arcana", "number", "suit", "rank", "order", "image", "astrology", "related"],
+      "properties": {
+        "id": { "$ref": "#/$defs/slug", "description": "Stable id and URL slug. Never change after publishing." },
+        "arcana": { "enum": ["major", "minor"] },
+        "number": { "type": "integer", "minimum": 0, "maximum": 21 },
+        "suit": { "enum": ["wands", "cups", "swords", "pentacles", null] },
+        "rank": {
+          "enum": ["ace", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "page", "knight", "queen", "king", null]
+        },
+        "order": { "type": "integer", "minimum": 0, "maximum": 77 },
+        "image": { "type": "string", "pattern": "^(major|wands|cups|swords|pentacles)/[0-9]{2}-[a-z-]+$" },
+        "astrology": { "type": ["string", "null"] },
+        "related": { "type": "array", "items": { "$ref": "#/$defs/slug" }, "uniqueItems": true }
+      }
+    }
+  }
+}

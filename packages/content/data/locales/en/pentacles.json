@@ -1,0 +1,887 @@
+{
+  "$schema": "../../../schema/card-text.schema.json",
+  "cards": {
+    "ace-of-pentacles": {
+      "status": "placeholder",
+      "name": "Ace of Pentacles",
+      "imageAlt": "Ace of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ace of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Ace of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Ace of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Ace of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Ace of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Ace of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Ace of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Ace of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Ace of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Ace of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Ace of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Ace of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Ace of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Ace of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Ace of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ace of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Ace of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Pentacles."
+        },
+        {
+          "question": "Is Ace of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Pentacles."
+        },
+        {
+          "question": "What does Ace of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ace of Pentacles."
+        }
+      ]
+    },
+    "two-of-pentacles": {
+      "status": "placeholder",
+      "name": "Two of Pentacles",
+      "imageAlt": "Two of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Two of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Two of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Two of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Two of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Two of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Two of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Two of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Two of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Two of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Two of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Two of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Two of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Two of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Two of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Two of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Two of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Two of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Pentacles."
+        },
+        {
+          "question": "Is Two of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Pentacles."
+        },
+        {
+          "question": "What does Two of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Two of Pentacles."
+        }
+      ]
+    },
+    "three-of-pentacles": {
+      "status": "placeholder",
+      "name": "Three of Pentacles",
+      "imageAlt": "Three of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Three of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Three of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Three of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Three of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Three of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Three of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Three of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Three of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Three of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Three of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Three of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Three of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Three of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Three of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Three of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Three of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Three of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Pentacles."
+        },
+        {
+          "question": "Is Three of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Pentacles."
+        },
+        {
+          "question": "What does Three of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Three of Pentacles."
+        }
+      ]
+    },
+    "four-of-pentacles": {
+      "status": "placeholder",
+      "name": "Four of Pentacles",
+      "imageAlt": "Four of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Four of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Four of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Four of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Four of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Four of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Four of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Four of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Four of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Four of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Four of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Four of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Four of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Four of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Four of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Four of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Four of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Four of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Pentacles."
+        },
+        {
+          "question": "Is Four of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Pentacles."
+        },
+        {
+          "question": "What does Four of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Four of Pentacles."
+        }
+      ]
+    },
+    "five-of-pentacles": {
+      "status": "placeholder",
+      "name": "Five of Pentacles",
+      "imageAlt": "Five of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Five of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Five of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Five of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Five of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Five of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Five of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Five of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Five of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Five of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Five of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Five of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Five of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Five of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Five of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Five of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Five of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Five of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Pentacles."
+        },
+        {
+          "question": "Is Five of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Pentacles."
+        },
+        {
+          "question": "What does Five of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Five of Pentacles."
+        }
+      ]
+    },
+    "six-of-pentacles": {
+      "status": "placeholder",
+      "name": "Six of Pentacles",
+      "imageAlt": "Six of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Six of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Six of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Six of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Six of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Six of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Six of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Six of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Six of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Six of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Six of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Six of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Six of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Six of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Six of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Six of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Six of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Six of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Pentacles."
+        },
+        {
+          "question": "Is Six of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Pentacles."
+        },
+        {
+          "question": "What does Six of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Six of Pentacles."
+        }
+      ]
+    },
+    "seven-of-pentacles": {
+      "status": "placeholder",
+      "name": "Seven of Pentacles",
+      "imageAlt": "Seven of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Seven of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Seven of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Seven of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Seven of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Seven of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Seven of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Seven of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Seven of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Seven of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Seven of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Seven of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Seven of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Seven of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Seven of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Seven of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Seven of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Seven of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Pentacles."
+        },
+        {
+          "question": "Is Seven of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Pentacles."
+        },
+        {
+          "question": "What does Seven of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Seven of Pentacles."
+        }
+      ]
+    },
+    "eight-of-pentacles": {
+      "status": "placeholder",
+      "name": "Eight of Pentacles",
+      "imageAlt": "Eight of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Eight of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Eight of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Eight of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Eight of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Eight of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Eight of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Eight of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Eight of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Eight of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Eight of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Eight of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Eight of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Eight of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Eight of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Eight of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Eight of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Eight of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Pentacles."
+        },
+        {
+          "question": "Is Eight of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Pentacles."
+        },
+        {
+          "question": "What does Eight of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Eight of Pentacles."
+        }
+      ]
+    },
+    "nine-of-pentacles": {
+      "status": "placeholder",
+      "name": "Nine of Pentacles",
+      "imageAlt": "Nine of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Nine of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Nine of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Nine of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Nine of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Nine of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Nine of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Nine of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Nine of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Nine of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Nine of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Nine of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Nine of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Nine of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Nine of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Nine of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Nine of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Nine of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Pentacles."
+        },
+        {
+          "question": "Is Nine of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Pentacles."
+        },
+        {
+          "question": "What does Nine of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Nine of Pentacles."
+        }
+      ]
+    },
+    "ten-of-pentacles": {
+      "status": "placeholder",
+      "name": "Ten of Pentacles",
+      "imageAlt": "Ten of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Ten of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Ten of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Ten of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Ten of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Ten of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Ten of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Ten of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Ten of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Ten of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Ten of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Ten of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Ten of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Ten of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Ten of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Ten of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Ten of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Ten of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Pentacles."
+        },
+        {
+          "question": "Is Ten of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Pentacles."
+        },
+        {
+          "question": "What does Ten of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Ten of Pentacles."
+        }
+      ]
+    },
+    "page-of-pentacles": {
+      "status": "placeholder",
+      "name": "Page of Pentacles",
+      "imageAlt": "Page of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Page of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Page of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Page of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Page of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Page of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Page of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Page of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Page of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Page of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Page of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Page of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Page of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Page of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Page of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Page of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Page of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Page of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Pentacles."
+        },
+        {
+          "question": "Is Page of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Pentacles."
+        },
+        {
+          "question": "What does Page of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Page of Pentacles."
+        }
+      ]
+    },
+    "knight-of-pentacles": {
+      "status": "placeholder",
+      "name": "Knight of Pentacles",
+      "imageAlt": "Knight of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Knight of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Knight of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Knight of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Knight of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Knight of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Knight of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Knight of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Knight of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Knight of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Knight of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Knight of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Knight of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Knight of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Knight of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Knight of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Knight of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Knight of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Pentacles."
+        },
+        {
+          "question": "Is Knight of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Pentacles."
+        },
+        {
+          "question": "What does Knight of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Knight of Pentacles."
+        }
+      ]
+    },
+    "queen-of-pentacles": {
+      "status": "placeholder",
+      "name": "Queen of Pentacles",
+      "imageAlt": "Queen of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Queen of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Queen of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Queen of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Queen of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Queen of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Queen of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Queen of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Queen of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Queen of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Queen of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Queen of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Queen of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Queen of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Queen of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Queen of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Queen of Pentacles.",
+      "faq": [
+        {
+          "question": "What does Queen of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Pentacles."
+        },
+        {
+          "question": "Is Queen of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Pentacles."
+        },
+        {
+          "question": "What does Queen of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Queen of Pentacles."
+        }
+      ]
+    },
+    "king-of-pentacles": {
+      "status": "placeholder",
+      "name": "King of Pentacles",
+      "imageAlt": "King of Pentacles tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for King of Pentacles.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for King of Pentacles.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for King of Pentacles.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for King of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for King of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for King of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for King of Pentacles."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for King of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for King of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for King of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for King of Pentacles."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for King of Pentacles.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for King of Pentacles."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for King of Pentacles.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for King of Pentacles."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for King of Pentacles.",
+      "faq": [
+        {
+          "question": "What does King of Pentacles mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Pentacles."
+        },
+        {
+          "question": "Is King of Pentacles a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Pentacles."
+        },
+        {
+          "question": "What does King of Pentacles mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for King of Pentacles."
+        }
+      ]
+    }
+  }
+}

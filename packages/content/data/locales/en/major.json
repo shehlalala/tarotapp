@@ -1,0 +1,1391 @@
+{
+  "$schema": "../../../schema/card-text.schema.json",
+  "cards": {
+    "the-fool": {
+      "status": "placeholder",
+      "name": "The Fool",
+      "imageAlt": "The Fool tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Fool.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Fool.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Fool.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Fool.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Fool."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Fool.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Fool."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Fool.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Fool."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Fool.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Fool."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Fool.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Fool."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Fool.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Fool."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Fool.",
+      "faq": [
+        {
+          "question": "What does The Fool mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Fool."
+        },
+        {
+          "question": "Is The Fool a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Fool."
+        },
+        {
+          "question": "What does The Fool mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Fool."
+        }
+      ]
+    },
+    "the-magician": {
+      "status": "placeholder",
+      "name": "The Magician",
+      "imageAlt": "The Magician tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Magician.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Magician.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Magician.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Magician.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Magician."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Magician.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Magician."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Magician.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Magician."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Magician.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Magician."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Magician.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Magician."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Magician.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Magician."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Magician.",
+      "faq": [
+        {
+          "question": "What does The Magician mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Magician."
+        },
+        {
+          "question": "Is The Magician a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Magician."
+        },
+        {
+          "question": "What does The Magician mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Magician."
+        }
+      ]
+    },
+    "the-high-priestess": {
+      "status": "placeholder",
+      "name": "The High Priestess",
+      "imageAlt": "The High Priestess tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The High Priestess.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The High Priestess.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The High Priestess.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The High Priestess.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The High Priestess."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The High Priestess.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The High Priestess."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The High Priestess.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The High Priestess."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The High Priestess.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The High Priestess."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The High Priestess.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The High Priestess."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The High Priestess.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The High Priestess."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The High Priestess.",
+      "faq": [
+        {
+          "question": "What does The High Priestess mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The High Priestess."
+        },
+        {
+          "question": "Is The High Priestess a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The High Priestess."
+        },
+        {
+          "question": "What does The High Priestess mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The High Priestess."
+        }
+      ]
+    },
+    "the-empress": {
+      "status": "placeholder",
+      "name": "The Empress",
+      "imageAlt": "The Empress tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Empress.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Empress.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Empress.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Empress.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Empress."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Empress.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Empress."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Empress.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Empress."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Empress.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Empress."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Empress.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Empress."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Empress.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Empress."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Empress.",
+      "faq": [
+        {
+          "question": "What does The Empress mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Empress."
+        },
+        {
+          "question": "Is The Empress a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Empress."
+        },
+        {
+          "question": "What does The Empress mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Empress."
+        }
+      ]
+    },
+    "the-emperor": {
+      "status": "placeholder",
+      "name": "The Emperor",
+      "imageAlt": "The Emperor tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Emperor.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Emperor.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Emperor.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Emperor.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Emperor."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Emperor.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Emperor."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Emperor.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Emperor."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Emperor.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Emperor."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Emperor.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Emperor."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Emperor.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Emperor."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Emperor.",
+      "faq": [
+        {
+          "question": "What does The Emperor mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Emperor."
+        },
+        {
+          "question": "Is The Emperor a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Emperor."
+        },
+        {
+          "question": "What does The Emperor mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Emperor."
+        }
+      ]
+    },
+    "the-hierophant": {
+      "status": "placeholder",
+      "name": "The Hierophant",
+      "imageAlt": "The Hierophant tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Hierophant.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Hierophant.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Hierophant.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Hierophant.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Hierophant."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Hierophant.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Hierophant."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Hierophant.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Hierophant."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Hierophant.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Hierophant."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Hierophant.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Hierophant."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Hierophant.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Hierophant."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Hierophant.",
+      "faq": [
+        {
+          "question": "What does The Hierophant mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Hierophant."
+        },
+        {
+          "question": "Is The Hierophant a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Hierophant."
+        },
+        {
+          "question": "What does The Hierophant mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Hierophant."
+        }
+      ]
+    },
+    "the-lovers": {
+      "status": "placeholder",
+      "name": "The Lovers",
+      "imageAlt": "The Lovers tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Lovers.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Lovers.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Lovers.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Lovers.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Lovers."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Lovers.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Lovers."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Lovers.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Lovers."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Lovers.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Lovers."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Lovers.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Lovers."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Lovers.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Lovers."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Lovers.",
+      "faq": [
+        {
+          "question": "What does The Lovers mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Lovers."
+        },
+        {
+          "question": "Is The Lovers a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Lovers."
+        },
+        {
+          "question": "What does The Lovers mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Lovers."
+        }
+      ]
+    },
+    "the-chariot": {
+      "status": "placeholder",
+      "name": "The Chariot",
+      "imageAlt": "The Chariot tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Chariot.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Chariot.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Chariot.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Chariot.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Chariot."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Chariot.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Chariot."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Chariot.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Chariot."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Chariot.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Chariot."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Chariot.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Chariot."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Chariot.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Chariot."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Chariot.",
+      "faq": [
+        {
+          "question": "What does The Chariot mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Chariot."
+        },
+        {
+          "question": "Is The Chariot a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Chariot."
+        },
+        {
+          "question": "What does The Chariot mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Chariot."
+        }
+      ]
+    },
+    "strength": {
+      "status": "placeholder",
+      "name": "Strength",
+      "imageAlt": "Strength tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Strength.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Strength.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Strength.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Strength.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Strength."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Strength.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Strength."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Strength.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Strength."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Strength.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Strength."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Strength.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Strength."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Strength.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Strength."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Strength.",
+      "faq": [
+        {
+          "question": "What does Strength mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Strength."
+        },
+        {
+          "question": "Is Strength a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Strength."
+        },
+        {
+          "question": "What does Strength mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Strength."
+        }
+      ]
+    },
+    "the-hermit": {
+      "status": "placeholder",
+      "name": "The Hermit",
+      "imageAlt": "The Hermit tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Hermit.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Hermit.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Hermit.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Hermit.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Hermit."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Hermit.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Hermit."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Hermit.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Hermit."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Hermit.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Hermit."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Hermit.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Hermit."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Hermit.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Hermit."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Hermit.",
+      "faq": [
+        {
+          "question": "What does The Hermit mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Hermit."
+        },
+        {
+          "question": "Is The Hermit a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Hermit."
+        },
+        {
+          "question": "What does The Hermit mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Hermit."
+        }
+      ]
+    },
+    "wheel-of-fortune": {
+      "status": "placeholder",
+      "name": "Wheel of Fortune",
+      "imageAlt": "Wheel of Fortune tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Wheel of Fortune.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Wheel of Fortune.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Wheel of Fortune.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Wheel of Fortune.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Wheel of Fortune."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Wheel of Fortune.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Wheel of Fortune."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Wheel of Fortune.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Wheel of Fortune."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Wheel of Fortune.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Wheel of Fortune."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Wheel of Fortune.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Wheel of Fortune."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Wheel of Fortune.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Wheel of Fortune."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Wheel of Fortune.",
+      "faq": [
+        {
+          "question": "What does Wheel of Fortune mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Wheel of Fortune."
+        },
+        {
+          "question": "Is Wheel of Fortune a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Wheel of Fortune."
+        },
+        {
+          "question": "What does Wheel of Fortune mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Wheel of Fortune."
+        }
+      ]
+    },
+    "justice": {
+      "status": "placeholder",
+      "name": "Justice",
+      "imageAlt": "Justice tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Justice.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Justice.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Justice.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Justice.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Justice."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Justice.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Justice."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Justice.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Justice."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Justice.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Justice."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Justice.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Justice."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Justice.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Justice."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Justice.",
+      "faq": [
+        {
+          "question": "What does Justice mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Justice."
+        },
+        {
+          "question": "Is Justice a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Justice."
+        },
+        {
+          "question": "What does Justice mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Justice."
+        }
+      ]
+    },
+    "the-hanged-man": {
+      "status": "placeholder",
+      "name": "The Hanged Man",
+      "imageAlt": "The Hanged Man tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Hanged Man.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Hanged Man.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Hanged Man.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Hanged Man.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Hanged Man."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Hanged Man.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Hanged Man."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Hanged Man.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Hanged Man."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Hanged Man.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Hanged Man."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Hanged Man.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Hanged Man."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Hanged Man.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Hanged Man."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Hanged Man.",
+      "faq": [
+        {
+          "question": "What does The Hanged Man mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Hanged Man."
+        },
+        {
+          "question": "Is The Hanged Man a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Hanged Man."
+        },
+        {
+          "question": "What does The Hanged Man mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Hanged Man."
+        }
+      ]
+    },
+    "death": {
+      "status": "placeholder",
+      "name": "Death",
+      "imageAlt": "Death tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Death.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Death.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Death.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Death.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Death."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Death.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Death."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Death.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Death."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Death.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Death."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Death.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Death."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Death.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Death."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Death.",
+      "faq": [
+        {
+          "question": "What does Death mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Death."
+        },
+        {
+          "question": "Is Death a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Death."
+        },
+        {
+          "question": "What does Death mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Death."
+        }
+      ]
+    },
+    "temperance": {
+      "status": "placeholder",
+      "name": "Temperance",
+      "imageAlt": "Temperance tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Temperance.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Temperance.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Temperance.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Temperance.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Temperance."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Temperance.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Temperance."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Temperance.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Temperance."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Temperance.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Temperance."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Temperance.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Temperance."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Temperance.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Temperance."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Temperance.",
+      "faq": [
+        {
+          "question": "What does Temperance mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Temperance."
+        },
+        {
+          "question": "Is Temperance a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Temperance."
+        },
+        {
+          "question": "What does Temperance mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Temperance."
+        }
+      ]
+    },
+    "the-devil": {
+      "status": "placeholder",
+      "name": "The Devil",
+      "imageAlt": "The Devil tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Devil.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Devil.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Devil.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Devil.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Devil."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Devil.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Devil."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Devil.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Devil."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Devil.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Devil."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Devil.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Devil."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Devil.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Devil."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Devil.",
+      "faq": [
+        {
+          "question": "What does The Devil mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Devil."
+        },
+        {
+          "question": "Is The Devil a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Devil."
+        },
+        {
+          "question": "What does The Devil mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Devil."
+        }
+      ]
+    },
+    "the-tower": {
+      "status": "placeholder",
+      "name": "The Tower",
+      "imageAlt": "The Tower tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Tower.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Tower.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Tower.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Tower.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Tower."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Tower.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Tower."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Tower.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Tower."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Tower.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Tower."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Tower.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Tower."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Tower.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Tower."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Tower.",
+      "faq": [
+        {
+          "question": "What does The Tower mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Tower."
+        },
+        {
+          "question": "Is The Tower a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Tower."
+        },
+        {
+          "question": "What does The Tower mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Tower."
+        }
+      ]
+    },
+    "the-star": {
+      "status": "placeholder",
+      "name": "The Star",
+      "imageAlt": "The Star tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Star.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Star.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Star.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Star.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Star."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Star.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Star."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Star.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Star."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Star.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Star."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Star.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Star."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Star.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Star."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Star.",
+      "faq": [
+        {
+          "question": "What does The Star mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Star."
+        },
+        {
+          "question": "Is The Star a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Star."
+        },
+        {
+          "question": "What does The Star mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Star."
+        }
+      ]
+    },
+    "the-moon": {
+      "status": "placeholder",
+      "name": "The Moon",
+      "imageAlt": "The Moon tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Moon.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Moon.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Moon.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Moon.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Moon."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Moon.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Moon."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Moon.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Moon."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Moon.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Moon."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Moon.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Moon."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Moon.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Moon."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Moon.",
+      "faq": [
+        {
+          "question": "What does The Moon mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Moon."
+        },
+        {
+          "question": "Is The Moon a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Moon."
+        },
+        {
+          "question": "What does The Moon mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Moon."
+        }
+      ]
+    },
+    "the-sun": {
+      "status": "placeholder",
+      "name": "The Sun",
+      "imageAlt": "The Sun tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The Sun.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The Sun.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The Sun.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The Sun.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The Sun."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The Sun.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The Sun."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The Sun.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The Sun."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The Sun.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The Sun."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The Sun.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The Sun."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The Sun.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The Sun."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The Sun.",
+      "faq": [
+        {
+          "question": "What does The Sun mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Sun."
+        },
+        {
+          "question": "Is The Sun a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Sun."
+        },
+        {
+          "question": "What does The Sun mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The Sun."
+        }
+      ]
+    },
+    "judgement": {
+      "status": "placeholder",
+      "name": "Judgement",
+      "imageAlt": "Judgement tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for Judgement.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for Judgement.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for Judgement.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for Judgement.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for Judgement."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for Judgement.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for Judgement."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for Judgement.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for Judgement."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for Judgement.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for Judgement."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for Judgement.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for Judgement."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for Judgement.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for Judgement."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for Judgement.",
+      "faq": [
+        {
+          "question": "What does Judgement mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for Judgement."
+        },
+        {
+          "question": "Is Judgement a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for Judgement."
+        },
+        {
+          "question": "What does Judgement mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for Judgement."
+        }
+      ]
+    },
+    "the-world": {
+      "status": "placeholder",
+      "name": "The World",
+      "imageAlt": "The World tarot card from the Rider-Waite-Smith deck (placeholder artwork).",
+      "summary": "[PLACEHOLDER] A 40 to 60 word direct answer to \"what does this card mean in tarot\" for The World.",
+      "keywords": {
+        "upright": [
+          "placeholder"
+        ],
+        "reversed": [
+          "placeholder"
+        ]
+      },
+      "upright": "[PLACEHOLDER] Upright meaning for The World.",
+      "reversed": "[PLACEHOLDER] Reversed meaning for The World.",
+      "positions": {
+        "past": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Past meaning for The World.",
+            "long": "[PLACEHOLDER] Long upright Past meaning for The World."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Past meaning for The World.",
+            "long": "[PLACEHOLDER] Long reversed Past meaning for The World."
+          }
+        },
+        "present": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Present meaning for The World.",
+            "long": "[PLACEHOLDER] Long upright Present meaning for The World."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Present meaning for The World.",
+            "long": "[PLACEHOLDER] Long reversed Present meaning for The World."
+          }
+        },
+        "future": {
+          "upright": {
+            "short": "[PLACEHOLDER] Short upright Future meaning for The World.",
+            "long": "[PLACEHOLDER] Long upright Future meaning for The World."
+          },
+          "reversed": {
+            "short": "[PLACEHOLDER] Short reversed Future meaning for The World.",
+            "long": "[PLACEHOLDER] Long reversed Future meaning for The World."
+          }
+        }
+      },
+      "symbolism": "[PLACEHOLDER] Symbolism of the artwork for The World.",
+      "faq": [
+        {
+          "question": "What does The World mean in tarot?",
+          "answer": "[PLACEHOLDER] FAQ answer for The World."
+        },
+        {
+          "question": "Is The World a yes or no card?",
+          "answer": "[PLACEHOLDER] FAQ answer for The World."
+        },
+        {
+          "question": "What does The World mean in a love reading?",
+          "answer": "[PLACEHOLDER] FAQ answer for The World."
+        }
+      ]
+    }
+  }
+}

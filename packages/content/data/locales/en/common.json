@@ -1,0 +1,50 @@
+{
+  "$schema": "../../../schema/common-text.schema.json",
+  "arcana": {
+    "major": {
+      "name": "Major Arcana",
+      "description": "[PLACEHOLDER] The 22 trump cards, numbered 0 to 21, describing major life themes."
+    },
+    "minor": {
+      "name": "Minor Arcana",
+      "description": "[PLACEHOLDER] The 56 suited cards describing everyday events and situations."
+    }
+  },
+  "suits": {
+    "wands": { "name": "Wands", "description": "[PLACEHOLDER] The suit of fire: drive, creativity and ambition." },
+    "cups": { "name": "Cups", "description": "[PLACEHOLDER] The suit of water: emotions, relationships and intuition." },
+    "swords": { "name": "Swords", "description": "[PLACEHOLDER] The suit of air: thought, conflict and truth." },
+    "pentacles": { "name": "Pentacles", "description": "[PLACEHOLDER] The suit of earth: work, money, body and home." }
+  },
+  "ranks": {
+    "ace": "Ace",
+    "two": "Two",
+    "three": "Three",
+    "four": "Four",
+    "five": "Five",
+    "six": "Six",
+    "seven": "Seven",
+    "eight": "Eight",
+    "nine": "Nine",
+    "ten": "Ten",
+    "page": "Page",
+    "knight": "Knight",
+    "queen": "Queen",
+    "king": "King"
+  },
+  "spreads": {
+    "past-present-future": {
+      "name": "Past, Present, Future",
+      "description": "[PLACEHOLDER] A three-card spread showing where a situation came from, where it stands, and where it is heading.",
+      "positions": {
+        "past": { "label": "Past", "description": "[PLACEHOLDER] Influences and events that led to the current situation." },
+        "present": { "label": "Present", "description": "[PLACEHOLDER] The situation as it stands now." },
+        "future": { "label": "Future", "description": "[PLACEHOLDER] The likely direction if things continue as they are." }
+      }
+    }
+  },
+  "orientation": {
+    "upright": "Upright",
+    "reversed": "Reversed"
+  }
+}

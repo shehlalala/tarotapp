@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "common-text.schema.json",
+  "title": "Shared tarot labels for one locale (arcana, suits, ranks, spreads)",
+  "type": "object",
+  "required": ["arcana", "suits", "ranks", "spreads", "orientation"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "arcana": { "type": "object", "required": ["major", "minor"] },
+    "suits": { "type": "object", "required": ["wands", "cups", "swords", "pentacles"] },
+    "ranks": { "type": "object" },
+    "spreads": { "type": "object" },
+    "orientation": { "type": "object", "required": ["upright", "reversed"] }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "spreads": [
+    {
+      "id": "past-present-future",
+      "positions": [{ "id": "past" }, { "id": "present" }, { "id": "future" }]
+    }
+  ]
+}
