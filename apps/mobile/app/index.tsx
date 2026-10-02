@@ -1,9 +1,9 @@
 import { router } from 'expo-router';
-import { useCallback, useMemo, useRef, useState } from 'react';
-import { ScrollView, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { Platform, Pressable, ScrollView, Share, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
 import { useReducedMotion } from 'react-native-reanimated';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { brand } from '@tarot/content';
+import { brand, getCard, getPositionLabel } from '@tarot/content';
 import type { Rect } from '../src/animation/motion';
 import { Deck } from '../src/components/Deck';
 import { FlyingCard } from '../src/components/FlyingCard';
@@ -11,7 +11,10 @@ import { PrimaryButton } from '../src/components/PrimaryButton';
 import { ReadingResult } from '../src/components/ReadingResult';
 import { ShuffleAnimation } from '../src/components/ShuffleAnimation';
 import { SlotRow } from '../src/components/SlotRow';
+import { newReadingId } from '../src/history/model';
+import { saveReading } from '../src/history/storage';
 import { t } from '../src/i18n';
+import { buildShareText } from '../src/reading/shareText';
 import { useReading } from '../src/reading/useReading';
 import { colors, fonts, space } from '../src/theme';
 
@@ -77,6 +80,56 @@ export default function ReadingScreen() {
     setShuffling(true);
   }, [newReading]);
 
+  const handleReveal = useCallback(() => {
+    if (!canReveal) return;
+    reveal();
+    void saveReading({
+      id: newReadingId(new Date()),
+      date: new Date().toISOString(),
+      spreadId: spread.id,
+      cards: spread.positions.map((p, i) => {
+        const id = state.slots[i]!;
+        return { id, position: p.id, orientation: state.orientation[id] ?? 'upright' };
+      }),
+    });
+  }, [canReveal, reveal, spread, state]);
+
+  const [toast, setToast] = useState<string | null>(null);
+  useEffect(() => {
+    if (!toast) return;
+    const timer = setTimeout(() => setToast(null), 3000);
+    return () => clearTimeout(timer);
+  }, [toast]);
+
+  const handleShare = useCallback(() => {
+    const lines = spread.positions.flatMap((p, i) => {
+      const id = state.slots[i];
+      const card = id ? getCard(id) : undefined;
+      if (!id || !card) return [];
+      const orientation = state.orientation[id] ?? 'upright';
+      return [
+        {
+          position: getPositionLabel(p.id),
+          name: card.name,
+          reversedNote: orientation === 'reversed' ? t('share.reversedNote') : null,
+          meaning: card.positions[p.id][orientation].short,
+        },
+      ];
+    });
+    const message = buildShareText(t('share.title'), lines, t('share.footer', { appName: brand.appName, url: brand.siteUrl }));
+    // Browsers without a share sheet (and embedded previews) get a clipboard copy instead.
+    // This must run synchronously inside the tap for the clipboard to accept it.
+    const webNav = typeof navigator === 'undefined' ? undefined : (navigator as Partial<Navigator>);
+    if (Platform.OS === 'web' && webNav && !webNav.share) {
+      webNav.clipboard?.writeText(message).then(
+        () => setToast(t('share.copied')),
+        () => undefined,
+      );
+      return;
+    }
+    Share.share({ message }).catch(() => undefined);
+  }, [spread, state]);
+
   const openDetail = useCallback(
     (index: number) => {
       const id = state.slots[index];
@@ -98,9 +151,22 @@ export default function ReadingScreen() {
   return (
     <View style={styles.root}>
       <SafeAreaView style={styles.screen} edges={['top', 'bottom']}>
-        <Text style={styles.brand} accessibilityRole="header">
-          {brand.appName}
-        </Text>
+        <View style={styles.topBar}>
+          <Pressable onPress={() => router.push('/history')} accessibilityRole="button" hitSlop={10} style={styles.navSide}>
+            <Text style={styles.navLink}>{t('nav.history')}</Text>
+          </Pressable>
+          <Text style={styles.brand} accessibilityRole="header" numberOfLines={1}>
+            {brand.appName}
+          </Text>
+          <Pressable
+            onPress={() => router.push('/about')}
+            accessibilityRole="button"
+            hitSlop={10}
+            style={[styles.navSide, styles.navRight]}
+          >
+            <Text style={styles.navLink}>{t('nav.about')}</Text>
+          </Pressable>
+        </View>
 
         <View style={styles.slots}>
           <SlotRow
@@ -140,12 +206,20 @@ export default function ReadingScreen() {
         )}
 
         <View style={styles.footer}>
+          {toast ? (
+            <Text style={styles.toast} accessibilityLiveRegion="polite">
+              {toast}
+            </Text>
+          ) : null}
           {revealed ? (
-            <PrimaryButton label={t('reading.newReading')} onPress={handleNewReading} />
+            <View style={styles.actions}>
+              <PrimaryButton label={t('share.button')} onPress={handleShare} variant="secondary" />
+              <PrimaryButton label={t('reading.newReading')} onPress={handleNewReading} />
+            </View>
           ) : (
             <PrimaryButton
               label={t('reading.reveal')}
-              onPress={reveal}
+              onPress={handleReveal}
               // Wait for in-flight cards to land so every card flips from its slot.
               disabled={!canReveal || flights.length > 0}
               disabledHint={t('a11y.revealDisabledHint')}
@@ -175,19 +249,25 @@ const styles = StyleSheet.create({
   root: { flex: 1, backgroundColor: colors.bg },
   screen: { flex: 1 },
   flex: { flex: 1 },
+  topBar: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: space.md, marginTop: space.sm },
+  navSide: { width: 72 },
+  navRight: { alignItems: 'flex-end' },
+  navLink: { color: colors.gold, fontSize: 15 },
   brand: {
+    flex: 1,
     color: colors.textMuted,
     fontFamily: fonts.serif,
     fontSize: 15,
     letterSpacing: 3,
     textAlign: 'center',
     textTransform: 'uppercase',
-    marginTop: space.sm,
   },
   slots: { paddingTop: space.lg, paddingHorizontal: space.md },
   deckArea: { justifyContent: 'center' },
   deckSlot: { minHeight: 180, justifyContent: 'center' },
   hint: { color: colors.textMuted, textAlign: 'center', fontSize: 15 },
   result: { padding: space.lg, paddingBottom: space.xl },
-  footer: { paddingHorizontal: space.md, paddingVertical: space.md },
+  footer: { paddingHorizontal: space.md, paddingVertical: space.md, gap: space.sm },
+  actions: { flexDirection: 'row', justifyContent: 'center', gap: space.sm },
+  toast: { color: colors.textMuted, fontSize: 14, textAlign: 'center' },
 });

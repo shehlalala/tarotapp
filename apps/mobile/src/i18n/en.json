@@ -27,5 +27,35 @@
     "keywords": "Keywords",
     "symbolism": "Symbolism",
     "notFound": "Card not found"
+  },
+  "nav": {
+    "history": "History",
+    "about": "About",
+    "back": "Back"
+  },
+  "share": {
+    "button": "Share Reading",
+    "title": "My Past, Present, Future tarot reading",
+    "footer": "Drawn with {{appName}} · {{url}}",
+    "reversedNote": "reversed",
+    "copied": "Reading copied. Paste it anywhere to share."
+  },
+  "history": {
+    "title": "Your readings",
+    "empty": "Readings you reveal are saved here, on this device only.",
+    "clear": "Clear history",
+    "clearConfirm": "Tap again to delete all readings",
+    "count": "{{count}} saved"
+  },
+  "about": {
+    "title": "About",
+    "entertainmentTitle": "For entertainment purposes only",
+    "entertainment": "Tarot readings are a tool for reflection, not a prediction of the future. Don't use them in place of medical, legal, financial or psychological advice.",
+    "privacyTitle": "Your privacy",
+    "privacy": "No account, no tracking, no analytics. Your readings never leave this device. You can delete them any time from History.",
+    "privacyLink": "Read the privacy policy",
+    "deckTitle": "The deck",
+    "deck": "78 cards: the 22 Major Arcana and the 56 Minor Arcana in four suits. Card artwork is the original 1909 Rider-Waite-Smith deck, which is in the public domain.",
+    "version": "Version {{version}}"
   }
 }

@@ -9,6 +9,8 @@ export default function RootLayout() {
       <StatusBar style="light" />
       <Stack screenOptions={{ headerShown: false, contentStyle: { backgroundColor: colors.bg } }}>
         <Stack.Screen name="index" />
+        <Stack.Screen name="history" />
+        <Stack.Screen name="about" />
         <Stack.Screen name="card/[id]" options={{ presentation: 'modal' }} />
       </Stack>
     </SafeAreaProvider>
