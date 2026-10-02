@@ -18,6 +18,10 @@ const config: ExpoConfig = {
   android: {
     package: brand.androidPackage,
   },
+  web: {
+    output: 'single',
+    bundler: 'metro',
+  },
   plugins: ['expo-router'],
   experiments: {
     typedRoutes: true,

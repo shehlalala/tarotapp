@@ -10,3 +10,4 @@ web-build/
 npm-debug.log*
 pnpm-debug.log*
 expo-env.d.ts
+dist-preview/

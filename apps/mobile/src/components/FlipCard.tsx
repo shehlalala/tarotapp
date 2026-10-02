@@ -72,5 +72,5 @@ export function FlipCard({ width, height, flipped, delay, reducedMotion, back, f
 }
 
 const styles = StyleSheet.create({
-  side: { ...StyleSheet.absoluteFillObject, backfaceVisibility: 'hidden' },
+  side: { ...StyleSheet.absoluteFill, backfaceVisibility: 'hidden' },
 });

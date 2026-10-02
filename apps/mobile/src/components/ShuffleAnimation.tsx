@@ -82,5 +82,5 @@ function useRiffleStyle(progress: SharedValue<number>, side: number, index: numb
 }
 
 const styles = StyleSheet.create({
-  container: { ...StyleSheet.absoluteFillObject, alignItems: 'center', justifyContent: 'center' },
+  container: { ...StyleSheet.absoluteFill, alignItems: 'center', justifyContent: 'center' },
 });

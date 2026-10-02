@@ -9,7 +9,8 @@
     "validate": "pnpm --filter @tarot/content validate",
     "typecheck": "pnpm -r typecheck",
     "test": "pnpm -r test",
-    "mobile": "pnpm --filter @tarot/mobile start"
+    "mobile": "pnpm --filter @tarot/mobile start",
+    "preview:build": "node apps/mobile/scripts/build-preview.mjs"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
