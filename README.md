@@ -27,29 +27,29 @@ pnpm test
 
 ## Card art
 
-- **Major Arcana:** original illustrations made for this project from each archetype's traditional
-  symbols. The SVG sources are in `packages/content/images/major/` and
-  `packages/content/scripts/art/archetypes.ts`. Re-render them with
-  `pnpm --filter @tarot/content render-art`.
-- **Minor Arcana:** typographic placeholder faces for now.
-- **1909 Rider-Waite-Smith scans:** `pnpm fetch-art` downloads the public-domain scans from
-  Wikimedia Commons (you need internet access to Commons). It replaces any art it fetches.
+All 78 cards use the Rider-Waite-Smith deck, illustrated by Pamela Colman Smith (1909). The images
+were imported from the npm package `@cometpisces/tarot-kit-images` with
+`pnpm --filter @tarot/content import-art`. **Read `packages/content/images/SOURCES.md` before
+release:** it isn't confirmed which printing these were scanned from.
 
-Image packages on npm labelled "Rider-Waite" were checked and not used. They carry the 1971
-U.S. Games recolouring, which is copyrighted.
+To swap in verified scans of an original 1909–1910 printing from Wikimedia Commons, run
+`pnpm fetch-art --force`. It needs network access to Commons.
+
+The project's own Major Arcana illustrations are kept as source in
+`packages/content/scripts/art/` and are not used in the app.
 
 ## Principles
 
 - No accounts, no backend, no analytics, no tracking. All app data stays on the device.
 - All card text lives in `packages/content`. Neither app hard-codes card names or meanings.
-- Card art is limited to the 1909 Rider-Waite-Smith illustrations (public domain) or original art.
+- Card art: the Rider-Waite-Smith deck (see the provenance notes in `packages/content/images/SOURCES.md`).
 
 ## Status
 
 **MVP (done):**
 - Reading flow: shuffle, pick three cards, staggered 3D flip on reveal, random reversals.
 - Card detail view, reading history kept on the device, About screen, and text sharing.
-- Major Arcana artwork and a web preview build.
+- Rider-Waite-Smith images on all 78 cards, and a web preview build.
 - Drafted text for all 78 cards (status `draft`, awaiting your review): summary, keywords,
   upright and reversed meanings, and Past/Present/Future meanings for both orientations.
 
@@ -58,6 +58,6 @@ U.S. Games recolouring, which is copyrighted.
   data, and a privacy policy.
 - Web-only content: long position meanings, symbolism and FAQ (`pnpm validate --strict` lists
   what is missing).
-- A designed share image (the MVP shares text), and Minor Arcana artwork.
+- A designed share image (the MVP shares text).
 - An i18n library swap. Strings are already in `apps/mobile/src/i18n/en.json`.
 - EAS Build configuration and the App Store pre-submission checklist.

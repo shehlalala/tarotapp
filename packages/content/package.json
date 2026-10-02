@@ -16,7 +16,8 @@
     "placeholders": "node scripts/generate-placeholders.ts",
     "typecheck": "tsc --noEmit -p .",
     "fetch-art": "node scripts/fetch-art.ts",
-    "render-art": "node scripts/render-art.ts"
+    "render-art": "node scripts/render-art.ts",
+    "import-art": "node scripts/import-art.ts"
   },
   "devDependencies": {
     "sharp": "^0.35.5"
