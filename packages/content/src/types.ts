@@ -165,6 +165,8 @@ export interface Brand {
   androidPackage: string;
   appStoreId: string | null;
   appStoreUrl: string | null;
+  /** EAS project id, written by `eas init` (see docs/APP_STORE.md). */
+  easProjectId: string | null;
   developerName: string;
   contactEmail: string;
   defaultLocale: Locale;

@@ -10,6 +10,7 @@
   "androidPackage": "com.example.tarot",
   "appStoreId": null,
   "appStoreUrl": null,
+  "easProjectId": null,
   "developerName": "[DEVELOPER_NAME]",
   "contactEmail": "[CONTACT_EMAIL]",
   "defaultLocale": "en",
