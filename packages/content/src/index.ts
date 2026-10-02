@@ -18,6 +18,7 @@ import { cardImages } from './images.generated.ts';
 import type {
   Brand,
   Card,
+  CardImage,
   CardFacts,
   CardGroup,
   CardText,
@@ -141,9 +142,9 @@ export function isPublishable(card: Pick<CardText, 'status'>): boolean {
 }
 
 /**
- * Bundled artwork for a card (a Metro/React Native image module), or undefined
- * while art has not been fetched yet; callers then draw placeholder art.
+ * Bundled image for a card, or undefined when the card has none yet (callers
+ * then draw a typographic placeholder).
  */
-export function getCardImage(id: string): number | undefined {
+export function getCardImage(id: string): CardImage | undefined {
   return cardImages[id];
 }

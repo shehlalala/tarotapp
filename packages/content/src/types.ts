@@ -173,3 +173,14 @@ export interface Brand {
   locales: Locale[];
   plannedLocales: Locale[];
 }
+
+/**
+ * A bundled card image.
+ *  - scan:     a full printed card (e.g. the 1909 Rider-Waite-Smith deck) with its own title
+ *  - original: project artwork that leaves plain bands for the app to draw the numeral and name
+ */
+export interface CardImage {
+  /** Metro / React Native image module. */
+  source: number;
+  kind: 'scan' | 'original';
+}

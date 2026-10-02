@@ -13,14 +13,29 @@ export function CardFace({ card, width, orientation }: { card: Card; width: numb
   const top = card.arcana === 'major' ? ROMAN[card.number] : common.suits[card.suit!].name;
   const bottom = card.arcana === 'major' ? common.arcana.major.name : common.ranks[card.rank!];
 
-  if (image !== undefined) {
-    // Artwork leaves a plain band at the top and bottom (1/8 of the height each);
-    // the numeral and the localized name are drawn there as text.
+  if (image?.kind === 'scan') {
+    // A printed card: it carries its own numeral and title, so show it as is.
+    return (
+      <View style={[styles.artCard, { width, height }, orientation === 'reversed' && styles.reversed]}>
+        <Image
+          source={image.source}
+          style={styles.art}
+          resizeMode="cover"
+          accessibilityLabel={card.imageAlt}
+          accessibilityIgnoresInvertColors
+        />
+      </View>
+    );
+  }
+
+  if (image) {
+    // Original artwork leaves a plain band at the top and bottom (1/8 of the height
+    // each); the numeral and the localized name are drawn there as text.
     const band = height * (130 / 1036);
     return (
       <View style={[styles.artCard, { width, height }, orientation === 'reversed' && styles.reversed]}>
         <Image
-          source={image}
+          source={image.source}
           style={styles.art}
           resizeMode="cover"
           accessibilityLabel={card.imageAlt}

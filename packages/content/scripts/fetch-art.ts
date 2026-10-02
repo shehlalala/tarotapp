@@ -9,7 +9,7 @@
  * Needs internet access to commons.wikimedia.org and upload.wikimedia.org.
  * Run it once on your own machine and commit packages/content/images.
  */
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
@@ -110,6 +110,8 @@ for (const card of cards) {
     const input = Buffer.from(await res.arrayBuffer());
     mkdirSync(dirname(out), { recursive: true });
     await sharp(input).resize({ width: WIDTH }).webp({ quality: 82 }).toFile(out);
+    // The scan replaces any original artwork for this card (its SVG source stays in scripts/art).
+    rmSync(join(imagesDir, `${card.image}.svg`), { force: true });
     sources.push(`| ${card.id} | ${info.title} | ${info.pageUrl} | ${info.license} |`);
     console.log(`✓ ${card.id} ← ${info.title}`);
   } catch (e) {

@@ -5,10 +5,10 @@
  *   pnpm --filter @tarot/content render-art            # render all 22
  *   pnpm --filter @tarot/content render-art -- --sheet <out.png>   # also write a contact sheet
  *
- * Re-running overwrites the major arcana images, including any scans placed by
- * fetch-art. Run fetch-art afterwards if you prefer the 1909 scans.
+ * Cards that already have a downloaded scan (from fetch-art) are skipped unless
+ * --force is passed.
  */
-import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
@@ -23,10 +23,16 @@ const majors = cards.filter((c) => c.arcana === 'major');
 const missing = majors.filter((c) => !ARCHETYPES[c.id]).map((c) => c.id);
 if (missing.length) throw new Error(`no artwork for: ${missing.join(', ')}`);
 
+const force = process.argv.includes('--force');
 const rendered: Buffer[] = [];
 for (const card of majors) {
   const svg = cardSvg(card.id);
   const out = join(root, 'images', `${card.image}.webp`);
+  const isScan = existsSync(out) && !existsSync(join(root, 'images', `${card.image}.svg`));
+  if (isScan && !force) {
+    console.log(`skip ${card.id}: has a downloaded scan (use --force to replace it with original art)`);
+    continue;
+  }
   mkdirSync(dirname(out), { recursive: true });
   writeFileSync(join(root, 'images', `${card.image}.svg`), svg);
   const png = await sharp(Buffer.from(svg)).png().toBuffer();
