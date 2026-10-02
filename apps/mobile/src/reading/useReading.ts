@@ -1,6 +1,6 @@
-import { useCallback, useMemo, useReducer } from 'react';
+import { useCallback, useMemo, useReducer, useRef } from 'react';
 import { getCardIds, getSpread } from '@tarot/content';
-import { canReveal, createReading, filledCount, readingReducer } from './reducer';
+import { canReveal, createReading, filledCount, readingReducer, type ReadingAction, type ReadingState } from './reducer';
 
 const SPREAD_ID = 'past-present-future';
 
@@ -11,14 +11,28 @@ export function useReading() {
   const init = useCallback(() => createReading(getCardIds(), spread.positions.length), [spread]);
   const [state, dispatch] = useReducer(readingReducer, undefined, init);
 
+  // Mirror of the reducer state, updated synchronously on every action, so
+  // `pick` can report which slot a card landed in even when several taps
+  // arrive before React re-renders (needed to aim the fly-to-slot animation).
+  const latest = useRef<ReadingState>(state);
+  const send = useCallback((action: ReadingAction) => {
+    latest.current = readingReducer(latest.current, action);
+    dispatch(action);
+  }, []);
+
   const actions = useMemo(
     () => ({
-      pick: (id: string) => dispatch({ type: 'pick', id }),
-      unslot: (index: number) => dispatch({ type: 'unslot', index }),
-      reveal: () => dispatch({ type: 'reveal' }),
-      newReading: () => dispatch({ type: 'reset', state: init() }),
+      /** Returns the slot index the card went into, or -1 if the pick was ignored. */
+      pick: (id: string): number => {
+        const before = latest.current;
+        send({ type: 'pick', id });
+        return before === latest.current ? -1 : latest.current.slots.indexOf(id);
+      },
+      unslot: (index: number) => send({ type: 'unslot', index }),
+      reveal: () => send({ type: 'reveal' }),
+      newReading: () => send({ type: 'reset', state: init() }),
     }),
-    [init],
+    [init, send],
   );
 
   return {

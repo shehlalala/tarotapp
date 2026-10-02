@@ -32,7 +32,7 @@ pnpm typecheck
 
 1. ✅ Monorepo, shared content package, types, card schema, placeholder data for all 78 cards
 2. ✅ Mobile: card selection flow, slots, Reveal button logic
-3. ⬜ Mobile: shuffle and flip animations, detail view, New Reading
+3. ✅ Mobile: shuffle and flip animations, detail view, New Reading
 4. ⬜ Mobile: reading history, share image, About screen, i18n
 5. ⬜ Web: Astro setup, layout, homepage, robots.txt, sitemap, llms.txt, structured data
 6. ⬜ Web: 78 card pages and guides

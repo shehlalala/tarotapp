@@ -1,5 +1,6 @@
 {
   "reading": {
+    "shuffling": "Shuffling…",
     "hintChoose": "Choose three cards",
     "hintProgress": "{{count}} of {{total}} chosen",
     "hintReady": "Your cards are ready",
@@ -15,6 +16,16 @@
     "slotFilled": "{{position}} slot, face-down card",
     "slotFilledHint": "Returns this card to the deck",
     "slotRevealed": "{{position}}: {{name}}, {{orientation}}",
-    "revealDisabledHint": "Choose three cards first"
+    "revealDisabledHint": "Choose three cards first",
+    "slotRevealedHint": "Opens the full meaning",
+    "resultHint": "Opens the full meaning"
+  },
+  "detail": {
+    "close": "Close",
+    "inPosition": "In the {{position}} position",
+    "generalMeaning": "{{orientation}} meaning",
+    "keywords": "Keywords",
+    "symbolism": "Symbolism",
+    "notFound": "Card not found"
   }
 }
