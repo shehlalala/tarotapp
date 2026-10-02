@@ -28,7 +28,22 @@ try {
   const bundles = readdirSync(jsDir).filter((f) => f.endsWith('.js'));
   if (bundles.length !== 1) throw new Error(`expected one web bundle, found ${bundles.length}`);
   // Escape "</script" so the bundle cannot close its own <script> tag early.
-  const js = readFileSync(join(jsDir, bundles[0]), 'utf8').replace(/<\/script/gi, '<\\/script');
+  let js = readFileSync(join(jsDir, bundles[0]), 'utf8').replace(/<\/script/gi, '<\\/script');
+
+  // Inline card artwork (from packages/content/images) as data URIs so the single
+  // file needs no asset server. Other exported assets are unused by the app.
+  const MIME = { webp: 'image/webp', png: 'image/png', jpg: 'image/jpeg' };
+  let inlined = 0;
+  js = js.replace(/uri:"(\/assets\/__packages\/content\/images\/[^"]+\.(webp|png|jpg))"/g, (match, path, ext) => {
+    try {
+      const data = readFileSync(join(exportDir, path)).toString('base64');
+      inlined++;
+      return `uri:"data:${MIME[ext]};base64,${data}"`;
+    } catch {
+      return match;
+    }
+  });
+  if (inlined) console.log(`Inlined ${inlined} card images.`);
 
   let html = readFileSync(join(exportDir, 'index.html'), 'utf8');
   html = html.replace(/<script src="[^"]+" defer><\/script>/, '');

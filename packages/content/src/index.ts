@@ -14,6 +14,7 @@ import enWands from '../data/locales/en/wands.json';
 import enCups from '../data/locales/en/cups.json';
 import enSwords from '../data/locales/en/swords.json';
 import enPentacles from '../data/locales/en/pentacles.json';
+import { cardImages } from './images.generated.ts';
 import type {
   Brand,
   Card,
@@ -137,4 +138,12 @@ export function getRelatedCards(id: string, locale: Locale = brand.defaultLocale
 /** True when text is safe to publish (not scaffold text). */
 export function isPublishable(card: Pick<CardText, 'status'>): boolean {
   return card.status !== 'placeholder';
+}
+
+/**
+ * Bundled artwork for a card (a Metro/React Native image module), or undefined
+ * while art has not been fetched yet; callers then draw placeholder art.
+ */
+export function getCardImage(id: string): number | undefined {
+  return cardImages[id];
 }

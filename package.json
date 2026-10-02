@@ -10,7 +10,8 @@
     "typecheck": "pnpm -r typecheck",
     "test": "pnpm -r test",
     "mobile": "pnpm --filter @tarot/mobile start",
-    "preview:build": "node apps/mobile/scripts/build-preview.mjs"
+    "preview:build": "node apps/mobile/scripts/build-preview.mjs",
+    "fetch-art": "pnpm --filter @tarot/content fetch-art"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",

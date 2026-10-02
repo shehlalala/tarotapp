@@ -213,8 +213,8 @@ export default function ReadingScreen() {
           ) : null}
           {revealed ? (
             <View style={styles.actions}>
-              <PrimaryButton label={t('share.button')} onPress={handleShare} variant="secondary" />
-              <PrimaryButton label={t('reading.newReading')} onPress={handleNewReading} />
+              <PrimaryButton label={t('share.button')} onPress={handleShare} variant="secondary" grow />
+              <PrimaryButton label={t('reading.newReading')} onPress={handleNewReading} grow />
             </View>
           ) : (
             <PrimaryButton
@@ -268,6 +268,6 @@ const styles = StyleSheet.create({
   hint: { color: colors.textMuted, textAlign: 'center', fontSize: 15 },
   result: { padding: space.lg, paddingBottom: space.xl },
   footer: { paddingHorizontal: space.md, paddingVertical: space.md, gap: space.sm },
-  actions: { flexDirection: 'row', justifyContent: 'center', gap: space.sm },
+  actions: { flexDirection: 'row', gap: space.sm, width: '100%', maxWidth: 480, alignSelf: 'center' },
   toast: { color: colors.textMuted, fontSize: 14, textAlign: 'center' },
 });
