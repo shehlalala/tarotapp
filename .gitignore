@@ -9,3 +9,4 @@ web-build/
 !.env.example
 npm-debug.log*
 pnpm-debug.log*
+expo-env.d.ts

@@ -1,0 +1,20 @@
+{
+  "reading": {
+    "hintChoose": "Choose three cards",
+    "hintProgress": "{{count}} of {{total}} chosen",
+    "hintReady": "Your cards are ready",
+    "reveal": "Reveal Cards",
+    "newReading": "New Reading",
+    "reversed": "Reversed",
+    "upright": "Upright"
+  },
+  "a11y": {
+    "deckCard": "Face-down card {{n}} of {{total}}",
+    "deckCardHint": "Places this card in the next empty slot",
+    "slotEmpty": "{{position}} slot, empty",
+    "slotFilled": "{{position}} slot, face-down card",
+    "slotFilledHint": "Returns this card to the deck",
+    "slotRevealed": "{{position}}: {{name}}, {{orientation}}",
+    "revealDisabledHint": "Choose three cards first"
+  }
+}

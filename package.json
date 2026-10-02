@@ -7,7 +7,9 @@
   },
   "scripts": {
     "validate": "pnpm --filter @tarot/content validate",
-    "typecheck": "pnpm -r typecheck"
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test",
+    "mobile": "pnpm --filter @tarot/mobile start"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",

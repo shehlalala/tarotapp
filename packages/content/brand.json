@@ -1,6 +1,8 @@
 {
   "$comment": "The ONE place to configure app/brand identity. Both apps/mobile and apps/web read from here.",
   "appName": "[APP_NAME]",
+  "slug": "tarot-app",
+  "urlScheme": "tarotapp",
   "tagline": "A free tarot app for three-card Past, Present, Future readings. No account needed.",
   "domain": "[DOMAIN]",
   "siteUrl": "https://[DOMAIN]",
@@ -11,6 +13,12 @@
   "developerName": "[DEVELOPER_NAME]",
   "contactEmail": "[CONTACT_EMAIL]",
   "defaultLocale": "en",
-  "locales": ["en"],
-  "plannedLocales": ["az", "tr", "ru"]
+  "locales": [
+    "en"
+  ],
+  "plannedLocales": [
+    "az",
+    "tr",
+    "ru"
+  ]
 }

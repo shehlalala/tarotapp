@@ -153,6 +153,10 @@ export interface CommonTextFile {
 
 export interface Brand {
   appName: string;
+  /** URL-safe identifier (Expo slug, EAS project). Lowercase-hyphenated. */
+  slug: string;
+  /** Custom URL scheme for deep links, e.g. tarotapp://reading */
+  urlScheme: string;
   tagline: string;
   domain: string;
   siteUrl: string;
